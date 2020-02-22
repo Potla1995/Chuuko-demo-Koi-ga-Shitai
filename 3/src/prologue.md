@@ -1,3 +1,5 @@
+# Prologue
+
 A strange premonition suddenly shook my consciousness out of a doze.
 
 As if waking up from a nightmare, I forcefully raise my upper half.
@@ -168,9 +170,12 @@ Ayame appealed to me while concealing her mouth with her ladle, showing a lack o
 
 Where have I seen this scene before?
 
+![Ayame-appeal](./img/P009.jpg)
+
 This... is she trying to mimic some eroge sprite?
 No, that's not it.
 This composition was that of a special CG.
+
 _TL Note:_ エロゲのスチル vs 特典イラスト
 
 "OK OK, Seiichi. Quickly change and come downstairs. The plates are already set up."
