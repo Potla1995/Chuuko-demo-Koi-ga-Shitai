@@ -11,7 +11,7 @@ script:
 deploy:
     local_dir: /home/$USER/book
     provider: pages
-    clean_up: false
+    skip_cleaup: true
     github_token: $GIT_TOKEN
     keep_history: false
     committer_from_gh: true
