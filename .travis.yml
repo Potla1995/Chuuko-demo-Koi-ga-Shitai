@@ -8,7 +8,7 @@ script:
     - rm -rf mdbook*
 
 deploy:
-    local_dir: /home/$USER/3/book
+    local_dir: /home/$USER/book
     provider: pages
     skip_cleanup: false
     github_token: $GIT_TOKEN
