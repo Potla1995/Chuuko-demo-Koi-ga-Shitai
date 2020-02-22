@@ -5,11 +5,10 @@ script:
     - tar -xzf mdbook-v0.3.0-x86_64-unknown-linux-gnu.tar.gz
     - mkdir 3/book/
     - ./mdbook build 3/
-    - mv 3/book 3/
     - rm -rf mdbook*
 
 deploy:
-    local_dir: /home/$USER/book
+    local_dir: /home/$USER/3/book
     provider: pages
     skip_cleanup: false
     github_token: $GIT_TOKEN
