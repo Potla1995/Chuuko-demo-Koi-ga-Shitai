@@ -172,11 +172,9 @@ Where have I seen this scene before?
 
 ![Ayame-appeal](./img/P009.jpg)
 
-This... is she trying to mimic some eroge sprite?
+This... is she trying to mimic some <span title = "エロゲのスチル">eroge sprite</span>?
 No, that's not it.
-This composition was that of a special CG.
-
-_TL Note:_ エロゲのスチル vs 特典イラスト
+This composition was that of a <span title = "特典イラスト">special CG</span>.
 
 "OK OK, Seiichi. Quickly change and come downstairs. The plates are already set up."
 
@@ -244,8 +242,5 @@ It was also troubling that the breakfast was tastier than usual.
 
 This was probably how Toyotomi Hideyori felt while filling up the outer ring of motes around his castle. 
 
-_TL Note:_ check out https://www.britannica.com/biography/Toyotomi-Hideyori.
-Quoting directly,
-"Early in 1615 Ieyasu arranged a truce.
-The terms, to which Hideyori agreed, allowed the outer ring of moats protecting the castle to be filled in and the outer perimeter of barricades to be torn down.
-A few months later, Ieyasu attacked the defenseless castle, and the desperate Hideyori and his family committed suicide."
+_TL Note:_ check out [this article on britannica](https://www.britannica.com/biography/Toyotomi-Hideyori).
+<span title = "Early in 1615 Ieyasu arranged a truce. The terms, to which Hideyori agreed, allowed the outer ring of moats protecting the castle to be filled in and the outer perimeter of barricades to be torn down. A few months later, Ieyasu attacked the defenseless castle, and the desperate Hideyori and his family committed suicide.">Here is the important part.</span>
