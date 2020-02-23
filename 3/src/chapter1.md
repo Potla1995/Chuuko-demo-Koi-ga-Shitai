@@ -86,7 +86,7 @@ She then headed towards her desk with light footsteps.
 
 Well, it's all good if Ayame is happy.
 
-
+&nbsp;
 
 The fourth period ended, and the sun was about to ascend to the highest point.
 
@@ -469,7 +469,7 @@ Well, I also agreed on the fact. It was really impossible to understand.
 
 The bell rang as we were talking, signaling the start of the languid afternoon lessons.
 
-
+&nbsp;
 
 "Well then, that's all from my end. Class Rep, if you please-"
 
