@@ -54,6 +54,15 @@ footer {
         width: 33%;
         margin-left: 10px;
     }
+    .embed-responsive2 {
+        position: relative;
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        padding-top: 100%;
+        transform:translateY(-45px)
+    }
 }
 
 
@@ -89,8 +98,24 @@ footer {
         padding-right: 40px;
         padding-left: 40px;
     }
+    .embed-responsive2 {
+        position: relative;
+        display: block;
+        margin: 0 auto;
+        height: 100%;
+		width: 100%;
+        padding-top: 100%;
+    }
 }
 
 .main .page-header {
     margin-top: 0;
+}
+
+.embed-responsive2 iframe {
+    position: absolute;
+    top: 0;
+    left: 5%;
+    width: 90%;
+    height: 100%;
 }

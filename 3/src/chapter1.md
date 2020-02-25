@@ -607,7 +607,7 @@ Well, I understood why Tozaki was hesitating to talk about it.
 "Well, to some degree...
 It started propagating very fast when I noticed."
 
-"SMH. IS that all you had to talk about?"
+"SMH. Is that all you had to talk about?"
 
 If it was just about that, he probably didn't have to bother about it that much.
 
