@@ -22,7 +22,7 @@ _TL Note:_ "Wareware wa Uchuujin da" or "We are aliens" gig is when you keep an 
 
 "Wish the season to turn on the AC comes fast."
 
-"Wait, where did you even go while skipping classes during our first your?
+"Wait, where did you even go while skipping classes during our first year?
 Wasn't it hot everywhere?"
 
 "I'd mostly be in the infirmary.
@@ -100,7 +100,7 @@ Although it was already monsoon, there was little rainfall this year.
 
 "Ah-☆ Tasty~"
 
-A nonchalant voice entered the ears.
+A nonchalant voice entered our ears.
 
 The source was Suwama Ibu, who was holding a vibrant lunch box with a happy expression.
 
@@ -121,7 +121,7 @@ Beside him, Hatsushiba Yuuka had a sour look on her face.
 Her displeasure was apparent.
 Tozaki who was sitting beside was making a painful face, as if unable to bear her curt tone.
 
-"Suwama, you also seem very happy while eating."
+"Suwama, you seem very happy while eating."
 
 Ayame, lined up next to Hatsushiba, was likewise eating her lunch.
 
@@ -475,3 +475,225 @@ The bell rang as we were talking, signaling the start of the languid afternoon l
 
 With the sugary voice of Oohara-sensei, the homeroom ended with Class Rep's "stand up - bow".
 Today's classes were now over.
+
+The class was wrapped up in hustle and bustle as always. "Where do you wanna go today?", "Let's go to the club!", "I'll be late to cram school if I don't hurry" etc - everyone had different goals.
+
+"Let's also go to our room."
+
+"Yep!" "Ya~"
+
+Hatsushiba and Ibu replied to Ayame.
+
+Then, the three girls glanced at our direction.
+
+"Yeah, yeah. Tozaki is also coming, right?"
+
+"......"
+
+Although I asked him so, Tozaki didn't reply, making a difficult face.
+
+This guy must be holding back from saying something.
+
+"Oi, Tozaki?"
+
+"Ah, Ahh. My bad. Club, right? Let's go."
+
+Well, we could leave it for later. Either way he'll speak up sooner or later.
+
+We left the classroom together, as usual. None of us had cleaning duties today as well.
+
+There was nothing in particular to do, but let's go to the club and spend time in peace.
+Maybe I could play some eroge after a long time.
+It would help heal my heart from the fuss during lunchtime.
+
+"Ayame-cchi! What should we play today~"
+
+"It's hot, don't stick to me!"
+
+While walking down the hallway, Ayame and Ibu were frolicking around as usual, walking in front of Tozaki and me.
+Hatsushiba voiced her complaints from beside us.
+It was that type of a scene.
+
+Recently, this had become the norm.
+
+"... Hey Aramiya, you got a moment?"
+
+Tozaki called me as if he wanted to say something, when we left the school building for a moment.
+
+He brought it up unexpectedly early.
+
+"Yeah sure. You have something to talk about?"
+
+Tozaki nodded, and glanced at the girls meaningfully.
+
+I could take a guess.
+
+"... Ah. Could you three go ahead first?"
+
+"'Sup sup, going to the bathroom together~?"
+
+"Whatever, go ahead before us. Also, girls shouldn't say that sort of stuff."
+
+"Hey, Suwama. Let's go already."
+
+"Yea~"
+
+Ayame took Ibu to the wing where the literature club assembled.
+Hatsushiba also followed, with a curious expression on her face.
+
+Tozaki and I went over to a place where there were no people around. Tozaki had an awkward expression.
+
+"... So, what's up?
+I get the feeling that most of the time it's troublesome when you call me to talk."
+
+"Well, yeah.
+It's pretty troublesome.
+No, this time I don't have a lot of information... but something curious happened."
+
+Tozaki was scratching his head, as if apologizing for whatever he was about to say being too gloomy.
+
+"Is it that again?"
+
+"Yeah, it's that again. Rumors about Ayame are stirring up again."
+
+"What is it this time?
+Something like Ayame is an assassin or an amazoness?"
+
+_TL Note:_ amazon = a big, strong, warrior-like woman, someone who reminds you of the mythical Greek women-warriors, the Amazons. I think in Japanese a woman amazon is made into an "amazoness", but it's not an english word, amazons are women by default.
+
+No, but he did say it's not something too worrysome...
+
+Prompted on by me, Tozaki conflictedly spoke up.
+
+&nbsp;
+
+"Ayame and Ibu are a yuri couple..."
+
+&nbsp;
+
+<span title = "Lily">Yuri</span>.
+The perennial flower that resembles a trumpet, gives off a sweet fragrance that can choke you if you sniffed at it.
+They come in a variety of colours such as white, yellow, red, or pink.
+Personally, I liked white lily the best.
+
+However, for otakus, 『yuri』 was a metaphor for something entirely different.
+
+"By yuri... do they mean girls loving each other?
+Like in 『Hitohane』?"
+
+"Yeah, that type.
+If you ask me though, I like 『Raspberry Panic』 more."
+
+The anime that gave birth to the phrase "Kimashitawaa". It was also made into a game, if I remember correctly.
+
+_TL Note:_ I think Hitohane is referring to 2015 eroge called [Kimihane: Kanojo to Kanojo no Koi Suru Ikkagetsu](https://vndb.org/v16377), Raspberry panic to [Strawberry Panic](https://vndb.org/v965).
+
+_TL Note:_ Okay now what is "Kimashitawaa"? You can read a pretty descriptive explanation [here](https://dic.pixiv.net/a/%EF%BD%B7%EF%BE%8F%EF%BD%BC%EF%BE%80%EF%BE%9C%EF%BD%B0). Basically "Kimashitawaa" was used by [Suzumi Tamao](https://vndb.org/c26899) in only a scene, as a substitute for "Kitaaa"/"KTKR" which means "It's here!"/"It came!" in english. Well, apparently it's now a slang that can be used when you find out that one of your woman friends is in love with another woman (or a trap). Kinda like a substitute for ["Ara^~"](https://dic.pixiv.net/a/%E3%81%82%E3%82%89%5E%E3%80%9C) (when two girls do kyakya-uwauwa). Research it more on your own if interested. xD
+
+"Why such a rumor again..."
+
+"Probably because the two flirt with each other a lot?"
+
+"But don't other girls also frolic around to a similar degree?"
+
+"That's why I was curious about it."
+
+Only a sigh could come out.
+
+Well, I understood why Tozaki was hesitating to talk about it.
+
+"Has it spread a lot?"
+
+"Well, to some degree...
+It started propagating very fast when I noticed."
+
+"SMH. IS that all you had to talk about?"
+
+If it was just about that, he probably didn't have to bother about it that much.
+
+At least it didn't worsen Ayame's reputation.
+
+"It's only that much... but is it really OK?"
+
+"This time should be fine, right?
+It'll probably calm down very soon.
+Plus, it's not something that portrays Ayame as a scary person."
+
+"Previously there was a rumor about her eating up boys and girls regardless of gender, remember?"
+
+"But, if it's yuri, then it's not that much of a minus point."
+
+"I feel like that only applies to otakus though..."
+
+"... Well, anyhow.
+It's a problem between those two; we can't really do anything about it.
+We can ignore it since there's no real harm.
+I guess we could ban her from being pushed by Ibu's flirting, but that's pretty much it."
+
+We headed towards the clubroom as Tozaki looked like he was convinced for now.
+After all, Hatsushiba could become scary if we didn't return as soon as possible.
+
+Still, what club are we again?
+Well, there was no mistake in saying that it was a gathering to exterminate rumors about Ayame though...
+
+We headed towards the clubroom after finishing our discussion.
+
+"C-Can I have a moment?"
+
+Just as we were about to enter the clubroom, an unfamiliar boy spoke to us.
+
+Somewhat gloomy, it felt like he was more like one of us, than not.
+However, he wasn't an otaku; he didn't give off such a vibe.
+
+Tozaki was shaking his head.
+If they weren't acquaintances, just who was this guy?
+
+"... Me?"
+
+"Yeah, I have something to ask you..."
+
+He was making an embarrassed face.
+
+It seemed like he was about to confess or something. No no no, stop it please...
+
+After a few seconds, he spoke up as if he had straightened his resolve.
+With an expression resembling that of a samurai about to challenge a once-in-a-lifetime battle,
+
+&nbsp;
+
+"Is it true that Ayame and Suwama are gay for each other?"
+
+&nbsp;
+
+It was an astonishingly idiotic question.
+
+It was sad that there were people who believed in the rumor we were talking about earlier.
+
+"Nope, not at all. Where the heck did you hear that from?"
+
+"N-no, people were talking about it, so..."
+
+"What people?"
+
+"P-people as in, my classmates and such..."
+
+Apparently he's from our neighboring class.
+Probably they had seen the two during the joint PE classes.
+If they were frolicking around during the girls' PE classes, then it may have permeated from them to the boys...
+
+"It's totally a groundless rumor. Anyway, what's wrong if they were gay for each other?"
+
+"Umm, n-no, it's nothing. Sorry about that!"
+
+The guy sped away.
+
+"Just what was that about?"
+
+Tozaki shrugged.
+
+"Aramiya. I can only get a bad premonition out of this."
+
+"Your premonition might come true, so don't raise the flag..."
+
+&nbsp;
+
