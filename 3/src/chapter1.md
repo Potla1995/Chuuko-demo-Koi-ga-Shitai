@@ -1,5 +1,7 @@
 # Chapter 1: Please listen to what I have to say!
 
+### Part 1
+
 It was early summer.
 It wasn't that hot since it was the morning, but it'll slowly get worse from here.
 
@@ -697,3 +699,157 @@ Tozaki shrugged.
 
 &nbsp;
 
+As we entered the clubroom after wrapping up the pointless and questionable matter, we noticed Kiyomi inside, along with Ayame, Hatsushiba and Ibu.
+She was silently sitting in her chair, probably already finished with greeting the others.
+
+Other than them,
+
+"You guys arrived at last."
+
+A rare sight was awaiting us.
+
+"Kotani-sensei?"
+
+Tozaki reacted as if he received a sneak attack.
+
+Kotani Kiriko.
+This is her second year as a teacher here, joining right after graduating college.
+She taught physics.
+And, she also was my cousin from mom's side.
+
+With her suits on, she looked like an up-to-the-task <span title="Office Lady">OL</span>.
+Fundamentally she's a lazy ass, but her impression in school is that of a nice and cool teacher.
+She has everyone tricked.
+
+"What's it, Tozaki? Is it weird for me to show up?"
+
+"N-no,... you're very welcome, ahaha..."
+
+"What's up with that awkward expression, Aramiya?"
+
+"No, nothing... you're our advisor, so there's nothing wrong with you being here, Kotani-sensei."
+
+One should act with discretion in front of other people. At home we call each other Seiichi and Kiriko-nee, but she was probably paying attention to the fact that we were in school.
+
+"So, do you have some business here?"
+
+"Since I'm your advisor, normally I should be here, right?
+Well, I'm also here to observe you guys so that you don't do bad things."
+_TL Note:_ Like playing eroge.
+
+"What bad things are you talking about?"
+
+"Several things. Such as illicit sexual relationships and stuff."
+
+Then, she glared at me. Even though there's nothing like that.
+
+"Well, students smoke or bully each other in places where our eyes cannot reach.
+The teachers are also being more vigilant now.
+Since the blame always falls on us when such incidents happen."
+
+"You don't really need to worry about stuff like that here."
+
+Please turn a blind eye to the 18+ games here.
+
+"Even then. Some of the teachers are making a fuss about things.
+Especially, there are people who say 『a club for games is outrageous!』"
+
+"Are they living in caves?
+Recently e-sports are also getting popular, so it's nothing out of the ordinary.
+Rather, if there are two separate clubs for baseball and soccer, then there should also be clubs like 『LoL Club』 or 『Starcraft　Club』."
+
+Well, we didn't do e-sports though.
+
+"Well, if this club has anything to do with e-sports, I'll talk about that to them though."
+
+"......"
+
+"But still..."
+
+Kiriko-neesan looked over the club members present in the room.
+
+"This is a very strange lineup."
+
+Now that she said it, there really was no uniformity amongst the members.
+
+"In the end, what do you guys primarily do here? Not gaming, right?"
+
+"We're focusing on exterminating rumors about Cotton... Ayame-san."
+
+Hatsushiba informed thus with a nervous look.
+
+"Ah that's right, I heard you guys were looking to offer assistance to us a while back.
+Are you still doing that?"
+
+"Yeah. The misunderstandings have only been cleared up amongst our classmates, so..."
+
+"So is it fine if I bring over some of the teachers' work to you?"
+
+Hearing that, Ayame raised her hand.
+
+"Bring in as much as y'can... you can!"
+
+Kiriko-neesan lifted her lips up into a smirk. Damn, this is a bad omen!
+
+"O-oi, Ayame?"
+
+"Aramiya. Ayame herself is asking me to assign work. You don't have to worry about anything?"
+
+With an angelic smile on her face that read "leave it all to me!"
+
+However, I could see through her facade... to the devil deep inside this person.
+
+"Yes, please!"
+
+The ignorant Ayame said so vigorously.
+
+... SMH, this is why I was trying to resist.
+My feelings were heavy, anticipating what kind of work she would have us do...
+
+"Well, there shouldn't be anything during the first semester, so you can have peace of mind.
+My special duties will start from the next semester.
+Do look forward to it."
+
+I was not looking forward to it at all.
+
+Kiriko-neesan left, as if after planting the seeds of unease.
+
+"Hey Aramiya. Did we perhaps end up accepting something troublesome?"
+
+Tozaki seemed to be forcing a smile.
+
+"Did you realize it just now? That's why I was opposing it."
+
+"Then say that earlier!"
+
+"I did so!
+You guys are at fault for not see through her real nature!"
+
+Ayame spoke up from the side in response.
+
+"Well, she shouldn't be _that_ absurd, right?"
+
+"Innit? She seemed real kind!"
+
+Ibu was totally in agreement with Ayame. "Kind", eh...
+
+During elementary school when she had learned about my story, she had said "I'll sink them to the bottom of Akashi strait!" pretty indignantly.
+Are you sure about your impression, Ibu?
+
+_TL Note:_ [Akashi Kaikyou](https://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge) is a strait in Kobe famous for sinking several ships in the past due to its severe storms.
+
+... Well, whatever.
+Truth speaks silently.
+It didn't look like Kiriko-neesan had that much misgivings about Ibu too.
+
+"Rather than that, we must properly think about Cotton's rumors today as well!"
+
+"Yeah, yeah."
+
+While letting the chairperson-attribute Hatsushiba lead the meeting, we started thinking about ways to exterminate rumors about Ayame today as well.
+
+We wouldn't have to go through so much hardship if it was that simple to come up with plans though...
+
+- - -
+
+### Part 2
