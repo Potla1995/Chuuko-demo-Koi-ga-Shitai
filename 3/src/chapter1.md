@@ -1379,7 +1379,7 @@ _TL Note:_ Check out this [wiki page](https://en.wikipedia.org/wiki/Nio) on Nio.
 Then, while glaring sharply at me,
 
 "I'll ask without beating around the bush.
-Is it true that you're violating Ayame-san, Hatsushiba-san and Suwama-san each other?"
+Is it true that you're violating Ayame-san, Hatsushiba-san and Suwama-san?"
 
 As expected.
 
@@ -1553,3 +1553,78 @@ Just to be sure, we should share all the information.
 "Just in case, please keep in mind that what I'm about to say is completely a rumor."
 
 I told them the stories about the student council president.
+
+That she apparently gathers girls as external cooperative workers for the student council, and does indecent things night after night.
+
+"Seriously?" "Wha~" "That kind of a side..." "... are you serious?"
+
+All four girls stiffened their expressions.
+
+"Didn't I say it was a rumor?
+I haven't really seen it in person.
+It's just quite credible if boys have seen it happen up close."
+
+I was also hesitant to talk about it since it was just hearsay.
+
+"What I'm doing right now is the same as the rumors spread to drop Ayame's reputation.
+I don't want to propagate this irresponsibly, so please don't completely believe in it."
+
+"It's not good to suspect her without definite proof, I guess~"
+
+Ibu said so lightly... Did she understand the point?
+
+"Well, how do you say it...
+Leaving aside Ayame, won't girls be vigilant if they have boys following them at night?
+For example, they might be alone together in the elevator with someone they aren't even acquaintances with."
+
+"You're right! Maybe one would walk faster, or let them go past by just doing nothing~"
+
+"Well, just thinking about the possibilities.
+Suspecting people whom you don't even hate doesn't feel right, though."
+
+Ibu and Hatsushiba said so apologetically.
+
+For some reason I turned towards Tozaki.
+As if to say "Why are you looking at me...", he dropped his shoulders in depression.
+That's how it looked.
+
+"No, that's fine.
+We also get a bit hurt when girls walking in front start walking faster, but I get the feeling.
+It is always good to exercise caution."
+
+In the end, one must protect their bodies themselves.
+<span title="君子危うきに近寄らず">Wise people keep away from danger</span>.
+
+"Umm, why was I made an exception by Tozaki?
+Anyway, I was left out..."
+
+Nervously raising her hand, Ayame squinted in displeasure.
+
+"Well, even if a guy tries to attack you while you're together alone, you can beat them up easily."
+
+"Uu...", she was at a loss for words when pointed out.
+
+"If it's Ayame-san, then you can annihilate them in one punch!"
+
+_TL Note:_ The JP expression used here is "郷鎮", which means sinking a ship within a minute with bombardment/lightning/explosives. Basically, don't go against this girl 1v1.
+
+Kiyomi's follow acted more like an agitation than a cover, and Ayame hung her face while fidgeting her index fingers in front of her chest.
+
+"That may be true, but! What if it's someone super strong that attacks me!"
+
+"...Well, you even won against a bear, right?"
+
+"As if that can be true! Don't make light of bears!"
+
+She suddenly got irritated and stood up for some reason.
+
+Almost as if she knew just how strong bears were.
+
+There are rumors out there about a middle school girl who drove away a bear with a kick... surely not?
+
+"Even I want to be worried about...
+If there are several opponents, or if they train in martial arts, I'd be easily done for.
+Also, human bodies can't resist if they're locked into positions where they can't muster strength in!"
+
+That reminds me, she was driven to a corner by Songou when we first met.
+
