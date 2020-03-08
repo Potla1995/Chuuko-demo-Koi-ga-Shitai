@@ -12,7 +12,7 @@ No one is in the room. Not even a single insect.
 
 Except for the dust particles dancing in the sunlight peeking through the gaps of the curtains.
 
-Since it was July, almost summer, the closed off room was mercilessly ascending in temperature.
+Since it was June, almost summer, the closed off room was mercilessly ascending in temperature.
 
 It's hot.
 
@@ -23,7 +23,7 @@ My pajamas and shirt were soaked in sweat.
 Getting off the bed, I opened the curtain and windows.
 The gentle breeze pushed out the stagnant air from the room.
 
-It was around time to wanting to start using the AC, but I still had reservations as it was still July.
+It was around time to wanting to start using the AC, but I still had reservations as it was still June.
 If the body got used to the AC at this season, it will be hard to bear the actual summer heat.
 I decided to endure not using it.
 

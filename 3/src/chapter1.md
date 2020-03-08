@@ -1628,3 +1628,35 @@ Also, human bodies can't resist if they're locked into positions where they can'
 
 That reminds me, she was driven to a corner by Songou when we first met.
 
+So that meant even Ayame was not invincible. "That was informative", Kiyomi uttered in respect.
+Where the hell did she plan on using that knowledge?
+
+"... Well, that's that. Ayame, you should also be careful.
+I understand that even you cannot win against anyone and everyone."
+
+"I-is that so?"
+
+As if taken aback by my response, Ayame reddened her cheeks embarrassedly.
+
+"So, here's the thing.
+Although we got distracted while talking about it, the president has such rumors about her.
+Be cautious in your own ways."
+
+"What do we do about the rumors about ourselves?"
+
+"For now, grassroot activities. While declining them, let's keep searching for the main culprit."
+
+After all, there was no other way of dealing with rumors that have already started spreading around.
+
+- - -
+
+## Part 3
+
+The sun was getting stronger as it was mid-July.
+
+The clouds floating also did not block any of the sunlight, but instead just kept passing by.
+
+Although we were in summer uniforms, sweat started trickling through anyway.
+The ground flooded with sunlight since the morning, had started radiating the heat upwards little by little.
+It was hot and humid.
+
