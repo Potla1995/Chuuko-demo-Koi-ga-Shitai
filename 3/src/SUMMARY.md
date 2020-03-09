@@ -2,3 +2,4 @@
 * [Prologue](./prologue.md)
 * [Chapter 1: Please listen to what I have to say!](./chapter1.md)
 * [Interlude](./interlude.md)
+* [Chapter 2: Then, should we go buy swimsuits?](./chapter2.md)
