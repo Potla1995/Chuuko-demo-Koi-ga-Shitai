@@ -1660,3 +1660,329 @@ Although we were in summer uniforms, sweat started trickling through anyway.
 The ground flooded with sunlight since the morning, had started radiating the heat upwards little by little.
 It was hot and humid.
 
+Looking over the ground, almost everyone was fanning their faces with their hands, or trying to get some air into their shirts with eyes of dead fishes, just like me.
+
+Although it wasn't under the blazing sun, it was still very hot.
+The principal's speech about various topics in this heat was torture, if said in clear words.
+In this situation, if the principal was a comedian, I wonder if he would be trying to make us blast off in laughter?
+
+_TL Note:_ This line is very unclear to me. こういう時、校⻑が漫才師だったらドッカンドッカン笑わせてくれるのだろうか。 Let me know if anyone has better suggestions.
+
+"Finally, the Student Council has an announcement."
+
+In the morning assembly stage, the principal and student council president walk past each other.
+
+Was that person really the council president...
+I was made aware of this fact all over again.
+
+However, the bored atmosphere of the students changed to a certain extent.
+The flow had changed.
+
+"Recently, irresponsible rumors have been spreading around throughout campus."
+
+Cautiously giving sidelong glances at the other students, many people seemed to be listening to her seriously.
+
+Both boys and girls reddened their cheeks in a mechanism different from body temperature.
+
+"She really is popular, eh."
+
+Tozaki, who was standing right behind, muttered so.
+
+"Well, she's a beauty after all."
+
+On the basis of 3D.
+
+"She's kind to the girls, and is charismatic.
+Although she's strict towards boys."
+
+"Charisma, eh... I don't feel even a fraction of any of that."
+
+"Although she looks like that, she has reformed the school a lot.
+The council might not be super privileged and powerful, but they stand up fortituously against the teachers and all.
+They also puts in the effort in places people cannot see, and safeguard clubs with small numbers that are motivated."
+
+"... Our club almost got disbanded though."
+
+"Well, we don't have motivation or anything like that."
+
+"Agreed."
+
+Even our activities were unclear.
+That's why they wanted to quickly evacuate the room.
+
+Guess she would talk with serious people steadfastly.
+
+"By the way, those small clubs only had female members or something?"
+
+"That's correct."
+
+Wait, that was a completely unfair treatment!
+
+"However, although it's after all this time, but would the president start spreading such rumors about us?
+It feels like she has no benefit from spreading them around."
+
+"It is probably a rumor originating from the student council president's vicinity.
+Whether it's intentional or not is a different question."
+
+That Ayame and others are yuri...
+Well, spreading this rumor would clear obstacles from their path, that much was clear.
+But it was a very roundabout way of doing things.
+Plus, if the rumor was seen to be permeating, people might get desperate and help spreading it around as well.
+Moreover, if Ayame and Hatsushiba get to the flow of "wanna do it for a bit?", it would be a congratulatory occassion for the student council president.
+
+However, that I gaze at their act lecherously... was a rumor that has zero benefit for the president.
+If she was trying to remove Ayame and the others from my surroundings by lowering my reputation, she would be using the names of other girls.
+
+In that case, they would probably be like "Is it true that you violated X!? I'm disappointed in you!".
+But if the people involved were Ayame and the others, then there was no route where they would be disappointed in me.
+They themselves would understand that it was groundless, after all.
+
+It was also possible that the rumor about me spontaneously sprouted from that of Ayame and the others being yuri...
+in that case, there must be some basis for people thinking that I have such a character...
+
+I didn't want to admit it.
+
+Well, in some 18+ scenes, completely harmless protagonists also sometimes see changes in their characters.
+But it was usually due to unusual circumstances like a change in the scenario writer...
+
+"Hmmm..."
+
+Everything was unclear.
+
+It was as unpleasant as sweat trickling on the forehead.
+
+&nbsp;
+
+After class today as well, as we were headed towards the clubroom, unknown students started following us secretively.
+
+Did they think they were concealed...
+No, if they came this far, it probably meant that they weren't scared to tail us while flocking together.
+
+"We should not go to the clubroom."
+
+Hatsushiba nodded, guessing my intent.
+
+"Hmmm, that sounds like a safer option. Should we return home?"
+
+"No..."
+
+I looked at Ayame and Ibu.
+
+They inclined their heads in confusion.
+
+"There's somewhere we should go.
+It's a good opportunity, so let's focus on _that_."
+
+"_That_?"
+
+"Final exams."
+
+Ayame and Ibu's faces cramped up in unison.
+
+However, without leniency we took Ayame and Ibu towards the library.
+
+"No one should enter and exit the clubroom until the heat calms down."
+
+After the five of us reached a vacant table passing through students who were reading, I said thus to the others.
+It seemed like accessing the clubroom at this time would only catalyze the spread of the rumors.
+
+"Let's focus on studying until the end of term.
+Ayame, you got a terrible score in the Math unit test, right?"
+
+"T-that was umm, just due to careless mistakes."
+
+Was that some kind of mistake that recovers HP that's already lost?
+
+"Careless mistakes eh.
+That excuse won't work in the test, and won't be reflected in the report card.
+It seems we also need to work on your English..."
+
+"... Yes."
+
+Ayame dropped her shoulders, as if she had given up.
+
+Although we somehow survived the midterms, it was knowledge gained by cramming overnight.
+One had to study to maintain the knowledge.
+
+When she let us see her unit test, it actually had a lot of trivial mistakes, but it was already done, and there was no way of undoing those mistakes.
+
+It was wasteful to drop points that were certain.
+
+"Ayame-cchi, do your best~"
+
+... Ibu being Ibu, had probably forgotten about her poor grades.
+
+"Your grades are also terrible, though. How did you even get admitted?"
+
+"There were a lot of multiple-choice questions!"
+
+Was it heaven's luck?
+When you don't know the answer to an MCQ with four options, the probability of choosing the right option  was just 25%.
+I felt like in practice it was less than 15%.
+
+"Well, at this rate you'll definitely fail the finals, so good luck taking supplementary lessons during the vacation."
+
+"Ee, what did you say?"
+
+All of a sudden, Ibu's face changed color.
+
+"Our school has that kind of a system."
+
+"What happens if I skip?"
+
+"They might make you repeat the year."
+
+Ayame still got promoted after bunking all her lessons last year, so I didn't think the school was that strict about it.
+
+However, it was unknown how they would proceed in the case of transfer students.
+
+"T-this is baad. Seiichi, save mee..."
+
+She appealed with teary eyes.
+
+"Why?"
+
+"You're teaching Ayame-cchi, right? I don't want to repeat a year."
+
+"Isn't that good? You can just play around for a whole year then."
+
+"But I want to be with everyone..."
+
+She despondently looked around at all the club members one by one.
+
+"Why don't you look after her?"
+
+Tozaki said as carefreely as expected.
+
+"I have no benefit from teaching her though."
+
+"You won't be able to keep an eye on her if she takes supplementary lessons during the vacation."
+
+"I can't keep an eye during summer vacation itself, right?"
+
+After all, there was no way of keeping an eye on this gal outside school.
+
+It couldn't be helped if someone deceived her at home.
+
+However, if she had to take supplementary lessons, there might be a bunch of terrible people trying to take advantage of this girl by deceiving her.
+
+"Seiichiii..."
+
+"... Okay I got it."
+
+I was no match for her if I went on quarrelling about this anyway, and it would be a hassle if she started making a fuss in the library.
+
+I guess it's fine while teaching Ayame anyway.
+
+"... After all,  Ayame-kun-"
+
+Hatsushiba looked at me amazedly.
+
+"What?"
+
+"Does your personality prevent you from saying no to requests from girls?"
+
+"I do say no. Depends on the time and occassion."
+
+"... You seem to agree to whatever girls would ask you while crying."
+
+"What was that? Give me a break already!"
+
+I was not shilly-shally to that extent.
+... No, maybe a little bit, but not as much as a protagonist who does totally opposite to what choice he makes.
+I did painfully understand their feelings, but I really didn't want to betray the chosen route.
+
+"Well then, should we start from the Math in question?"
+
+Starting with reviewing the unit test, we focused on doing away with the problems which they got wrong.
+
+While letting them solve problems from the workbook, when we were preparing for the tests on our own...
+
+"Hello, Senpai. You're working quite hard."
+
+A beautiful girl came over, with eyes that carried an (illusionary) twinkling effect.
+
+"O-ou, is that Saitani..."
+
+It was troubling that he was like a heroine, all the same.
+Why was he a boy...
+The world is strange.
+Saitani was the only one wouldn't look out-of-place in an eroge.
+No, wait.
+If inside an eroge, she would be conquered from head to toe by the protagonist.
+I could not come to agree with that.
+
+"W-were we too loud?
+I wanted to teach quietly though."
+
+"No, I was just about to take a break from work. Are all of you studying?"
+
+"Well, it's almost the end of term. Is Saitani good at studying?"
+
+"I don't know if I am good at it, but I like studying!"
+
+"Eh? Like?"
+
+Studying?
+Are you serious?
+No, well, you do see people of that species sometimes.
+
+"It is really fun when the knowledge keeps gathering in your brain!
+You feel as if the world is opening up in front of you.
+While studying different subjects, don't you suddenly discover unexpected connections between them?
+I find it really enjoyable!"
+
+"O, Oh."
+
+He suddenly became a lot more talkative.
+Moreover, it was surprising that he liked studying that much.
+
+"Then well, why ar eyou in our school?
+It doesn't feel right to say this, but our school doesn't have that high of a standardized test score requirement, right?"
+
+"E-erm..."
+
+Saitani hung his head embarrassedly.
+What the hell was this heroine, she was almost like Live2D.
+When I had looked up Live2D, it was written that making it took a huge amount of time and effort.
+
+"Actually, I really hated studying until eigth grade...
+I was at the level where I didn't know the multiplication table, or even write my own name.
+The letters for 'ryou' and 'ma' were also hard for me."
+
+_TL Note:_ The kanji for Ryouma is ⿓⾺.
+
+"Eh? You couldn't write your own name in kanji?"
+
+What pro baseball coach were you?
+
+_TL Note:_ I couldn't find the reference here.
+
+"After a certain incident during ninth grade, I started studying and got an interest in it.
+But... at that time, I was an idiot who could not get into any high school...
+This school was my limit in the last year of study."
+
+Well, no matter how much you started liking studying, there were limits if your past was like that.
+
+There was a gal who was at the bottom of her class and wanted to get into Tokyo University in a year, and eventually got into Keio.
+However, she probably had considerable knowledge already.
+
+_TL Todo:_Check this line: ⼀年で東大云々とか学年ビリのギャルが慶応って例はあるのかもしれないけど、ああいうのは前提として多少の知識があればの話という気がする。
+
+For someone who was dubious about writing their own name or the multiplication table, even getting into our school was a brilliant achievement.
+
+"That was unexpected...
+Wait how much was your standardized test score?"
+
+"Before I started studying... it was below 30..."
+
+Is he seeing himself in Ayame, who was studying desparately right now?
+
+"However, you hated studying that much before.
+Just what was the impetus for your change?"
+
+Saitani averted his eyes, reddening his cheeks.
+
+"E-erm, I was taught by someone online...
+It's embarrassing, so the rest is a secret..."
+
