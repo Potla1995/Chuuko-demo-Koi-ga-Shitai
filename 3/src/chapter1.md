@@ -1541,7 +1541,7 @@ From the point of view of girls, she might not be reflected as a poisonous creat
 
 "Why would the president do such a thing?"
 
-Kiyomi asked in dusgruntlement.
+Kiyomi asked in disgruntlement.
 It seemed like she believed in the president from the beginning.
 
 ... Was it okay to tell them?
@@ -1644,7 +1644,7 @@ Be cautious in your own ways."
 
 "What do we do about the rumors about ourselves?"
 
-"For now, grassroot activities. While declining them, let's keep searching for the main culprit."
+"For now, grassroots activities. While declining them, let's keep searching for the main culprit."
 
 After all, there was no other way of dealing with rumors that have already started spreading around.
 
@@ -1698,7 +1698,7 @@ Although she's strict towards boys."
 "Charisma, eh... I don't feel even a fraction of any of that."
 
 "Although she looks like that, she has reformed the school a lot.
-The council might not be super privileged and powerful, but they stand up fortituously against the teachers and all.
+The council might not be super privileged and powerful, but they stand up fortuitously against the teachers and all.
 They also puts in the effort in places people cannot see, and safeguard clubs with small numbers that are motivated."
 
 "... Our club almost got disbanded though."
@@ -1728,7 +1728,7 @@ That Ayame and others are yuri...
 Well, spreading this rumor would clear obstacles from their path, that much was clear.
 But it was a very roundabout way of doing things.
 Plus, if the rumor was seen to be permeating, people might get desperate and help spreading it around as well.
-Moreover, if Ayame and Hatsushiba get to the flow of "wanna do it for a bit?", it would be a congratulatory occassion for the student council president.
+Moreover, if Ayame and Hatsushiba get to the flow of "wanna do it for a bit?", it would be a congratulatory occasion for the student council president.
 
 However, that I gaze at their act lecherously... was a rumor that has zero benefit for the president.
 If she was trying to remove Ayame and the others from my surroundings by lowering my reputation, she would be using the names of other girls.
@@ -1745,7 +1745,7 @@ I didn't want to admit it.
 Well, in some 18+ scenes, completely harmless protagonists also sometimes see changes in their characters.
 But it was usually due to unusual circumstances like a change in the scenario writer...
 
-"Hmmm..."
+"Hmm..."
 
 Everything was unclear.
 
@@ -1753,16 +1753,16 @@ It was as unpleasant as sweat trickling on the forehead.
 
 &nbsp;
 
-After class today as well, as we were headed towards the clubroom, unknown students started following us secretively.
+After class today as well, as we were headed towards the club room, unknown students started following us secretively.
 
 Did they think they were concealed...
 No, if they came this far, it probably meant that they weren't scared to tail us while flocking together.
 
-"We should not go to the clubroom."
+"We should not go to the club room."
 
 Hatsushiba nodded, guessing my intent.
 
-"Hmmm, that sounds like a safer option. Should we return home?"
+"Hmm, that sounds like a safer option. Should we return home?"
 
 "No..."
 
@@ -1781,10 +1781,10 @@ Ayame and Ibu's faces cramped up in unison.
 
 However, without leniency we took Ayame and Ibu towards the library.
 
-"No one should enter and exit the clubroom until the heat calms down."
+"No one should enter and exit the club room until the heat calms down."
 
 After the five of us reached a vacant table passing through students who were reading, I said thus to the others.
-It seemed like accessing the clubroom at this time would only catalyze the spread of the rumors.
+It seemed like accessing the club room at this time would only catalyze the spread of the rumors.
 
 "Let's focus on studying until the end of term.
 Ayame, you got a terrible score in the Math unit test, right?"
@@ -1870,11 +1870,11 @@ However, if she had to take supplementary lessons, there might be a bunch of ter
 
 "... Okay I got it."
 
-I was no match for her if I went on quarrelling about this anyway, and it would be a hassle if she started making a fuss in the library.
+I was no match for her if I went on quarreling about this anyway, and it would be a hassle if she started making a fuss in the library.
 
 I guess it's fine while teaching Ayame anyway.
 
-"... After all,  Ayame-kun-"
+"... After all,  Aramiya-kun-"
 
 Hatsushiba looked at me amazedly.
 
@@ -1882,7 +1882,7 @@ Hatsushiba looked at me amazedly.
 
 "Does your personality prevent you from saying no to requests from girls?"
 
-"I do say no. Depends on the time and occassion."
+"I do say no. Depends on the time and occasion."
 
 "... You seem to agree to whatever girls would ask you while crying."
 
@@ -1937,7 +1937,7 @@ I find it really enjoyable!"
 He suddenly became a lot more talkative.
 Moreover, it was surprising that he liked studying that much.
 
-"Then well, why ar eyou in our school?
+"Then well, why are you in our school?
 It doesn't feel right to say this, but our school doesn't have that high of a standardized test score requirement, right?"
 
 "E-erm..."
@@ -1946,7 +1946,7 @@ Saitani hung his head embarrassedly.
 What the hell was this heroine, she was almost like Live2D.
 When I had looked up Live2D, it was written that making it took a huge amount of time and effort.
 
-"Actually, I really hated studying until eigth grade...
+"Actually, I really hated studying until eight grade...
 I was at the level where I didn't know the multiplication table, or even write my own name.
 The letters for 'ryou' and 'ma' were also hard for me."
 
@@ -1964,10 +1964,8 @@ This school was my limit in the last year of study."
 
 Well, no matter how much you started liking studying, there were limits if your past was like that.
 
-There was a gal who was at the bottom of her class and wanted to get into Tokyo University in a year, and eventually got into Keio.
+There might have been a gal who was at the bottom of her class and wanted to get into Tokyo University in a year, and eventually got into Keio.
 However, she probably had considerable knowledge already.
-
-_TL Todo:_Check this line: ⼀年で東大云々とか学年ビリのギャルが慶応って例はあるのかもしれないけど、ああいうのは前提として多少の知識があればの話という気がする。
 
 For someone who was dubious about writing their own name or the multiplication table, even getting into our school was a brilliant achievement.
 
@@ -1976,7 +1974,7 @@ Wait how much was your standardized test score?"
 
 "Before I started studying... it was below 30..."
 
-Is he seeing himself in Ayame, who was studying desparately right now?
+Is he seeing himself in Ayame, who was studying desperately right now?
 
 "However, you hated studying that much before.
 Just what was the impetus for your change?"
@@ -1986,3 +1984,402 @@ Saitani averted his eyes, reddening his cheeks.
 "E-erm, I was taught by someone online...
 It's embarrassing, so the rest is a secret..."
 
+What kind of a picturesque <span title="guy">heroine</span> was this!
+He was good enough for standing sprites, or even still illustrations.
+
+Such a character was unfair, right?
+
+While embracing the euphoria of Saitani's actions, the atmosphere of the library changed all of a sudden.
+The quiet conversations that could be heard also clearly changed their content.
+
+The student council president and two of her minions could be seen at the entrance.
+
+While searching for someone, she started walking straight towards us as soon as our eyes met.
+
+"Good afternoon, Ayame-san.
+You're as cute as always today as well.
+Hatsushiba-san and Suwama-san are also as pretty as bougainvillea.
+You make me want to decorate you in flower vases."
+
+The first words out of her mouth were that of complimenting the girls.
+The three were puzzled.
+Well, that was to be expected.
+
+"W-what's your business here?"
+
+"While I have loads to talk about, today I've come for a different business.
+Sorry about that."
+
+Saying thus, the president approached me and asked in a small voice.
+
+"Ara-whatever, do you have some time?"
+
+"I do not, but what do you need?"
+
+"I have something to talk about."
+
+"... Well, if it's only something to talk about."
+
+As always, it was probably some good-for-nothing topic, but it would be exceedingly meaningless to decline her here.
+It would also be an annoyance for Saitani if we exchanged dialog in the library.
+
+We left the library and faced each other in the hallway.
+
+Apart from us, there were only her two minions.
+People who came to the library were always fixed...
+As long as it wasn't on a whim, the people who visited the library would not change.
+
+The president opened up her folding hand-fan vigorously, and hid her mouth.
+That action meant... probably nothing.
+
+"OK then, let's promptly go to the main question at hand.
+Can you lend us Ayame-san?"
+
+"... Why would you ask _me_ that?"
+
+"That's because previously, when I asked her, she told me to ask you."
+
+"Now that you mention it, you tried inviting her to the student council while Tozaki and I were yet to go to the club room."
+
+"Yes.
+I got declined though.
+With that reply."
+
+"Then, please ask the person in question."
+
+"However, she says that she won't come over unless it's with you.
+I, for one, do not particularly want to be with you.
+She should come over by herself."
+
+What a bother...
+
+"Then, why don't you just give up?"
+
+"I really want to talk one-to-one with Ayame-san, though."
+
+"Please listen to what I have to say."
+
+_TL Note:_ Chapter name much?
+
+It was dubious whether she even wanted to engage in a conversation.
+
+No, since she was passing through me, she probably did want to talk.
+
+"You don't want to be forceful lest Ayame hates you, eh..."
+
+"Well understood.
+Thankfully your wits work pretty quick, even though you're a guy."
+
+"Thinking logically, anybody would get that though."
+
+If she wanted to take Ayame, she had to persuade me first.
+
+Since she didn't really want to talk with guys, and yet she was here talking to me, it was easy to infer that she had reasons compelling to that extent.
+
+"That's exactly it.
+If you don't say it, it'll become forcing someone against their will.
+That kind of stuff isn't my preference.
+Of course, I won't ask to give her for free."
+
+"What will you offer? Club expenses or something?"
+
+"It's not money.
+If you give Ayame-san and the others to us, we'll erase their rumors, and also ascertain their origins.
+You don't like it when people... spy on your club room, right?"
+
+It was pretty impudent of her, being the top suspect for spreading the rumors.
+
+<span title="Match-pump?">"Was this your plan all along?"</span>
+
+_TL Note:_ Match-pump is a JP idiom that basically means stirring up trouble oneself and then getting credit for resolving it. The origin is lighting a match and then putting it out with a water pump.
+
+"... What did you say?"
+
+"Nah, never mind. Only that much is..."
+
+"Is it not enough?
+Then, how about we also investigate the rumors about Ayame-san from before?"
+
+"Can you do that even?"
+
+"The student council can do it if we are serious.
+However, we can't do things arbitrarily.
+So, we cannot keep doing these kinds of favors again and again."
+
+... The rumors about Ayame.
+
+It was true that currently we were in stalemate, and didn't have any way of taking action on our end...
+
+"It's not like we want them rightaway, but please think about it during the first term."
+
+Saying just that much, the president and her two minions took their leave.
+
+... Really, do the minions not show any kind of expressions?
+If they didn't blink, they'd totally look like still images without eye-flicker or lip-sync.
+
+Still, the rumors...
+What should we do?
+
+&nbsp;
+
+Since today all the bookshelves were supposed to be simultaneously sorted, the library closed earlier than usual, and we were chased out.
+Let's keep it a secret that the apologetic face of Saitani was a little bit stimulating.
+
+Since it was a half-assed time not yet to return home, we had nothing to do.
+
+After changing shoes, we went outside.
+
+"Uuu... formulas are tormenting mee..."
+
+"It's your imagination."
+
+"Hatsushiba-cchi, you're so cold!"
+
+"There's no reason to be kind to you, right?
+In all actuality, there was no obligation to teach you, so at least remember the stuff we went over."
+
+Ibu and Hatsushiba were like oil and water, as usual.
+
+Although Hatsushiba called me a guy unable to reject requests from girls, wasn't she pretty softhearted herself?
+
+"... Aramiya-kun, what's up?
+Do you have any business with Yuuka?"
+
+"Nope, nothing much."
+
+"Yuuka is curious..."
+
+Don't be curious.
+
+However, Hatsushiba was sticking close and staring at me, as if fixing her aim on a target.
+
+"It's hot, so please move away."
+
+"I'll move away if you tell me what you were thinking."
+
+She was as obstinate as a soft-shelled turtle.
+
+Ayame and Ibu were talking among themselves sluggishly, so maybe it was fine.
+
+"I was thinking that you also like looking after people..."
+
+"Is that so?
+Not as much as Aramiya-kun, though."
+
+"Even though you say all that, you're taking care of Ibu.
+It's impossible for me."
+
+"It isn't like that though...
+Yuuka also, kind of cannot leave her alone."
+
+That was exactly what it meant to be softhearted.
+
+"Plus, it got clear in the past few days that she is not a bad person."
+
+"That so?"
+
+"Suwama-san is very innocent. For good or for bad..."
+
+As she was too gullible.
+
+"So unless Yuuka teaches her strictly, she would probably get tricked again."
+
+"Well, you're right."
+
+"When people were speaking ill of Cotton in the hallway the other day, she charged in with 『Ayame-cchi is a suuper good girl!』, after all."
+
+Was she behaving like that...
+
+"She was clumsily explaining it to three boys by herself.
+It wasn't as if Aramiya-kun or Cotton or Yuuka were watching her...
+But Yuuka saw her covering for Cotton..."
+
+"That so?"
+
+What was it...
+
+Right now, a word perfectly describing Hatsushiba came to mind... but she'd probably be angry if I told her.
+
+"... Aramiya-kun, aren't you thinking about something terribly rude?"
+
+"Nope, not at all."
+
+How did she know...
+Does everything show on my face?
+Nope, that shouldn't be it.
+
+"Yuuka cannot overlook it this time."
+
+"...Meh.
+Don't get angry even if I say it out.
+I kind of thought that you were like a mom."
+
+"Eh... Do I look that old?"
+
+For some reason she gave a worried look.
+
+"It's not about appearance.
+It's about how you interact with Ayame and Ibu."
+
+"I never really noticed, but is that how it is..."
+
+"The way you're spartan about their studies perfectly resembles a mom strict about education."
+
+"Ahaha.
+Then is the similar Aramiya-kun who takes care of others the dad?"
+
+My heart skipped a beat at the sight of Hatsushiba really enjoying herself with a full smile on her face.
+
+The smile that wasn't forced, was really transparent, and honestly cute.
+If she was on the other side of the monitor, I'd have liked to take a screenshot.
+
+"You love saying strange things."
+
+"Wasn't it Aramiya-kun who said that I looked like a mom?"
+
+"True that."
+
+Well, whatever...
+
+"I won't ask you to get along well... but please try to be good with Ibu so as to not make the atmosphere bad."
+
+"If Aramiya-kun says so, then it can't be helped~"
+
+She said impishly.
+
+Well, at this rate, she'd have probably done it anyway even without me asking.
+
+"Well, let's make it a favor.
+Someday Yuuka will also ask back for something."
+
+"... When is someday?"
+
+"That cannot be said.
+Maybe in ten years, or twenty years?"
+
+That was pretty far out in the future.
+
+"At my, limit~"
+
+Just when our conversation ended, Ibu's miserable scream could be heard from the front.
+
+"Sugar... I lack sugarr~"
+
+While staggering like a zombie, Ibu went over to a vending machine and bought an apple juice.
+
+And then proceeded to gulp down the contents of the can in one go.
+Was this some kind of CM?
+
+However, it was still hot even in the dusk.
+There was also someone who got thirsty, drawn in by the impression.
+
+"Maybe I'll also get something..."
+
+Ayame was also lured towards the vending machine, with a hanging head.
+She bought a carbonated drink.
+
+"Yuuka will also get something...
+This is not a loss, but it's a step necessary to avoid heatstroke..."
+
+Hatsushiba also proceeded towards the vending machine like a dog that has lost a fight.
+
+I was also unable to win against the vending machine...
+
+Buying oolong tea and having a toast with Tozaki, we moistened our throats.
+
+"So good..."
+
+"Vending machine juices are tasty in this season.
+It penetrates through the internal organs."
+
+_TL Note:_ That sounds kind of dangerous... JP is scary!
+
+Tozaki was saying stuff as if he was drinking beer.
+It was the same as what my dad says at night.
+
+Well, what he was drinking was cola though.
+
+"Haa..."
+
+Ayame was making a content face.
+
+... Maybe I should warn her for now.
+
+"Ayame."
+
+I started a conversation in a small voice.
+
+"What's up?"
+
+"The student council president might be all-out aiming for you.
+Do be cautious."
+
+Ayame knit her brows.
+
+"How do you know that?
+Is it related to the talk you had earlier with the president?"
+
+"Well, so far as it goes."
+
+"What did you talk about? Please tell me."
+
+"No, it was nothing much."
+
+"Judging by your explanation from before, it was strange by itself that the president would talk with you.
+Then, she probably told you something uncalled for."
+
+This girl is quite sharp...
+
+"Just tell me, OK?"
+
+Ayame's eyes were earnestly looking at me.
+She'd probably not let me go if I didn't talk about it.
+
+Can't be helped. Let's give a short explanation.
+
+"... What we were talking about earlier was that, if we hand you over to the student council president, then she would solve all of our problems."
+
+Extermination of the rumors and investigation of their origins.
+
+In exchange for Ayame, she offered to solve all our problems.
+
+After hearing all of it,
+
+"If that saves you, then I'm fine with going."
+
+Just like that.
+
+"No, you..."
+
+"Although you call it yuri, isn't it just girls getting along with each other?
+She's the student council president, so wouldn't probably do strange things.
+It's a piece of cake."
+
+She didn't get it.
+
+That the president was super serious about her.
+
+It probably would enter the domain of lesbian, crossing the boundaries of yuri.
+
+I felt like letting Ayame go like this to the student council would lead to a result which could not be undone.
+
+While it was a light talk earlier, after coming all the way here, strong uneasiness started stirring up in my heart.
+
+"It's not needed, after all.
+Don't go.
+For now, don't get close to the student council president."
+
+"Why?"
+
+"There is no guarantee that asking that student council president would help the current situation in any way.
+There's not much harm in the rumor that you are yuri for each other, and even I don't care that much.
+While we probably can't use the club room during the first semester, it's not really that inconvenient for us.
+If we get to our wits' end in the future, we could maybe think about the proposal."
+
+Hearing that, a bashfully happy Ayame said,
+
+"Okay, gotcha. I'll leave it to you."
+
+She gave a cozy smile.
+
+- - -
