@@ -243,3 +243,90 @@ Tadokoro always taught his classes full of confidence, so I thought he was the t
 But in reality, he was different.
 
 It felt more like he was trying his hardest to get close to his ideal, all the while worrying about various things.
+
+"That's why."
+
+Then, Tadokoro sharply glared at me.
+You're scary!
+
+"That you have been violating girls is also not totally impossible.
+The possibility that you might be one of those exceptions cannot be thrown away."
+
+"No no no... that's impossible.
+I'm a good person at heart..."
+
+While it was strange saying it myself, I'm pretty harmless.
+
+"I don't believe in people being good-natured or bad-natured.
+Good and evil both change with the era.
+The person I talked about earlier that got into swindles after graduation was actually in trouble with money for his family, and the good-for-nothing student who started the NPO got his determination after visiting a war-tridden country, from what I heard.
+Due to various circumstances, people can easily switch sides."
+
+"So, it is possible that I have such a component?"
+
+"In good words, human possibilities are infinite.
+In bad words, humans don't have any <span title = "節操">integrity</span>."
+
+Well, if I hadn't received Ibu's love letter during childhood, my personality would have probably not turned out like this.
+
+"For now, I'll believe in your words.
+However, don't forget that I'm constantly keeping watch on you.
+Don't do suspicious things in order to not betray the trust of Ms. Oohara.
+That's all."
+
+After ending our talk like this, I let out a sigh of relief.
+
+Talking with Tadokoro is really tiring.
+It felt as if I just sprinted 100 meters.
+
+"Well, I got a lot of information, so it's OK."
+
+But, since it already reached the teachers, it would probably be difficult to exterminate the rumor that fast.
+
+&nbsp;
+
+"It's turning out really difficult to find the ringleader, right Aramiya-kun?"
+
+"I was expecting the content to have changed in the neighboring class, but it wasn't so.
+There is no great difference with the original rumor."
+
+While returning from the transfer class of the third period, I return with Hatsushiba.
+
+We were having a music lesson in the audio-visual classroom, but the chorus totally sounds different when this girl is with us.
+I was made to realize the abilities of a voice actress all over again.
+
+"By the way, do you not get big jobs?"
+
+"It's still difficult. With Yuuka's competency..."
+
+"The world of voice acting is harsh, eh..."
+
+Even though her acting of scary people was totally at point.
+
+She seemed to be very fit for roles like yandere characters interrogating the protagonist or something.
+There was a great difference between her cute voice and scary voice.
+
+"What happened, Aramiya-kun?
+Are you not thinking something very rude?"
+
+"N-no, not really..."
+
+Are you an esper?
+
+"But, I have a role I really want to act for in a winter anime.
+The company is also trying their best for that.
+It's still private information, so a secret though."
+
+"Winter anime eh...
+It's a story of next year for us."
+
+"Yuuka will be happy if Aramiya-kun listens to my voice when it happens."
+
+"Try your best to not get dropped after three episodes."
+
+"Eh?
+Please watch till the end if someone you know appears in it.
+It's still not decided, though."
+
+"Anime is, well..."
+
