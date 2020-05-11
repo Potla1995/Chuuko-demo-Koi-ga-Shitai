@@ -330,3 +330,164 @@ It's still not decided, though."
 
 "Anime is, well..."
 
+I don't hate watching all the recorded episodes at once, but not being able to watch at my own pace doesn't fit my taste.
+
+It is hard having to wait for a whole week, after all.
+Especially two-cour anime are physically exhausting.
+
+However, watching the recordings means that you're not up-to-date with real time.
+
+Nonetheless, if I watch anime, I want to enjoy it to the fullest in my own way.
+So, it is possible that I'm still searching around for the best way to enjoy anime.
+
+Well, even eroge heroines fall into accidents during trial versions which are only resolved when the original version is released: it's not applicable to only anime.
+
+"However, we never really brought this up, but Hatsushiba is actually _working_ as a <span title = "voice actress">seiyuu</span>, right?"
+
+"That's right.
+If you start associating now, you might be able to enjoy some perks later on?"
+
+"What associating..."
+
+"But Aramiya-kun, you must give first priority to Cotton."
+
+"You know what...
+Talk about association or whatnot to Tozaki instead.
+He'll totally spring up in joy.
+I think he would listen to anything as long as it's Hatsushiba's order."
+
+That guy would probably gladly turn into a dog if it's for Hatsushiba.
+Through hell and high water.
+Inside grassfields, forests, mud, cloud, skirts even.
+If mankind turned into monsters and the world started to look like goblets, that guy would be able to distinguish Hatsushiba at a glance.
+
+"Eh? Why Tozaki-kun?"
+
+Is she being serious.
+From Hatsushiba's expression it was clear that her emotions didn't waver a bit.
+She is making a puzzled face while tilting her head to the side.
+This is the most prominent "you don't have a chance" pattern.
+
+Well, student life is long.
+Work hard, Tozaki.
+It doesn't seem like you'll be compensated for it though.
+
+While we were rambling in amusement like that, a girl came running towards us while avoiding the students that were walking in the hallway.
+
+Just after passing by each other -
+
+"Kya..." "Ara ara"
+
+Suddenly, she gave a tiny scream.
+
+Looking over, it seemed that she bumped into another girl right around the corner, and fell down on her butt.
+
+"Ouch..."
+
+"Running in the hallways is no good."
+
+"P-president! S, sorry..."
+
+Crouching down, the student council president took out a pack of napkins from her pocket.
+
+"Are you OK?
+Did you hurt yourself?
+Looks like you grazed your knee though."
+
+"N,no, it doesn't hurt-"
+
+"That's not good.
+You must treat your body with care."
+
+Rubbing some disinfectant on the girl who had just fallen down, she stuck a band-aid on her knee.
+
+Her movements were as flowy as a stream of water.
+The girl wasn't even given a chance to find the right timing for rebuttal.
+The president is probably used to these types of situations.
+
+"T, thank you very much."
+
+"No need to thank me.
+You are a treasured flower of this school.
+Even while hurrying, please do not forget to walk elegantly."
+
+The girl who had fallen down gave an energetic "Yes!" as a reply, and left the place.
+
+She became red upto neck.
+I don't know if she already belonged to the student council, but she surely fell in love all over again.
+
+"Ara, if it isn't Hatsushiba-san.
+... and Ara too."
+
+She frowned the moment she noticed me.
+Isn't she too clear smh.
+
+"Hello, Yaotani President."
+
+"If you say that much, then how about saying my full name, president?"
+
+"Hatsushiba-san is always really cute, and on top of that, your voice is as adorable as the chirping birds in the forest.
+To the point that I want to record it and listen to it."
+
+_TL Note:_ Please teach me these cheesy lines Yaotani kaichou! :bocchiCry:
+
+Utterly ignored.
+
+Moreover, what is this person?
+She said something similar to Tozaki.
+Are you an otaku? smh.
+
+"T, thanks... U-um...?"
+
+"Your skin is also moist and beautiful.
+Tell me the secret behind sometime?"
+
+"Ha, haa..."
+
+The president's hand gently stroked Hatsushiba's cheeks.
+
+Hatsushiba looked like a pet cat.
+Her cheeks were becoming redder maybe due to their faces being close.
+
+"Well then, have a good day."
+
+After doing as she pleases, the president left us, as if satisfied.
+
+... Other than Hatsushiba, she didn't even meet my gaze.
+
+Disliking guys has its limits.
+How the hell did she manage to collect the boys' votes?
+This school should have a one-to-one sex ratio though.
+
+If her attitude would have been the same for boys, she'd have become a huge charismatic figure.
+Tozaki and boys like him would have no doubt become complete followers of the president.
+That would have led her to overwhelming victory against her opponents.
+
+"Fuu... that was surprising."
+
+After the president disappeared from sight, Hatsushiba finally exhaled, as if relaxing her strained mind.
+
+"That president really has no integrity..."
+
+"But she's kind.
+She even treated the girl that bumped into her."
+
+"If a guy bumped into her she'd have abused the living hell out of him though."
+
+On top of that, she would probably force the guy to prostrate himself while she steps on their head.
+With a queenly smile on her face.
+
+"But she really doesn't have any interest in guys whatsoever.
+It is kind of clear that she's yuri..."
+
+"More than yuri... you could probably call her a lesbian."
+
+"The line between those is kind of difficult though.
+It probably varies between people."
+
+"From the typical border that I know of, the parties involved in yuri don't think of it as homosexual love, don't have sexual contact, or sometimes don't portray their feelings.
+On the other hand, lesbian people recognize homosexual love, and try to actively pursue sexual contact.
+At least, that's how I feel."
+
+"Yuuka also heard something similar from one of her seiyuu friends."
+
