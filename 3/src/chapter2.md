@@ -491,3 +491,250 @@ At least, that's how I feel."
 
 "Yuuka also heard something similar from one of her seiyuu friends."
 
+While it is a bit unexpected, Hatsushiba also seems somewhat knowledgeable about this stuff.
+
+Well, she is in close proximity with otaku contents for work, I guess.
+
+It won't be surprising even if she is well-acquainted with yuri.
+There are even seiyuus that are enthusiastic about their jobs to the point of doing research on different stuff in case they need to act those roles.
+
+"In the end, I think it's yuri if the depiction is lenient, and it's lesbian if it is intense.
+At least for the people who know about these stuff."
+
+"Hmm..."
+
+"But for the people involved it's not a story or anything.
+Liking girls is the same for both anyway.
+Well, maybe there's the difference of <span title="恋">passion</span> and <span title="愛">love</span>."
+
+"Both feelings ensue homosexuality anyway."
+
+While talking about such a topic, suddenly the president's words come to mind.
+
+"... Hypothetically, if it was possible to marry people of the same sex, would Hatsushiba have chosen a girl for marriage?"
+
+"Huh? Eh... what do you mean...?"
+
+As if sensing danger, she took some distance from me.
+Her expression also seemingly became cramped.
+
+"No, it was something the president told me before!
+It's not something I came up with!"
+
+"Well, it did feel strange for Aramiya-kun to say that."
+
+I gave a simplified summary of the president's speech from last time.
+
+Hatsushiba listened while nodding with a serious expression.
+
+"Who would you choose for a lover if both guys and girls were options, eh...
+It's hard to tell unless we enter that era, but it feels like the amount of homosexual people would definitely increase compared to now.
+That every girl will choose another girl is taking it to the extreme, though."
+
+"But well, during elementary school, girls do apparently think that boys are childish, right?
+What if their sense of love solidifies at that time?"
+
+"There certainly is that type of an inclination, but it's probably just some <span title="どんぐりの背⽐べ">pointless childish bragging</span>.
+In the first place romance itself was a very vague concept during elementarty school...
+It's not like there wasn't the feeling of liking someone, but thinking about it now, they weren't really that serious.
+So the sense of love would not solidify to _that_ extent."
+
+Well, my feelings for Ibu were also pretty suspicious.
+I had thought about this earlier too, but it was probably just at the level of seasonal measles.
+
+In some sense my philosophy of love had probably solidified at that time.
+That 3D girls were not trustworthy.
+
+"What would Hatsushiba do if one of your girl friends got a girl lover?"
+
+"Friend as in... for example Cotton?"
+
+"... Not just limited to Ayame."
+
+"It's really hard to imagine...
+After asking whether they will regret it ot not, if they reply with a yes, Yuuka will probably cheer them on... maybe?
+But it's really hard to tell unless it actually happens."
+
+"I know, right?
+Sorry for asking such a strange thing."
+
+"That's right.
+That surprised me."
+
+It really seems like the president's story is quite extreme, or rather, a failure.
+
+The way she says it with confidence can almost barely make you believe in her words.
+
+I deepened my conviction via the conversation with Hatsushiba, and we returned to the classroom.
+
+Although school had ended, going to the clubroom was out of question, so we went towards the library.
+Recently we have been going there a lot.
+
+All the club members gathered around the table today as well.
+It was overflowing with textbooks and notebooks.
+
+"Yu, Yuuka.
+Umm, about this thing right here."
+
+"... Cotton, weren't you taught this just now?"
+
+"S, sorry."
+
+Ayame had also lost her face.
+
+The Demon Sergeant with her imaginary horns on her head today as well, was spreading her devlish aura like a raksasha.
+If this wasn't the library, she'd have probably striked her whip on the ground.
+The scene was all in my head, though.
+
+"Aramiya-kun, aren't you thinking about something rude?"
+
+"No.
+<span title="ソンナコトナイデスヨ">Not in the slightest</span>..."
+
+So sharp.
+So scary.
+
+"Good grief.
+Sorry for my impolite brother."
+
+"Eh?
+No, not to that extent..."
+
+Hatsushiba got agitated after being suddenly said so by Kiyomi.
+
+She came here immediately when I texted her that we'll be studying at the library since the clubroom could not be used at the moment.
+Although I thought she would go back home thinking it was too bothersome.
+
+While sitting beside Ayame and peeking into her textbook, Kiyomi was saying some random stuff like "everything in the 2nd year syllabus looks so hard, right..."
+
+"Ah, I'm thirsty. 
+Ryouma, can you bring some water?"
+
+"Ki, Kiyomi-chan...
+This is not a cafe.
+Food and drinks are also prohibited..."
+
+"Although the library near our home recently made PET bottles OK..."
+
+Don't compare libraries run by the school and the municipality.
+
+Rather, why are these two talking like it's normal?
+
+"Were you acquaintances with Saitani?"
+
+"Well, somewhat.
+Ryouma stands out a lot after all.
+I went to talk immediately."
+
+Then, Saitani alternately looked at us, blinking in amazement.
+His behavior of being puzzled about which one of us to look at was kind of cute.
+
+"... By any chance, is Kiyomi-chan Senpai's sister?"
+
+"We have the same last names, right?"
+
+"No, Kiyomi-chan said that she didn't have siblings, right?"
+
+"... Well, she makes it that way while in school."
+
+Kiyomi turned her face away while saying so.
+
+"Isn't that obvious?
+It's disgusting to just be siblings with this guy.
+It'd have been great if he was actually born from a cabbage or something...
+But after checking the official family register, it was clear that we are real siblings, and I couldn't take it anymore."
+
+"It's me who cannot take it anymore.
+If you hate it, you can just go home.
+Rather, please go home."
+
+"I didn't come here for you, but for Ayame-san!
+Don't get so conceited!"
+
+"U-um... Ki, Kiyomi-chan, p-please be quiet!"
+
+Kiyomi got scolded by Saitani for raising her voice.
+
+All the while looking like she had several complaints, maybe common sense made my impolite sister closed her mouth.
+
+"Please pardon my idiot sister, Saitani."
+
+"W-what did you just-"
+
+"Be quiet here."
+
+After being pointed at, her expression became a rare difficult, while twitching her eyebrows.
+
+Kukkukku.
+It felt good.
+
+"Grow up already, Aramiya..."
+
+The Tozaki sitting beside me said so with a self-satisfied look.
+
+No, even I don't say anything if the other side doesn't provoke me.
+If I just get insulted one-sidedly, it hurts my pride as an elder brother.
+
+"Isn't it the job of a protagonist to tenderly embrace his foul-mouthed sister?
+Am I wrong, Aramiya?"
+
+Even more words came my way.
+
+Eroge protagonists are really amazing.
+They are full of sympathy to the very end, after all.
+
+While I have said this several times before, it's impossible for me.
+
+"S, sorry for being late~"
+
+Ibu came in at that timing.
+
+She went to the toilet just before coming to the library, but is quite late for that.
+
+"Ibu-san, hey!"
+
+"Ah, Kiyomin, hey!"
+
+Kiyomi and Ibu are also quite friendly.
+Since long ago, Kiyomi has been good at quickly making friends with lots of people.
+It was the same for Ayame as well.
+
+However, one personage was displeased at her being late.
+
+"... You are late, Suwama-san.
+Your studies are getting late as well."
+
+"Hauu.
+Y-your face is scary, Hatsushibacchi!
+I was called by the student council president, and got late..."
+
+"Student council president?"
+
+When Hatsushiba asked her back with a moody expression, Ibu animatedly nodded and said,
+
+"She was trying to pursuade me to help the student council for a looong while.
+Even though I rejected her saying that I have to attend club activities, she just kept going on and on...
+She even suddenly brought up her assets and stuff..."
+
+What does she mean by assets?
+Ransom?
+Does she want money or something in exchange for not asking her to join the council?
+
+_TL Note_: This is a bit confusing. In the raw, Ibu says "いきなり [身代話](https://kotobank.jp/word/%E8%BA%AB%E4%BB%A3-538275) までされたんだからねー". Here I'm guessing "minoshirobanashi" would mean something like amassing one's fortune/assets. Clearly the president wants to increase her harem lol. But well, Seiichi thinks maybe she's talking about "身代金" which means ransom or some sort of compensation asked for by blackmailing.
+
+"Doesn't she say the same to every girl in our school?"
+
+Tozaki's conjecture sounded very plausible.
+
+Ibu who had just transferred was probably not marked until now though.
+
+"Then, quickly sit down and open up your textbook and notebook."
+
+While I still wanted to ask her about other stuff she talked with the president about, Hatsushiba has already switched into her demon instructor mode.
+Ibu sat down in a fluster and took out her textbooks, notebooks and writing utensils.
+
+It was not the atmosphere to ask any questions.
+Hatsushiba will be scary if I interrupt her studies; I'll ask later.
+
+![Demon-instructor-Yuuka](./img/P107.jpg)
+
