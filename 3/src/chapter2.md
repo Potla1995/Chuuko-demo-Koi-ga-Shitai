@@ -1,5 +1,5 @@
 # Chapter 2: Then, should we go buy swimsuits?
-_Note:_ _From this chapter on I'll be shifting to present tense for narration._
+_Note:_ _From this chapter on I'll be shifting to present tense for Seiichi's thoughts, and keep past tense for narration._
 
 Ever since the club room became unusable, we tried to search for the culprit behind the rumors, but as expected, it wasn't as easy.
 
@@ -49,7 +49,7 @@ The final exams coming close, it was around time to start preparing for them.
 "This formula is very basic.
 Beat it into your head."
 
-Like a thunder god as always, Tadokoro was exerting his shrewdness during the math lecture today as well.
+Like a thunder god as always, Tadokoro was exerting his demonic aura during the math lecture today as well.
 
 After erasing the blackboard packed with formulas and solutions, he moved his hand and started writing with force again in the space that got empty.
 His expression of the eyes that glared at the classroom looked like that of a ferocious hawk.
@@ -720,7 +720,7 @@ What does she mean by assets?
 Ransom?
 Does she want money or something in exchange for not asking her to join the council?
 
-_TL Note_: This is a bit confusing. In the raw, Ibu says "いきなり [身代話](https://kotobank.jp/word/%E8%BA%AB%E4%BB%A3-538275) までされたんだからねー". Here I'm guessing "minoshirobanashi" would mean something like amassing one's fortune/assets. Clearly the president wants to increase her harem lol. But well, Seiichi thinks maybe she's talking about "身代金" which means ransom or some sort of compensation asked for by blackmailing.
+_TL Note_: This is a bit confusing. In the raw, Ibu says "いきなり[身代話](https://kotobank.jp/word/%E8%BA%AB%E4%BB%A3-538275)までされたんだからねー". Here I'm guessing "minoshirobanashi" would mean something like amassing one's fortune/assets. Clearly the president wants to increase her harem lol. But well, Seiichi thinks maybe she's talking about "身代金" which means ransom or some sort of compensation asked for by blackmailing.
 
 "Doesn't she say the same to every girl in our school?"
 
@@ -738,3 +738,135 @@ Hatsushiba will be scary if I interrupt her studies; I'll ask later.
 
 ![Demon-instructor-Yuuka](./img/P107.jpg)
 
+"Uu~. Even though the sky is so blue, why do we have to study inside?"
+
+"Do you want to stay back a year?
+Just start working already.
+Isn't it cool inside cause of the AC?"
+
+Hatsushiba mercilessly urged the complaining Ibu on.
+Even Tozaki seemed to have attained nirvana, pretending to not see anything.
+A century's worth of love can get cold seeing this side.
+
+Although Hatsushiba's attitude towards Ibu looked harsh, she was basically like this when it came to studying.
+She was severe even with Ayame.
+There was no discrimination in her eyes.
+It could really not be said that they were close... but her attitude was softening little by little.
+
+"Hatsushiba's expressions while acting S is not bad either."
+
+Tozaki's mental health is steadily getting complicated.
+At this point this guy would be happy no matter what Hatsushiba does.
+
+While looking at Hatsushiba's spartan coaching with sidelong glances, Tozaki and I also continued studying.
+
+Kiyomi was not studying, rather talking about something with Saitani.
+Her status was pretty convenient.
+Even I want to blabber without meaning with Saitani.
+
+"By the way, Kiyomi-chan, you don't have to study?"
+
+"Everything on the test comes from the lessons, so why does one even need studying out of classroom?"
+
+_TL Note:_ There we go, another honour student...
+
+So full of confidence.
+
+Now that I think about it, I have never seen Kiyomi study at home.
+
+"You should have gone to some school with a higher level..."
+
+What Saitani said was extremely logical.
+
+That's right, that's right!
+You tell her!
+It's not still too late.
+She should take the extrance exam at an even better high school!
+
+"The closer the better... I don't want to attend schools far away.
+Commuting would be a waste of time."
+
+"M, Mmm... maybe that's true, but...
+Did you really want to attend the same school as your brother that much?"
+
+"What?"
+
+"Ki-Kiyomi-chan, your voice...!"
+
+Every student in the library turned towards Kiyomi.
+Her voice was just that much loud.
+
+Kiyomi immediately put her hands on her mouth, and awkwardly bowed in apology to the surrounding people.
+
+"Uh Ryouma, don't say such strange things."
+
+"I don't think it was that strange though..."
+
+"It was hard for me to not faint from that."
+
+"But then, if you go that far, why are you guys going to the same school..."
+
+So justified.
+
+Since she could have easily gone to a better high school, and she hates staying with me, she should have just chosen some other more suitable high school.
+Then it would be a win-win situation for both of us.
+
+'Proximity > hatred towards me'... sounds pretty half-baked as an explanation to me.
+
+There were other schools nearby that had higher standardized test score cutoffs than ours.
+
+By any chance, does her lover whom we are yet to know about attends this school?
+Or maybe someone she has a crush on?
+In that case her actions are consistent.
+
+"I hate wasting time, so chose this school.
+Any objections?"
+
+Saying so, Kiyomi forcefully made Saitani agree with her.
+
+If you hate wasting time, then don't enter this type of a club...
+I resisted my urge to say that out loud.
+A light mouth leads to calamities.
+Careless comments can destroy oneself. 
+
+In that manner, with some conversations in-between, the noise of turning pages of books and writing on notebooks could be heard for a while.
+
+"I'm~... done...
+Dying... I'll die..."
+
+"No you won't.
+Look, only ten more problems.
+If you don't finish within ten minutes, you have to do ten more.
+It won't end if you don't solve one problem in less than a minute."
+
+_TL Note:_ Wow, this is so harsh... For the first time in this LN I'm feeling sympathy for Ibu lol.
+
+Hatsushiba's demonic coaching had reached its climax.
+And Ibu was making teary eyes, giving up on finishing her questions which had been piling up.
+
+"I wanna plaayy"
+
+"Just do your work OK?
+Do you want to repeat a year?
+Yuuka is fine either way though."
+
+"Don't wanna..."
+
+Ibu faced her notebook head-to-head with watery eyes.
+Well, do your best.
+
+"It's really terrible for you right, Hatsushiba."
+
+"Really.
+But right now there's no other way than to keep hitting.
+When someone doesn't even know how to study, in order to make them remember something, you must keep cramming until it enters their head.
+Especially since Suwama-san desparately lacks even the fundamentals."
+
+Sometimes I honestly wonder how Ibu even managed to get admission into our school.
+
+"If someone is the hit-hard-until-they-get-it type, they really need to focus to get results I guess...
+Smart people would immediately catch on, but if their basics are faulty, there really is no way to make it easier for them."
+
+"Making it easier has a bad ring to it, but practically it's just as you say."
+
+People should always try to find ways of learning things more easily.
