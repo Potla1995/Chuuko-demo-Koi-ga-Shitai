@@ -870,3 +870,286 @@ Smart people would immediately catch on, but if their basics are faulty, there r
 "Making it easier has a bad ring to it, but practically it's just as you say."
 
 People should always try to find ways of learning things more easily.
+
+Moreover, if such a strategy is not possible to find, one should resort to exhaustive memorization...
+In other words, they should transition to memorizing everything.
+After all, studying is often described as something you gotta contest until you get the hang of.
+
+"Rather than lazing around for ten hours, it's always better to concentrate for one hour."
+
+"Guess it varies from person to person..."
+
+No matter how you think about it, studying for one hour and playing eroge for the remaining nine is definitely better.
+
+Anyway concentration power of people has its limit.
+Crossing those limits leads to burden on the head, and breaks your health.
+I really don't want to study to the point of decreasing my life span.
+
+_TL Note:_ Yeah, don't ever try doing a PhD. I've forgotten when I last slept peacefully.
+
+"..."
+
+Ayame is facing her notebook and textbook, but keeps playing with her pencil or crossing her arms... it doesn't seem like she is making any progress.
+Probably she has already used up all her concentration power.
+
+It's apparent that she is getting bored.
+
+Of course, Hatsushiba is not one to overlook that attitude.
+
+"... Cotton?"
+
+"I-I'm studying seriously..!"
+
+Hatsushiba's ice-cold voice made Ayame shake her whole body.
+
+Seeing her this scared feels pretty strange.
+
+"Hey", Kiyomi whispered in a small voice only audible to me.
+"Do they not get any prizes?"
+
+"Prize?"
+
+"Ayame-san and Ibu-san are both studying so desparately."
+
+"Is it not satisfactory enough if they get better scores in the finals?"
+
+"That's not a prize, but the result.
+Since you're making them work this hard, their willpower won't last long unless there's some candy or something."
+
+If putting in effort as usual required to be rewarded every time, then they would be working for the prizes and put their priorities the other way round.
+If they start working for the prizes and not for their goals, then once you stop rewarding, they might also stop working hard.
+
+Ayame was really happy with the brooch that came with a first time limited edition eroge release that I gave her before, and still has it attached to her bag, but that's a different story.
+
+That being said, maybe not prize but at least they might need some goal to increase their motivation.
+
+"Should we go somewhere once the finals are over?"
+
+To my nonchalant suggestion, Ayame, Hatsushiba, and Ibu all showed a surprised expression.
+
+"Somewhere as in, where?"
+
+Ayame asked back, slightly interested.
+
+While I wanted to say "Comic Market", it is customary wander those holy lands myself.
+Roaming around with several beginners could become huge trouble.
+They can be useful as porters, but it would be worrying to leave carrying around the stuff to newbies.
+In the first place, people start melting even standing inside Big Sight in the middle of summer.
+Also, one must wake up at dawn to be fully prepared, which is also painful.
+
+_TL Note:_ Summer comiket is a fight for your life, I kid you not. How I wished Covid19 didn't happen... I even had a summer internship in Tokyo. :(
+
+So, for now Comiket is a no-go.
+What place is good at these times...
+
+"Let's see..."
+
+Well, there's no meaning in conforming to and thinking in three dimensions.
+
+What if this was an eroge?
+
+After studying like it's the end of the world, the final exams happen.
+
+Everyone looks forward to the summer vacation after that, and make plans for a summer trip.
+
+To the clear blue skies, the shiny white sandy beach, the huge ocean dyed in emerald blue, and the heroines dressed in attractive swimsuits.
+
+"Sea, maybe?"
+
+I dropped such a whisper.
+
+Well, the emerald blue sea is probably out of question unless we go abroad or something.
+At least, the nearby seas are not like that.
+
+... But let's try thinking back for a bit.
+Sea and all is very troublesome, right?
+It's not like I like swimming or anything, and I don't really want to see swimsuits in 3D.
+
+However--
+
+"Sea!! ISN'T THAT SUUPER GOOD!"
+
+"Yuuka hasn't visited recently, so that might be good!"
+
+"Ah, they also went to the sea after finals in that game!"
+
+Ibu, Hatsushiba, and Ayame were all raising favourable voices together.
+
+Kiyomi also looked surprised, muttering a "... that's rare".
+Guess she didn't think I'd bring up the sea out of all things.
+
+"Ah, no..."
+
+However, I want you to wait a bit.
+I just brought it up because it appears frequently in eroge, and it isn't like I want to go to the sea or anything.
+
+"Swimsuits~, what kind should I wearr~"
+
+"The top won't fit anymore, so must buy a new one..."
+
+"Maybe I should just use the one from last time."
+
+They had completely hooked onto this idea.
+
+What to do.
+
+If I go back now everyone will boo for sure.
+
+"Senpais, please keep quiet here!"
+
+Saitani pouted, trying to appeal his anger.
+
+Umu, he's so cute.
+Really a feast for the eyes.
+
+"Then, should we go buy swimsuits?"
+
+_TL Note:_ Finally the chapter name makes some sense. Whew, I've come a long way. xD
+
+Hatsushiba splurted out as if unable to hold it in any longer.
+Her Demon Sergeant mode had been totally thrown out.
+Where did it disappear?
+
+"This much studying should be enough for today.
+Let's dismiss."
+
+If Hatsushiba et al go shopping for swimsuits, I'll just go back home.
+
+While I was preparing to go back,
+
+"What's the point if you don't come!"
+
+Kiyomi snatched my bag away.
+
+"What are you doing?
+Return my bag!"
+
+"Come with us.
+This inconsiderate dumbass!
+Even trees grow when you give them water..."
+
+"Don't give confusing analogies!
+Why do I have to join them if they want to buy swimsuits?"
+
+"There's no point if you don't come.
+Just come with us.
+No more questions.
+I'll take along Ryouma as well."
+
+"Eh? Me?"
+
+Being suddenly the centre of the topic, Saitani widely opened his eyes.
+
+"The librarian's work is also ending soon, right.
+Then there's no problem."
+
+"Uu, Kiyomi-chan, you're too pushy..."
+
+If I return home now, for sure Saitani would be dragged along.
+
+I cannot bring myself to leave Saitani alone, surrounded by four girls.
+
+That's right.
+She's still a guy, and I'm getting more and more cognizant about it.
+
+_TL Note:_ What? _She_? :concerned:
+
+Well, even if he stood near the lingerie department, no would would probably talk ill of him.
+
+"Good grief.
+Okay, got it."
+
+Can't be helped.
+It's all to protect Saitani.
+
+Then, we left school, heading towards the swimsuit shop.
+
+Yet, Tozaki returned home while shredding tears of blood, saying he had some other thing to attend to.
+
+... Did he have to go that far?
+
+&nbsp;
+
+Leaving the usual school street, we headed towards the station.
+
+Since I don't know where the shop is, I blindly followed the others.
+
+Ayame and Hatsushiba at the front, then Saitani and Kiyomi in the middle, and Ibu and I were walking behind them.
+Since we were having conversations in these pairs, it naturally led to this formation.
+It's times like these when the relation between friends shows up.
+
+"We used to return home together with everyone like this in the past..."
+
+Ibu who was walking beside me, spilled out so with a spiritless downcast gaze.
+This is rare.
+
+"Was this during your elementary school days?
+I don't know about it though."
+
+I always returned home alone.
+My home was also very close.
+
+"At that time everyone paid attention to Seiichi after all.
+There was also this rule that no one should steal a step on you...
+People would get angry on girls that wanted to return home with you."
+
+Was there such a thing?
+I don't have any such recollections.
+
+Or maybe they were made to keep their mouths shut by Ako.
+
+"... By the way, do you know what happened to the girls from that time?"
+
+"Akocchi and the others?"
+
+"That's right.
+Ako, Mii, Kyouya, Hizumi... the girls who used to hang around with you."
+
+During my elementary school days, these five were the most influential students in my class... no, maybe in the whole school year.
+
+They had formed a group, and would always take the initiative before others.
+
+I'd also indomitably competed with the Kyouya who was good at sports or the Hizumi who was smart...
+but it's all a story of the past.
+
+"I asked them which school they went to~"
+
+"Where did they go?"
+
+"... Umm... where was it again?"
+
+Oi.
+
+"Sorry, I forgot..."
+
+"You...
+People don't usually forget these things, right?
+They're not attending our school, right?"
+
+"... Probably."
+
+Well, it's Ibu.
+Can't be helped if she doesn't remember.
+
+"Well, let's leave their topic.
+Then... who blew in Ayame's rumor into your ears?"
+
+"Eh, everyone used to speak about it at that time..."
+
+"I know.
+That's why I'm asking who blew it into your ear.
+When did you first come to know about Ayame's rumors?"
+
+"Hmm...
+I think it was immediately after I became friends with people from our class.
+But, people were talking about it from before already, so I had also heard about it before...
+It was probably someone like Nishiharacchi.
+Or maybe Yamamotocchi?
+Or maybe Hosoecchi the class rep..."
+
+So the centre was the girls who got attached to Ibu.
+
+That's right, when she locked me up in the PE shed...
+
+"You were working together with Nishihara, right?"
+
