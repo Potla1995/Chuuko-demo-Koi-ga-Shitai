@@ -1153,3 +1153,81 @@ That's right, when she locked me up in the PE shed...
 
 "You were working together with Nishihara, right?"
 
+"Yep.
+Nishiharacchi is a good girl.
+She's plain, but with some brushing she'll surpass even me for sure!
+If only she put more care into her hair or eyelashes..."
+
+I'll get troubled if you talk about that with me.
+
+I don't care if someone's plain or flashy in RL to be frank.
+
+In games though, I like it when plain girls turn cute.
+But if the transformation happens via throwing away their glasses, then it's unacceptable.
+
+Girls with glasses should aim to become cuter while keeping their glasses.
+It's not like I am a glasses girl type, but to me it is unacceptable to throw away one's own characteristic.
+
+"Well, setting aside her sparkling potential, you guys made it really terrible for me."
+
+"... Sorry."
+
+At that moment, she shrunk her shoulders.
+
+It's good that she is repenting about it.
+
+If she realizes that what she did wasn't right, it means she has grown up a little.
+
+"Good grief...
+It's all because you believed in the pure-looking Nishihara.
+Since when were you planning that?"
+
+"On that very day.
+Right after Seiichi adamantly rejected me...
+Nishihara said something like in comics, that's what you would do."
+
+"What comic?"
+
+"It was a manga named _Kanojora no Jouseki_."
+
+_TL Note:_ If any of you play Go/Shougi/Othello, you would know that jouseki is like "standard sequences". So this manga is titled something like "Established tactics of the girls".
+
+My brain froze for a moment.
+
+Isn't that an eroge!!
+A guy gets attacked by a girl, who was a werewolf.
+
+No, wait.
+Was that even made into a comic?
+Don't think it was...
+
+"I want to confirm something, but how was that comic?
+Was it around this big?"
+
+She shook her head when I showed her the approximate size of a weekly comic book.
+
+Apparently it was not A5 size either.
+
+"... Is it around this big?"
+
+"Yep, like that!
+Just that size!"
+
+She firmly nodded to A4 size.
+
+I then proceeded to get her estimate of the thickness.
+Starting with showing around 5mm with my thumb.
+
+"Ah yep, it was pretty thin.
+I always thought manga was around 1cm in size, so was quite surprised."
+
+I was aghast.
+
+A4 size, and that thickness.
+
+It was absolutely a doujinshi - a 2D manga made by an amateur or pro.
+
+Is Nishihara someone who is on this side of the river?
+Can we actually have discussions on the same page?
+That type of girls seem to like BL a lot... well, it's just my bias though.
+
