@@ -1229,5 +1229,438 @@ It was absolutely a doujinshi - a 2D manga made by an amateur or pro.
 
 Is Nishihara someone who is on this side of the river?
 Can we actually have discussions on the same page?
-That type of girls seem to like BL a lot... well, it's just my bias though.
+These types of girls tend to like BL a lot... well, it's just my bias though.
 
+No no no...
+Although I don't know her that well, and we have never really had restful conversation before, but it's hard to imagine _that_ Nishihara being a fujoshi...
+I want to believe that it was someone like her elder sister who had the book, and she just happened to stumbled across it and brought it along with her to school, or something.
+
+... Should I once confirm it nonchalantly?
+
+"And then by confining you like in the manga, she told me to just do you...
+I begged Nishiharacchi to guide me to the gym storehouse..."
+
+"I see.
+Then, just before locking me up, you guys were discussing stuff over the phone."
+
+"Eh?"
+
+What's with that reaction?
+Did she open her mouth but forgot how to close it?
+
+Seems like it was different from what I had imagined.
+
+"We discussed during lunch break, and then left the rest to the flow... kinda?"
+
+What vague planning!
+
+However, it's true that having long discussions with Ibu would probably be futile.
+Once she's decided on something, it's her style to just do it using momentum without putting much thought into it.
+
+... It doesn't seem like she was guided by Nishihara.
+
+But Nishihara was apparently on the phone at that time.
+I only noticed her close up her smartphone, and it was also on her ears just moments before...
+
+"Weren't you consulting Nishihara after PE class was over?"
+
+"N-not at all! I'm telling the truth!"
+
+"Are you sure..."
+
+Ibu immediately showed me the screen of her smartphone.
+
+On the screen she had the incoming calls history pulled up.
+Scrolling up to the logs of that day, she hadn't called anyone other than her parents.
+There were no incoming or outgoing calls in the history nearby the time of the incident.
+
+"Certainly there's no record of you calling each other on that day."
+
+"That's right!"
+
+"But, you can easily delete the call logs..."
+
+"Seriously!?"
+
+Showing the call logs really didn't have much meaning to it if she could just delete the entries...
+But, judging by this reaction, Ibu probably honestly doesn't know how to delete entries from the log.
+
+"Then, just who was Nishihara contacting at that time..."
+
+"Hmm, who knows?
+Should I ask her next time?"
+
+"...Can you ask her, just in case?"
+
+A lot of this doesn't make sense.
+
+"But, to be able to be like this with Seiichi - "
+
+Ibu was about to say something when we realized that we were lagging far behind the others.
+
+"Ooi, Aramiya?
+Did something happen?"
+
+Ayame and company were waiting for us to catch up while looking at our direction.
+
+"Let's go, Ibu."
+
+"M, Mmm..."
+
+She looked meek probably because she couldn't finish her sentence, but we can just hear the rest later.
+
+&nbsp;
+
+Entering the shopping mall inside the station, we climbed up escalators to the third floor.
+
+The swimsuit section for girls was at the deepest corner.
+The cutesy swimsuits that came in variety of colours seemed to be for younger girls, and were lined up pretty narrowly.
+
+Many high school girls were eternally repeating the action of picking a bunch of swimsuits and then returning them to the display.
+Ayame and the three others were also looking closely at the products on display.
+
+Maybe this was an open-minded Americanized store, as there were several girls who were selecting their next swimsuits while wearing swimsuits.
+
+... And we the guys were having trouble just staying there.
+
+"... Senpaai.
+What are we doing here...?
+This is the ladies' corner, ladies.
+For swimsuits."
+
+The weak voice coming from Saitani who was standing beside me provoked the protective instincts.
+
+But you're not out of place here at all.
+It's me who's in trouble, please understand.
+
+"Kiyomi is to blame for this...
+But Saitani should also oppose her whims more strongly."
+
+"Ki, Kiyomi-chan is too pushy..."
+
+I'm sorry for my absolutely obstinate sister.
+
+"L, let us at least go to the men's section together?"
+
+That's an absolutely charming proposal.
+Maybe people will mistake us as lovers.
+
+... No, wait.
+Aren't we being misunderstood at this current instant?
+
+That's right.
+Ain't I being looked at as Saitani(the girl)'s boyfriend for choosing her swimsuit together?
+Somehow the gazes looking at me weren't insinuating "Uwaa, what is a guy doing here?"
+
+Saitani's uniform definitely appears like the girls' uniform to the.
+There certainly are schools where the girls wear trousers.
+
+"Saitani...
+Please do not leave my side..."
+
+"Eh?
+W, what are you saying, Senpai...!"
+
+"If you leave me, I'll definitely become isolated.
+The gazes will kill me!"
+
+"I feel like I'm already dying from the gazes though."
+
+That's a misunderstanding, Saitani.
+The gazes directed at you are clearly that of looking at an accomplice.
+
+That girl over there seems to think, "Isn't she cute being all embarrassed?♪" or something!
+
+"Eroge protagonists are really tough..."
+
+I whispered inaudibly.
+
+This is 「only swimsuits」 right now...
+
+Eroge protagonists even accompany girls to underwear sections.
+
+You can't even compare that with a bed of thorns.
+
+"Seiichi, Seiichi~!"
+
+"Hmm?"
+
+"Ja-n!"
+
+Turning around, Ibu was there.
+
+Wearing a light blue bikini on that voluptious and healthy body.
+
+This is pretty suggestive.
+
+"... Wait why are you even trying it on out here!"
+
+"Eh?
+But, this is that kind of a store~"
+
+No, well, maybe you're right.
+
+Rather, why did you even come to show it to me!
+
+"How's it, how's it?"
+
+She excitedly showed off her swimsuit.
+
+It seemed as if it was one size smaller, and was clinging to her body.
+
+"Rather, don't show it off!
+However, it does seem a bit small?!"
+
+"What can I do?
+This swimsuit is so cute, yet this is the largest size they have.
+Can't be helped, right?
+So, whaddya think~?"
+
+"Stop it already!
+Don't emphasize your breasts!
+I didn't come here to review your swimsuit!"
+
+How should I put it... it seems like with a little bounce her breasts could just overflow out of the swimsuit and that's terrifying!
+
+As Ibu's breasts were shaking every time she moved, it wouldn't be surprising if the swimsuit suddenly comes off.
+
+"Put that back!"
+
+"Mmm.
+This didn't get a good review-.
+Then, I'll come back after putting on something else!"
+
+Ibu promptly returned to the dressing room.
+
+Good grief, my heart almost stopped there...
+Wait.
+Did she just say she's coming back after trying something else?
+By any chance, did she misunderstand my "don't show it to me" as "I don't like this one"?
+
+_TL Note:_ Not sure how to word this one as it's pretty late at night, but you get what Seiichi wants to say. xD
+
+"This is bad, she'll come back again.
+Saitani, we must retreat for the moment...
+Eh, Saitani?"
+
+Saitani who was with me till moments ago had disappeared!
+
+"D-did you abandon me...!?"
+
+He couldn't be found anywhere.
+
+Why!
+You weren't the type of guy<♀> to abandon people in need...!
+
+As Saitani who was playing the role of a lover was now gone, it somehow felt like the girls were sending sharper gazes at me.
+My skin was tingling.
+It felt like I was being pierced by their eyes!
+
+"C, can't be helped.
+I'll also retreat here."
+
+Just as I turned around, my arms got caught.
+
+"Aramiya-kun.
+How is this?"
+
+This voice is that of Hatsushiba.
+
+It is definitely not good to turn around.
+
+"Sorry, Hatsushiba.
+I'm already at my limit.
+I can't stay here anymore.
+Let me go upstairs to the mens' section.
+Then no one can blame me (with their gazes) anymore."
+
+"... You looked at Suwama-san's swimsuit, but won't look at Yuuka's or Cotton's?"
+
+_TL Note:_ Eeek, the sadist princess is back at it again.
+
+Her voice was freezingly cold.
+
+It felt as if an icicle had been shoved inside my spine.
+
+I started trembling in fear.
+
+"N-no, that was just her obstinately showing it to me...!"
+
+"Isn't that partiality?"
+
+It was not possible to run away from her solid hold.
+The softness and moisture were about to bring forth some crude sensations.
+It felt like my sense of reason was gently being scraped away.
+
+"... Will you let go if I look?"
+
+"Yes, of course."
+
+Looking around, a beautifully ripened splendid thing was being emphasized.
+
+Hatsushiba also has really good style.
+She isn't that tall too, and although she has a childish face, places that were standing out were really outstanding.
+
+_TL Note:_ Does this sentence make sense anymore? Idk. :P The clock is ticking and my brain is dying...
+
+The one-piece with frills don't make her seem more grown-up than required, and clearly bring out her charm.
+It really suits her well.
+
+"It suits you really well, yep."
+
+"Really?"
+
+She gave an impishly teasing look as if suspecting me.
+
+"For real, for real."
+
+It truly looks great on her, but I really want her to leave my arm.
+
+However,...
+
+"Umm, this might be extremely rude, but...
+Isn't that swimsuit kind of tight?"
+
+The part near her breasts seemed especially tight...
+
+"Mmm, this swimsuit doesn't have a larger size..."
+
+... Not again!
+No, I get it!?
+Even I have cried when the 5-types-included package got sold out and I was forced to buy the 3-types-included package...
+Wait, this doesn't seem to be the right example.
+
+"Let me look around a bit more then...
+do not leave the store, OK?"
+
+The second half of that sentence sounded like a threat, wait, are you serious about that?
+
+Hatsushiba returned to the dressing room after giving me such a warning.
+
+Although what will come later is scary, I really want to dash out of here in full speed.
+
+"Aramiya"
+
+However, god seems to not even care about my circumstances.
+
+She didn't come and catch me like Ibu or Hatsushiba, but...
+
+She'll definitely tell me to look at her.
+Ignoring Ayame at this point really felt like a dishonor to her.
+
+After straightening my resolve, I looked around.
+
+"H-how is it?"
+
+Green separates pinning down a bikini.
+
+It looked somewhat gallant.
+
+Ayame also possessed pretty exuberant breasts.
+
+"I-it suits you a lot, I think."
+
+"O-oh, is that so.
+That's good.
+Is it, cute?"
+
+I can't really say anything when asked if it's cute or not.
+
+Probably taking my silence as denial,
+
+"Hmm...
+I'll look around once more."
+
+And there she goes back into the dressing room.
+
+Shoot.
+Should have just said that it looked cute, even as a lie.
+
+Then at least Ayame's turn would have ended.
+
+"Anyway let's run-"
+
+"Seiichii~"
+
+What a terrifying infinite loop.
+
+What's up with you guys?
+Is this a <span title="jp. ジェットストリームアタック">Jetstream attack</span>?
+Can I not survive without a stepping stone?
+
+_TL Note:_ [Mobile Gundam reference](https://www.youtube.com/watch?v=BKqoCwYvmFk?t=53).
+
+If I run here, Ibu will definitely chase me...
+
+Being chased around by a girl in swimsuit outside of the swimsuit store would definitely become the most conspicuous act of the century.
+
+"Sup?"
+
+Turning around again, I look at Ibu.
+
+Starting from the shoulder and going over the breast towards the lower half were two straight lines of clothing.
+There was nothing else other than that.
+
+It was what they called a slingshot, something too stimulating for commonfolk.
+
+"It covers too little!
+Go change immediately!"
+
+"Ehh, really?"
+
+While stretching her shoulder strap, she asked back.
+
+It's about to fall off the important parts!
+Why the hell can this girl stand in this getup in public?
+This is not a liberal beach of America!
+
+_TL note:_ I have (unfortunately? fortunately?) not seen slingshots in the few visits to the beach over here though haha. Maybe because the weather wasn't hot?
+
+"Listen up!
+Next time you wear a swimsuit with dangerous exposure, you'll be disqualified with a red card!"
+
+"Tch-.
+Ha~i"
+
+She returned back to the dressing room.
+
+Even the back view is dangerous for slingshots.
+The butts are open for the world to see.
+
+Immediately looking away, I held my head.
+
+"Aramiya-kuuun"
+
+But despair was yet to end.
+
+"... Someone please kill me."
+
+"Eh, said something?"
+
+_TL Note:_ Hatsushiba never uses second or first person. This is why sometimes her sentences sound like they are missing pronouns or using third person. This is just how she talks.
+
+"I didn't say anything...
+So, is it Hatsushiba this time?"
+
+Hatsushiba's swimsuit this time was-.
+
+_Refer to the illustrations please, I have no idea how to describe this properly. Not a swimsuit specialist here :P_
+
+What they call a monokini.
+The top and bottom were connected together with the help of three rings.
+Her cutesy belly button could be seen through one of the rings, and it looked very _moe_.
+
+However...
+
+"That's a lot of exposure..."
+
+"It's better than Suwama-san's slingshot, right?"
+
+That's true, but I feel like I'm being somewhat deceived here...
+
+And it does seem to be better than before, but still pretty tightly fitting.
+
+&nbsp;
+
+_Chapter 2 progress: pages 93-133 / 93-147_
+_We're halfway through Volume 3 now!_
