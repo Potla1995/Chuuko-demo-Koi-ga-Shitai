@@ -2093,7 +2093,7 @@ I must have hurt Seiichi a lot."
 "I don't think you'll forgive me if I just apologize, and I must repent on my actions a lot more...
 But still, I want to apologize over and over again..."
 
-![Ibu-apologizes](./P145.jpg)
+![Ibu-apologizes](./img/P145.jpg)
 
 "... So, for now, I just want to say thanks for all the happy things you're giving me."
 
