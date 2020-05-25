@@ -1660,7 +1660,532 @@ That's true, but I feel like I'm being somewhat deceived here...
 
 And it does seem to be better than before, but still pretty tightly fitting.
 
+"Do they not have a higher size?"
+
+"They don't.
+However, it's not as tight as it looks."
+
+"Is that so...
+One question though, are you not embarrassed?"
+
+"Not at all.
+There are no other guys.
+And everyone else is wearing swimsuits, right?"
+
+"... Wish you guys understood my feelings about being left in the middle of girls in swimsuits."
+
+"That, well...
+Just think of being able to see so many swimsuits as a side benifit."
+
+"Only if it was 2D though..."
+
+In the middle of our conversation, the next in line showed up.
+
+"Aramiya. How is it this time?"
+
+"Aa, yes yes."
+
+I look at Ayame's figure.
+
+She had put on a bikini.
+However see-through frills were attached everywhere, and it looked very cute.
+
+It looked a bit grown-up as well, and was really noice.
+Seemed like it would fit a still image better than before, and was very moe.
+
+"Oo, Cotton, that's cute!"
+
+"R-really? A-Aramiya, how do you think?"
+
+"I, isn't it good?"
+
+It looked like a swimsuit 2D heroines would wear, and I realized that it also existed in RL.
+
+"Seiichi~!
+This time is fiine~"
+
+Ibu returned, wearing a bikini.
+
+It was better than before, but still was cutting it quite close...
+
+Rather, my eyes got used to it already.
+
+"How's it how's it?"
+
+Bending her body, she brought her breasts closer.
+
+Those bulges were terrific.
+
+"What's that?
+You want to take a bold pose?
+This is how you take a pose!"
+
+The agitated Hatsushiba put her hands behind, and put her breasts forward.
+
+You guys aren't forgetting that we are in a public place and attracting way too much attention, right?
+
+"Come to think of it..."
+
+Ayame took a pose as if suddenly remembering something.
+
+Bending herself sideways, placing the right hand on her breast, she extended her left hand; looking in this direction.
+
+It was the characteristic pose of a certain illustrator.
+
+(Referring back to the cover images)
+
+![Swimsuit-pose1](./img/P000b.jpg)
+
+_TL Note:_ I don't follow illustrators that much, so don't really know the reference here. If anyone knows who likes to draw this pose, please let me know!
+
+This girl doesn't deviate in her own way...
+
+"Ee~ Ayamecchi.
+What is that thing~?
+You need to be bolder-"
+
+"Ha?
+Are you looking down and making fun of this pose?
+You must be looking for a fight."
+
+"Suwama-san's pose is too vulgar!"
+
+They started calling out on each other.
+
+"Three women gather to make noise" is apparently true.
+
+_TL Note:_ jp. 女三⼈寄れば姦しい is a phrase. It is a wordplay on the kanji of onna/woman(女) and kashimashii/noisy(姦) which just consists of three girls. The Japanese are accurate on that depiction lol.
+
+"Haa..."
+
+My time was only spent sighing.
+
+Isn't it around time we leave the shop...
+Wait, where did Saitani mysteriously disappear?
+We need to search for him.
+
+"Ki-Kiyomi-chan, stop!
+Don't pull meeee...!"
+
+A scream reached our ears at that point.
+
+"Rather, return my uniform!
+You told me you'll return if I just put this on once..."
+
+"It is a waste to not show this to the others!
+You've nothing to lose anyway."
+
+"My soul is getting scraped away at though!"
+
+Kiyomi put on a one-piece and was carrying a boys' uniform on her hands.
+Well, this girl's swimsuit-clad figure just didn't hit it home.
+I like flat girls as flat girls, but for this girl could just be described by "pitiable" at best.
+
+But I don't care about that.
+She was dragging over someone who was trying to hide behind herself.
+That person was voicing out their displeasure for a while now.
+
+"There!"
+
+And then the swimsuit clad on a small girl was introduced to us.
+
+As expected, the one standing there was Saitani.
+
+![Swimsuit-pose2](./img/P000c.jpg)
+
+_TL Note:_ LMAO.
+
+On that small body was a refreshing looking bikini, and the bottom was a see-through pareo.
+
+Frankly speaking, it suit him/her very well.
+
+His gesture of putting his hands front as if to hide the chest, and minutely twisting the body in embarrassment was absolutely the best.
+No, even that was not enough words of praise.
+
+" " " ... " " "
+
+Ayame, Hatsushiba, and Ibu all three went silent.
+
+"I lost..." "Yeah, the result is obvious..." "She feels like a cute girl~"
+
+They each admitted their losses.
+
+Are you guys fine with that?
+
+"How is it!
+Super cute, right!
+Don't I have talent as a stylist?
+Should I actually aim for that in the future!?"
+
+Kiyomi was saying thus proudly.
+
+"Shut your nonsense!
+That swimsuit just leverages Saitani's cuteness, and that's all it is.
+Calling that talent as a stylist deserves scorn!"
+
+"Ha!?
+If you say that far, do you believe you can make him look better than me!?"
+
+"It's too easy to do better than that!
+Okay, let's go, Saitani!"
+
+"Aramiya-senpai, please stop!
+Please return back to your senses!"
+
+"It's fine. You can shine even more."
+
+"I don't want to shine as a girl...!"
+
+"Well, then I must carefully investigate the swimsuits on display..."
+
+"Where did the bashful senpai from moments ago disappear...
+Please level your head!"
+
+"Leave it to me...
+I've become totally sane now!"
+
 &nbsp;
 
-_Chapter 2 progress: pages 93-133 / 93-147_
-_We're halfway through Volume 3 now!_
+Eventually, cooling down the blood in my head and becoming actually sane took over thirty minutes.
+
+"Senpai..."
+
+"Sorry.
+Really sorry..."
+
+I was humbly asking the Saitani who had his cheeks puffed for forgiveness.
+
+After that, colluding with Kiyomi we made him wear five more different types of swimsuits.
+Finally at that point, I was able to bring back my heart.
+At this point I can't even ask him to forgive me.
+
+I must make Kiyomi pay for this.
+
+"Fine.
+Please stop apologizing like that."
+
+Saitani heaved a small sigh.
+He was giving a smile that seemed to say 'it can't be helped'.
+
+"I-is it all right?"
+
+"It's not all right!
+B-but, well... I also had a little bit of fun...
+Just a little..."
+
+His reddened cheeks were again those of a girl.
+I almost wanted to hug him in my arms.
+
+I-if boys hug each other, it's not sexual harassment, right?
+
+... No, that would feel like dirtying Saitani.
+Let's stop these thoughts.
+
+"H-however.
+Next time you make me cross-dress, I'll break our friendship right then and there!"
+
+"Yes, got it.
+From now on it definitely won't be _me_ who cross-dresses you."
+
+Not me.
+My Kiyomi will do it.
+
+Well, setting aside jokes, it's good that I got his forgiveness.
+It would be terrible to spend time in the library while enduring a scornful gaze from Saitani.
+I'm not as hardcore as Tozaki who would get excited over it.
+
+Although I deleted the photos I took earlier from my smartphone after being told so by Saitani,
+it was already sent over to the cloud service.
+Let's take a secure backup later as well.
+
+"Rather, Kiyomi. You should also apologize."
+
+"I actually went overboard this time. Sorry, Ryouma."
+
+While a sharp glare towards me.
+
+"Rather, it was you who got into it so much that we ended up making him wear five different types!"
+
+"Haa?
+I just wanted to make you realize that your stylist talent was not cool.
+Saitani's-"
+
+"You two?"
+
+Saitani hammered a nail into us while we were starting to quarrel as usual.
+
+Seemed like he was about to really lose it.
+His mood was also different than usual.
+The sensation of impeding danger ran through our skin.
+
+"Mou.
+You're siblings, so please get along with each other."
+
+"Even if you say that..."
+
+"In the first place, why do you hate your brother _that_ much, Kiyomi-chan?"
+
+Kiyomi started blinking at being directed that sudden question.
+
+"W-well, this guy... is very miserable..."
+
+"Isn't he not miserable at all?
+Stopping Ayame-san and saving her from lots of trouble, isn't he a great elder brother?
+To the point of me wanting to have him as my elder brother!
+It's too cruel to act as if he doesn't exist!"
+
+That's right.
+Tell her more, Saitani!
+
+Ah, this is the happiness of having an ally!
+That happiness degree springs up further if that ally is Saitani.
+
+Rather than that, Saitani calling me "onii-chan!" would probably induce nosebleed!
+I don't mind "onii-san" either.
+But even "onii-sama" is hard to throw away...
+
+Will he really become my sister?
+
+"It's none of Ryouma's business..."
+
+After being scolded by Saitani, Kiyomi peevishly made her face into a pout and turned away.
+That was a look I haven't seen in a while.
+
+Maybe even this girl can't oppose Saitani that much.
+
+"That being said, does Saitani have siblings?"
+
+Being asked that, Saitani's face turned void of expression as if he had attained enlightenment, and muttered-
+
+"I have three elder sisters..."
+
+Aa (makes sense).
+
+He must have always been tampered with by them...
+
+&nbsp;
+
+And then we decided to meet up outside after buying the swimsuits.
+
+Saitani went to pick flowers, and isn't here right now.
+
+_TL Note:_ LOL the author goes over-the-top with Saitani and female pronouns/expressions.
+
+Well, if it's outside the store, it feels comfortable to wait even if it's ladies' goods.
+Maybe my standards dropped due to staring at swimsuits for so long...
+
+"Seiichi, thank you for waiting~"
+
+The first to come away from the register was Ibu.
+
+While showing me her bag containing the swimsuit, she snuck up close to me.
+
+"Nah, I wasn't really waiting or anything."
+
+"The shopkeeper is not good at their job.
+Seems like Hatsushibacchi and Ayamecchi will also take a while~"
+
+"It must be the end of the world if you are the one saying so."
+
+"Meaniee!"
+
+While saying that, Ibu has a complacent smile on her face.
+
+"Why are you smiling?"
+
+"Well, it's fun to even just talk with Seiichi"
+
+Looking a little fondly at me, Ibu slightly reddened her cheeks.
+
+This sudden gesture caught me by surprise.
+
+... What's up with you.
+
+Although she didn't look even close to our childhood days, I ended up remembering about them.
+
+"Seiichi, what happened?"
+
+"Nothing."
+
+"Ehehe!"
+
+"... You seem like you're having fun every day, Ibu."
+
+As I suddenly let out what I was thinking, Ibu gave a huge nod with a "Yep!".
+
+"It's fun~.
+Seiichi is there, Ayamecchi is there, and Hatsushibacchi is also there.
+You guys actually look at me.
+And don't ignore me too!"
+
+"You used to get ignored by your friends?"
+
+"Without Akocchi, I was completely useless..."
+
+While Ako was there, her relationships used to hold up in its own way or something?
+
+She's a complete doofus after all...
+Did her classmates get bored of her airheadedness, or got angry...
+
+"What did you do during middle school days?"
+
+"Hmm.
+Akocchi always called me over, and made me buy drinks for everyone, or reserve places for them, or undress to make others around me laugh..."
+
+"... Wait a bit. You..."
+
+"What?"
+
+"'What'...?"
+
+Does she not understand?
+
+That's called plain and simple bullying...
+
+"Didn't you guys go out together to play..."
+
+"But of course!
+As a baggage carrier or something.
+Although I look like this, I have a lot of strength!"
+
+Even if it was just bullying...
+
+If the person in question doesn't realize it, maybe it's happiness for them.
+
+... If no one observed them.
+
+If someone came to know about it, the scene would be too disagreeable, and just imagining it was increasing the _discomfort index_.
+
+_TL Note: Note very accurate._ jp. 知ってしまえば、そんな光景は不愉快なだけで、想像するだけで不快指数は⾼まっていった。
+
+My hate towards Ako increased and crossed the limits.
+
+Was that girl's latent disposition _terrible to that extent_?
+
+"Although I feel bad for Akocchi, I like to be merry with everyone like this!
+So everyday is fun for me!"
+
+Should I call my current feelings that of pity?
+
+To be frank, a lot happened till now, and I couldn't empathize with her from the bottom of my heart.
+
+This girl should continue in a much more decent path.
+
+After getting a little more common sense in her head...
+
+"So, Seiichi."
+
+"Mm?"
+
+"I'm terribly sorry for what happened during our childhood."
+
+Suddenly Ibu bowed her head.
+
+"W-whaa..."
+
+I was taken aback at her totally unexpected words and actions.
+
+"Although I thought it was kind of strange, but I just believed in Akocchi's words and didn't think for myself...
+I must have hurt Seiichi a lot."
+
+"U, a..."
+
+"I don't think you'll forgive me if I just apologize, and I must repent on my actions a lot more...
+But still, I want to apologize over and over again..."
+
+![Ibu-apologizes](./P145.jpg)
+
+"... So, for now, I just want to say thanks for all the happy things you're giving me."
+
+Her ambience and tone were both different from usual.
+
+My condition went a bit amiss.
+
+It suits this girl to just act like an idiot and say "ahaha~".
+It's troubling for me if she acts seriously like this.
+
+"... You don't have to think that much about it."
+
+"Seiichi?"
+
+"The incident with the love letter, in some sense, opened a new path for me.
+I don't plan on saying any more complaints.
+So, for now... well.
+You should just go full throttle in having fun during school days."
+
+Same with Ayame.
+
+This girl also has the right to enjoy school life.
+
+It'd be too sad if her school life only comprised of her innocent character being exploited by people who she thought to be her friends.
+
+Just like Ayame, if she isn't able to recover from her misfortune till date, then the world would be unfair.
+
+"Okay.
+Thank you, Seiichi.
+I loved you ever since we were small!
+My feelings will never change!"
+
+"Don't say embarrassing things!
+3D is totally rejected!"
+
+"Seiichi is being bashful~"
+
+"I'm not being even a millimeter bashful!"
+
+"Not again~"
+
+"Don't poke at my cheek!"
+
+Her face still radiated happiness while saying that.
+
+... I can't understand, but if she's happy, then it's fine.
+
+&nbsp;
+
+Finally, we started going back home.
+
+It was just before 6pm, but being the beginning of summer, it was still light out.
+
+After parting ways with Ibu, Hatsushiba and Saitani, it was just Ayame, Kiyomi, and me walking together.
+
+"Then, what will you do?"
+
+"Hmmm, I'd like to polish it a bit further."
+
+En route, those two were talking about something secretively in front of me.
+
+These two had planned a sudden encounter in the bath before.
+
+Ayame's swimsuit figure from that time passed through my mind.
+
+Why though?
+Till now I'd only suddenly remember pictures from 2D events, but recently recently 3D has been encroaching my land.
+Is it a curse or something?
+
+"At that time we can communicate over message."
+
+"Okay, gotcha.
+I'm relying on you."
+
+Well, it's not like they're planning to set traps for me all the while.
+
+It's probably that kind of consultation.
+About school life and whatnot.
+
+"Yep!
+Please leave everything to this incompetent Kiyomi."
+
+When Kiyomi hugged Ayame's arm after saying that, she gently patted her head in return.
+
+"Haha, I'm entrusting it on you, Kiyomi."
+
+They went along really well, like true sisters.
+
+If Ayame was in her delinquent getup, this scene wouldn't look like one where she is affectionate with her junior.
+
+... But if they cling to each other so closely, people may misunderstand it as yuri.
+
+If the rumor about her being yuri spread any further, then we'll all be troubled even more!
+
+- - -
