@@ -9,7 +9,6 @@ script:
     - git add .
 
 deploy:
-    local_dir: ./book
     provider: pages
     skip_cleaup: false
     github_token: $GIT_TOKEN
