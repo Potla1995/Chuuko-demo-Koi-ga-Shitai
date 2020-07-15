@@ -2,8 +2,8 @@ language: minimal
 
 script:
     - cd 3/
-    - wget https://github.com/rust-lang-nursery/mdBook/releases/download/v0.3.7/mdbook-v0.3.7-x86_64-unknown-linux-gnu.tar.gz
-    - tar -xzf mdbook-v0.3.0-x86_64-unknown-linux-gnu.tar.gz
+    - wget https://github.com/rust-lang/mdBook/releases/download/v0.4.1/mdbook-v0.4.1-x86_64-unknown-linux-gnu.tar.gz
+    - tar -xzf mdbook-v0.4.1-x86_64-unknown-linux-gnu.tar.gz
     - ./mdbook build
     - rm -rf mdbook*
     - git add .
