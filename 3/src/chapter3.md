@@ -1,6 +1,6 @@
 # Chapter 3: For me, you're good.
 
-+ _Progress: pages 148-160 done out of 148-198 (~22% done)._
++ _Progress: pages 148-167 done out of 148-198 (~40% done)._
 + _I had to slow down due to RL commitments (internship + teaching + research + osu tournaments welp). However, all is not lost, as it seems this chapter will end up with considerably less typos and mistranslations than the previous ones thanks to the lower speed._
 + _There are many cute Ayame-chan and Kiyomi-chan moments coming up in the chapter; now Aramiya knows why his sister berates him so much. Well, not that he plans on fixing any of it._ :waturr:
 + _ETA: before August 2020 if things go as planned._
@@ -337,6 +337,8 @@ Dear me! Such a high-maintenance sister.
 
 &nbsp;
 
+## Part 2/5
+
 We reach the fountain plaza in front of the station.
 Continuously pumping up however much water, the fountain shows the current time in a consistent rhythm.
 First time when I saw this it was super exciting a technology, but after seeing the same scene for around ten years, the same scene doesn't really move me that much.
@@ -476,5 +478,236 @@ Frankly, it feels like she's aiming at my head.
 "A-Ayame,... right?"
 
 ![Virgin-killer Ayame](./img/P000de-merged.png)
+
+"That's right... do you not recognize me if I'm not in my uniform or something?"
+
+"No, nothing like that..."
+
+Can't say it.
+
+That she appeared just like a 2D sprite...
+
+For a moment she actually stole my eyes.
+My whole attention could focus on nowhere else.
+
+To think that such beautiful girls existed in 3D-- wait, aaaa what the hell is wrong!
+
+"Rather, this is Kiyomi's instigation eh..."
+
+"Uh, umm... what are you talking about?"
+
+Hiding her mouth with the bag, Ayame averts her eyes, playing dumb.
+
+Isn't it completely obvious from just that gesture.
+
+"SMH. Why did you guys do such a thing?"
+
+"N-no, I, umm..."
+
+Her cheeks become slightly red.
+
+"I thought... it would be great... if we could go out together..."
+
+Danger.
+
+I'm in complete chaos.
+
+For some reason, my heart tightened.
+Clearly the me right now is strange.
+It might be <span title="when one of your arteries gets stiff">arteriosclerosis</span>.
+Let's intake vegetables and seaweed more positively from now on.
+
+"Y-you could have just asked me directly."
+
+"No, well. You are probably busy playing gammes on the weekend..."
+
+Truly.
+
+Especially recently, as Ayame's rumour takes up a lot of resources, I haven't been able to play eroge after school that much. Thus weekends have become the only time when I'd be playing.
+
+"Ki-Kiyomi said that she'll bring you out of the home naturally, so..."
+
+"It was anything but natural, though!?"
+
+After telling me we're going out today morning, she even threw me a lowkick.
+
+It was even stretching the limits of "unnatural".
+
+Calling me "onii-chan!" first thing in the morning itself could be called a bizarre occurrence.
+
+"U-um... If it's a bother, I'll return rightaway..."
+
+It is a bother.
+
+However, her current appearance was definitely put on for me, right?
+
+Plus, her goodwill towards me is nothing half-hearted.
+
+You'll be gaming so it's hard to invite you out... these words are very difficult to manage.
+
+For example, suppose you're busy cooking or radio calisthenics as a hobby on a weekend.
+Or even some outdoor activity like hiking.
+
+Then people would be like, 『oh, can't be helped I guess』 when you reject their invitation to go out, right?
+
+On the other hand, if you tell them that you're busy playing games,
+
+『Gaming on a weekend? You're free right, just come over!』 is what they'd say.
+
+Aren't all of these your hobbies? Why the discrimination?
+
+I want to enjoy gaming _because_ it is the weekend, and I _am not free_!
+
+"Aramiya?"
+
+"No, well, I don't really have games that I have to play rightaway."
+
+The main title we talked about is releasing after summer vacations start anyway.
+
+The game I thought of playing today isn't something I want to play as a top priority.
+It's also been a while since it was released.
+While it's the perfect timing to discuss about it online, but it's not like I have to have a review right now.
+
+"We came out so far after all."
+
+"T-then,"
+
+"OK. Should be good sometimes."
+
+"Hell yeah!"
+
+![Ayame-guts-pose](./img/P167.jpg)
+
+Ayame took a cutesy guts pose while grasping her palm.
+
+I realized this just now, but this guy seems to be attracting a lot of attention.
+The gazes of the drooling boys looking at this direction, and the girls besides pinching them... is this all due to Ayame...?
+
+They're clearly clicking their tongues... wait, I can feel clear hostility pointed at me.
+My skin is tingling.
+At least out here.
+
+"Aight, let's go, Ayame."
+
+"Yeah"
+
+Don't know where to, though.
+
+Well, let's first escape out of range of these harsh stares.
+
+&nbsp;
+
+For now, we are not going anywhere but just roaming around the station area in circles...
+
+"〜♪ 〜♪"
+
+Ayame seems to be in a great mood.
+She's even humming something.
+
+In contrast, I'm super lost about what to do.
+
+At this situation chaotic in every sense, I wound up only thinking to myself.
+
+In the first place, what should I do?
+
+I really have no clue what to do on an outing with a girl.
+
+I know of the existence of magazines like XYZ Walker and so on, solely because I came across them in the convenience stores.
+However, I've never opened such a magazine.
+
+I haven't even browsed websites on these topics.
+
+In this town, the only places known to me are fast food chains, book stores and shops with otaku goods.
+
+... No, wait.
+What the hell did I learn in all these years?
+
+It's times like this that eroge knowledge comes in handy, right?
+
+Talking about places where two people go out together...
+
+-- The park.
+
+Ah, but where is the park near this station?
+
+While I walk around this area a lot, I've never seen a park nearby.
+Well, not that it'd be strange if one exists nearby.
+
+Since basically I only go to places where I have something to do, my memory about everything else is bleak.
+And I use the same road all the time, so have never really gone out of my way looking around.
+
+Other places that are standard includes movies.
+
+... But even if we go to the movie theater...
+
+I have no idea what movie is running at the moment, and it's fine to just watch them on rental.
+Anyway if we have the time to watch a movie I'd just play VNs.
+
+Well, sometimes the movies that I watch while eating turn out to be interesting, but to decide on a movie and watch it requires a lot of energy, or well, the feelings of 'why am I watching this' ends up being a hindrance.
+
+It's purely a problem of my internal priorities.
+
+... Not good, not good.
+Right now, I need to do something about this situation.
+
+Why doesn't some idea just conveniently pop out at these times?
+
+Even though usually so many scenarios from VNs come to mind.
+
+Why is my brain so slow right now?
+Just because we're doing something other than the usual, don't just laze around. Please work hard, my synapse.
+
+"... Do you want to go somewhere?"
+
+"I do, but let's leave it for the last.
+It'll become a lot of baggage.
+At first... let's go to somewhere that you wanna go!"
+
+A lot of baggage... so related to shopping, I guess.
+
+But leaving that for the end means that I need to think up about something.
+
+While I was using the brain cells at full processing power, my smartphone vibrated inside my pocket.
+
+I sneak a peek at the display.
+
+『Go eat food or something.
+Here's the place -> [https://......](https://......)』
+
+Is a message from Kiyomi.
+
+Flustered, I check my surroundings.
+
+However, her figure was nowhere to be found.
+Where is she hiding?
+
+At that timing my smartphone vibrated again.
+
+『Suspecting that I'm watching? I'm not, btw.』
+
+This girl must be watching me, right!?
+
+Why does she know that I'm troubled about where to go.
+Plus, what's with that message in sync with my flustered actions?
+Is she keeping watch by hacking the security cameras or something?
+
+"Ah, Aramiya, something the matter?"
+
+"N-no. I think I was hallucinating."
+
+Maybe because of my suspicious behavior, Ayame had noticed my inner turmoil.
+
+For now I typed back 『You're getting interrogated thoroughly on today's matter later』.
+She replied immediately, but I don't even have to check the contents.
+It's probably just her jeers.
+
+Moreover, resting our backs somewhere doesn't seem like a bad choice.
+
+"... Should we go to some cafe?"
+
+"Good idea.
+Thinking back, I haven't had breakfast yet."
+
+## Part 3/5
 
 _To be continued_
