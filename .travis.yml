@@ -2,12 +2,15 @@ language: minimal
 
 script:
     - cd 3/
+    - wget https://github.com/rust-lang/mdBook/releases/download/v0.4.1/mdbook-v0.4.1-x86_64-unknown-linux-gnu.tar.gz
+    - tar -xzf mdbook-v0.4.1-x86_64-unknown-linux-gnu.tar.gz
     - ./mdbook build
     - rm -rf mdbook*
+    - git add .
 
 deploy:
     provider: pages
-    skip_cleaup: false
+    skip_cleaup: true
     github_token: $GIT_TOKEN
     keep_history: false
     committer_from_gh: true
