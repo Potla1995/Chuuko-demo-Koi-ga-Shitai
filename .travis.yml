@@ -9,9 +9,10 @@ script:
     - git add .
 
 deploy:
-    provider: pages:git
+    provider: pages
     cleanup: false
-    edge: true
     github_token: $GIT_TOKEN
     keep_history: false
     committer_from_gh: true
+    on:
+        branch: master
