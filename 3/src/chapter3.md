@@ -1,6 +1,6 @@
 # Chapter 3: For me, you're good.
 
-+ _Progress: pages 148-167 done out of 148-198 (~40% done)._
++ _Progress: pages 148-169 done out of 148-198 (~40% done)._
 + _I had to slow down due to RL commitments (internship + teaching + research + osu tournaments welp). However, all is not lost, as it seems this chapter will end up with considerably less typos and mistranslations than the previous ones thanks to the lower speed._
 + _There are many cute Ayame-chan and Kiyomi-chan moments coming up in the chapter; now Aramiya knows why his sister berates him so much. Well, not that he plans on fixing any of it._ :waturr:
 + _ETA: before August 2020 if things go as planned._
@@ -707,6 +707,84 @@ Moreover, resting our backs somewhere doesn't seem like a bad choice.
 
 "Good idea.
 Thinking back, I haven't had breakfast yet."
+
+I open the map via the URL Kiyomi sent. It's close. Wait, it's right around that corner.
+
+While it irks me that I'm dancing in her palms, <span title="jp. 背に腹は代えられん">there's no time to consider other options</span>.
+
+"Is it here..."
+
+On the opposite side across the river from the station, it was a three-storied fancy wooden building.
+
+My brain's internal wikipedia doesn't contain such an entry.
+The place is called "Germoglio Cafe".
+
+If I'm not wrong, it probably means something like a bud or　gemmation in Italian.
+I think I saw that phrase in "Fukuin no Campanella".
+
+_TL Note_: Referring to [Shukufuku no Campanella](https://vndb.org/v1337).
+
+"You sure know about a very fancy place..."
+
+"... Well, previously by chance."
+
+It would have been better to tell her the truth about Kiyomi leading me here, but for some reason I ended up hesitating to say so.
+
+It can become a bit dicey if she comes to know that Kiyomi might be following us.
+
+If it's Ayame she'd probably forgive me with a "can't be helped", but getting spoiled by that is a loss by itself.
+No, just by having the destination sent via mail was a loss on my part.
+
+Entering through the door, we place our orders at the counter and head towards the second floor which had no-smoking seats.
+It feels more like a coffeehouse or a private house.
+The paintings hanging around everywhere had illustrations of patterns resembling those found in picture books.
+
+Wooden tables and chairs showing considerable age.
+Wooden planters hanging from the walls using cords.
+The wallpapers also had pictures of forestation and leaves full of vibrant green energy.
+It almost felt like we were inside a forest appearing in fairy tales for children.
+
+... This place really isn't something in my territory.
+Totally different from places like Doutor or Starbucks or Renoir, this shop has a very handmade and homey atmosphere to it.
+
+Kiyomi sure knows about such a place. Did some guy bring her here before?
+
+Taking a vacant two-people seat, as we wait for our order, Ayame keeps peeking around at our surroundings.
+
+"Oo... this looks like a place I'd go with Nee-chan!"
+
+"Ah, you did say you have an elder sister."
+
+"Yep. She stays with my father though.
+Whenever free, she comes to visit me.
+And hugs me every time we meet."
+
+"Sounds like a very anxious elder sister."
+
+"By your terms, she kind of feels like Kotani-sensei."
+
+"... Kiriko nee-san, eh? Is that so?"
+
+"Well, when we were saved by the police, the first thing she did was to hug you tight, right?"
+
+"Yeah, you're right."
+
+"Aren't they also close in age? She's 8 years older than me."
+
+"Ah, then must be the same. Kiriko nee-san is 23."
+
+She also purchased my cellphone and pays for the bills, after all.
+
+I'm always being taken care of. At school she's kind of noisy, but still saves me this way or other. She also accepted our advisor role rightaway.
+
+"Nee-chan also helped a lot when our mom fell ill, so this time I wanna give her my thanks. I was looking for something nice to present her."
+
+"Present, eh..."
+
+Should I also give my thanks to Kiriko nee-san?
+
+... No, wait. She pushes mundane stuff down my throat just by that amount.
+That should offset each other.
 
 ## Part 3/5
 
