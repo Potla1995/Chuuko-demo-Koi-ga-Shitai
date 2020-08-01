@@ -2,7 +2,8 @@ language: minimal
 
 script:
     - cd 3/
-    - ../mdbook build
+    - cp ../mdbook ./
+    - ./mdbook build
     - git add .
 
 deploy:
