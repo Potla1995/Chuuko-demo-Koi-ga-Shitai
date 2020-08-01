@@ -1,6 +1,6 @@
 # Chapter 3: For me, you're good.
 
-+ _Progress: pages 148-169 done out of 148-198 (~40% done)._
++ _Progress: pages 148-178 done out of 148-198 (~60% done)._
 + _I had to slow down due to RL commitments (internship + teaching + research + osu tournaments welp). However, all is not lost, as it seems this chapter will end up with considerably less typos and mistranslations than the previous ones thanks to the lower speed._
 + _There are many cute Ayame-chan and Kiyomi-chan moments coming up in the chapter; now Aramiya knows why his sister berates him so much. Well, not that he plans on fixing any of it._ :waturr:
 + _ETA: before August 2020 if things go as planned._
@@ -712,6 +712,8 @@ I open the map via the URL Kiyomi sent. It's close. Wait, it's right around that
 
 While it irks me that I'm dancing in her palms, <span title="jp. 背に腹は代えられん">there's no time to consider other options</span>.
 
+## Part 3/5
+
 "Is it here..."
 
 On the opposite side across the river from the station, it was a three-storied fancy wooden building.
@@ -785,7 +787,386 @@ Should I also give my thanks to Kiriko nee-san?
 
 ... No, wait. She pushes mundane stuff down my throat just by that amount.
 That should offset each other.
+Dismissed, dismissed.
+But well, on this occassion, maybe I should get her a present for checking up on her condition...
 
-## Part 3/5
+"Thank you for waiting."
+
+A waitress brought the menu to our seats.
+
+Ayame ordered omelette rice, and I ordered hashed meat rice.
+
+Taking one mouthful, it was considerably tasty.
+With the feeling of homemadeness, it had a taste of relief.
+Although western, it was like a mother's cooking.
+
+I ended up devouring around half of it at once without making conversation.
+
+"That's right, I could have made bentous.
+Sorry for not being considerate."
+
+Ayame spilled out the words as if remembering it all of a sudden.
+
+"N-no. It's not anything about being considerate or not, right?
+It's fine even if you don't bring it."
+
+"You didn't want to eat?"
+
+"Not like that.
+At least at these times, isn't it fine to just relax and eat outside?
+It's a very rare occassion after all."
+
+Originally, I didn't even leave the house to go out with Ayame.
+
+"But isn't it also good to eat together spreading a sheet on the lawns in a park? It's a common scenario, right?"
+
+"Hmm, it's certainly a situation one could easily imagine.
+But you see... ever since I played _that_ game, the image of the protagonist throwing up has set strong in my mind with the word 'bentou'"
+
+"Ah, that game.
+It certainly left an impression.
+T'was quite impactful."
+
+"All the same, I can't support just taking out that scene.
+No well, I understand the feeling of waiting in vain for several hours.
+But the other person also didn't make you wait for no reason."
+
+"I also don't support throwing up the bentou, but the heroine could also have contacted a bit earlier right?
+If she was in a standing to be able to predict that, she should have just gone ahead and contacted him..."
+
+"Both of them being too careful about each other must have led to stress."
+
+Kuku-- Ayame gave a small laugh.
+
+"I've really evolved into being able to have these types of conversations smoothly."
+
+"You're also being influenced by the evil...
+Is that OK?
+Plunging forward like this."
+
+"It's fun, so it's fine.
+It's impactful in various ways.
+I never thought I'd be moved to tears just by pictures and sound and composition."
+
+I was the same at first.
+
+Nonchalantly picking them up, playing them, and then being moved to tears without even realizing.
+
+What we are doing is illegal. That's why it's not right to feel rightful about it though...
+
+But because we are at this age, there are things we can sympathize with.
+Surely after becoming university students or joining companies, our viewpoints would change little by little as well.
+
+Because I am breaking the rules to play eroge, I want to cherish my present feelings.
+
+"Well, it'd be bad if mom or Nee-chan find out about it, so I meticulously hide the games.
+Such as wrapped in clothes in the drawer."
+
+"It's really harsh..."
+
+It's as reasonable as it gets.
+My family's ethical senses are all over the place.
+And it's not like I'm causing any kind of problems.
+That's why maybe they think it's fine to leave me alone.
+
+... At least it's totally better than refusing to go to school.
+
+"I don't really understand because mom is always so carefree.
+But Nee-chan is very fastidious, so...
+Once when she mistakenly picked up a slightly risqué book with a lot of exposed skin in the convenience store, she tore it apart and threw it away.
+Since she's usually so calm and quiet, I was surprised.
+Ah, after that, she reimbursed the money to the store, OK?"
+
+... This is bad.
+
+I'll definitely receive hostility if I meet her.
+
+Sounds like someone who would blurt out that non-real youths are the reason behind the increase in sexual crime rates.
+
+"She's always very kind; don't misunderstand her."
+
+"O- OK..."
+
+Well, I don't really need to worry because we probably won't meet anyway.
+
+However, it would be wise to avoid each other, if possible...
+
+It's best to not raise unnecessary flags.
+There are cases when collecting every flag can lead to scenes or carnage or create unnecessary trouble.
+
+"Thanks for introducing me to this nice place, Aramiya!"
+
+"Well, you should bring your elder sister here sometime."
+
+"Yeah. It was delicious, so I wanna come again."
+
+"Mmm, the taste was really formidable."
+
+Although my true opinion was that Ayame's bentous are more delicious than this.
+
+... This is bad, I feel like I'm being domesticated with food.
+
+"But... mmm.
+I wanna bring bentous next time."
+
+"Nah it's fine. Isn't it a bother?"
+
+"It's not a bother at all!"
+
+"Isn't it a super bother to cook stuff?
+You'd feel hot cooking during summer cause of the heat..."
+
+Even I can make easy stuff like meat sauce.
+Albeit to the degree of boiling pasta and splattering tomato sauce on it.
+
+But after making pasta, don't you have to wash the pot and all?
+Especially on days when you make peperoncino, you even have to use the frying pan and wash it, right?
+
+The more stuff you cook, the more cooking utensils you have to wash.
+You can reuse the utensils without washing in some cases, but even that is limited in number.
+
+On top of that, Ayame's bentou contains four to five different side dishes.
+It can be easily guessed how much　time and labour it takes.
+That's why I always eat them while savoring the taste...
+
+"It's not even a trouble for me."
+
+"Do you love cooking that much?"
+
+"I neither like it nor hate it.
+But I like it right now.
+You eat it and say that it's tasty, after all.
+Making food for the guy you like is totally not bothersome."
+
+"..."
+
+I feel like she just said something amazing very nonchalantly.
+
+Somehow, I'm getting restless, and can't calm down.
+It's not like I feel bad or anything, but an indescribable feeling is slowly seeping into my heart.
+
+"Plus, I really want to eat on the lawn with you."
+
+"I-is that so... Then, I'll rely on you for that next time."
+
+"Ou!"
+
+Without thinking I had blurted out something like "next time".
+
+It'll be troublesome to do this time and again, but well... throwing water on her hopes would also be boorish.
+
+"So, where should we go next?"
+
+Trying to gloss over the issue, we left the coffeehouse.
+
+We again start loitering around the station area.
+
+And, again start worrying about where to go next.
+
+"U-um, Aramiya..."
+
+"Sup?"
+
+"You don't have to do the unreasonable.
+For me... it's fun just being with you.
+Even walking together is... umm, sufficient, so..."
+
+"..."
+
+Breathing out lines sounding like they're from a VN.
+
+Is she aiming at me, or just an airhead?
+
+Well, if she says that it's comfortable for me... but is it fine with you, Aramiya Seiichi?
+Something resembling a man's pride still fractionally remaining inside whispered at me.
+
+Think, think.
+
+According to my play logs, usually the heroine brings the protagonist around here and there.
+Recalling some scenes, they were usually...
+
+"How about window shopping?
+Although I proposed it, not buying anything is also kind of..."
+
+"It's fine.
+I was thinking of getting summer goods as well.
+I also wanted to set a goal to walk to."
+
+If I remember correctly, the lower floor of the building with Uniqlo had a ladies corner...
+
+Well, we decided on a place to go, so let's set off.
+
+We still have a lot of time, so no need to hurry.
+
+"Ah right, Aramiya. You buy your own clothes and shoes and stuff, right?"
+
+"The bare minimum necessities.
+Stuff that my parents buy are basically checkered shirts, so it's always just otaku-type clothings."
+
+"You don't look like you'd care about fashion.
+Don't you use the money for clothes for buying VNs?"
+
+"If you use otaku-type fashion near those kinds of shops, you'd get attacked by otaku-hunters when you enter the back alleys.
+You can also get inquired about your job and stuff...
+And if they do a personal belongings check during the inquiry, after I'm done shopping, that can get bad really fast.
+Those creeps with smirks on their face... how great it'd be if all of them lose their luck with women..."
+
+"S-seems like you go through a lot."
+
+"That's why I can now evade otaku-hunters and police inquiries a bit now.
+People who hunt otakus cannot hurt normal people, so disguising as normal people can deter them from attacking.
+If they really come at me, it'd be very troublesome so it results in less damage if I spend money on my attire."
+
+_TL Note:_ Wow that's scary. Good advice though!
+
+"After all that you say, you're not that afraid of delinquents after all."
+
+"What are you saying?
+I'm always on guard against them.
+<span title="jp. 君子危うきに近寄らず>Wise men avoid trouble</span>, is my mentality."
+
+"But don't you pin down delinquents?"
+
+"T-that was just sheer willpower. Won't pull that off a second time."
+
+"Then, why were you so afraid of me at first..."
+
+"As I explained, I'm basically a scaredy-cat, and don't want to be punched at.
+The rumors about you at that time were totally off the charts after all."
+
+Kusu~ Ayame gave a reserved laugh.
+
+"But thanks to that, less and less people are avoiding me too. Thanks a bunch!"
+
+At the very least, Hatsushiba's explanation must have worked, and so there's now no wall between her and our classmates.
+
+They also talk about it to their acquaintances, so it's also permeating little by little.
+
+Well, on the flipside, rumors about me are going rampant now though.
+
+Can't the summer vacations start any earlier...
+
+"Your rumors... most definitely have a culprit behind it.
+It's not something people would normally misunderstand carelessly."
+
+"I know, I know.
+I don't bunk classes anymore, and don't pick fights as well."
+
+"Also, when some unknown person starts a conversation, don't glare at them."
+
+"... T-that's just an old habit."
+
+After that, we went towards the shopping mall, and go further in to head up towards the ladies' floor.
+
+While crossing the food court on our way, Ayame stopped her feet suddenly.
+
+"What happened?"
+
+Ayame's gaze was fixed at a softcream shop.
+
+It's not a random softcream shop, but has the famous name "CREMIA" written on it.
+
+"This place!
+Actually, Nee-chan very highly recommended this softcream shop to me!"
+
+"Hmm? Then how about you try?"
+
+"Is it fine?"
+
+"It's not like I have any reason to refuse, right?
+I also have some interest in it."
+
+And so both of us bought softcreams.
+There weren't really a lot of types, so we got the same flavor.
+
+Sitting down on chairs in the food court, we immediately give it a try.
+
+""Delicious!""
+
+I got addicted immediately.
+
+"I don't eat softcreams that frequently, but it's very apparent that this is different from just one bite."
+
+With sparkling eyes, Ayame took another bite.
+
+"This is very dense.
+As expected of 25% fresh cream.
+Not that I understand the numbers haha."
+
+It's really good.
+To the point of sobering you up.
+It's really soft to the tongue, and the comforting coolness gently slips down the trought.
+Well, it's really hot outside so that must play some role as well.
+
+"The cone below is also crispy! Just how I like it!" (Ayame)
+
+Why are you eating so fast!
+Savor the taste and eat!
+No, it's not like I don't understand the feeling of gulping it all at once.
+
+Thinking about that, she finished up without even noticing.
+Even though not a lot of time has passed since we had food in the cafe.
+Do all girls have a separate stomach for snacks?
+
+"Should I go buy another one..."
+
+"You still want to eat?"
+
+I'm surprised.
+Does her stomach contain a separate universe or something?
+
+"Ah--"
+
+Just before going to buy, she realizes something looking at me.
+What's it?
+Why're you staring at me?
+
+Though making an embarrassed face and rocking her pupils, she doesn't look away.
+Even I'm starting to feel a bit embarrassed...
+
+"D-don't move for a bit."
+
+Ayame stretches out her hand while saying that.
+
+She traces my cheek with her finger.
+
+"Wha-..."
+
+"You had cream on your face, so..."
+
+Ayame licked at the cream on her finger just like that.
+
+And then, holding her hand in the same position,
+
+"U, Uhehehe"
+
+She broke into an uncontrollable smile.
+
+Ah, so she wanted to do this.
+The softcream scenario is a must for any VN!
+And, this action is something that must happen in any softcream scene.
+
+While I'm a bit embarrassed to be made into a VN character... let's close our eyes for the deliciousness of this softcream.
+
+&nbsp;
+
+## Part 4/5
+
+After enjoying the softcream, we head over to the ladies' and mens' floors and give each other our impressions.
+
+Although we didn't buy anything in the end, it was quite interesting.
+
+Then we leave the shopping mall and head towards our next destination, the coastal park.
+
+"Ohh. The waves are amazing!"
+
+"The wind is also very strong."
+
+The blue sea in front of our eyes...
+Well, not like I can start singing out of it, but just being the sea kind of gave it a non-daily-lifey feeling to it.
+
+_TL Note_: Pardon my english, it's 02:00 here. What the hell is non-daily-lifey feeling lol?
+
+I never really go to the sea, or have opportunities to look at it.
 
 _To be continued_
