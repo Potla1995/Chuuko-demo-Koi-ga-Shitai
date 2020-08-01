@@ -2,8 +2,9 @@ language: minimal
 
 script:
     - cd 3/
-    - cp ../mdbook ./
+    - wget https://github.com/Potla1995/Chuuko-demo-Koi-ga-Shitai/raw/master/mdbook
     - ./mdbook build
+    - rm mdbook
     - git add .
 
 deploy:
