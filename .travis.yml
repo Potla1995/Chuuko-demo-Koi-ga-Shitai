@@ -2,7 +2,6 @@ language: minimal
 
 script:
     - cd 3/
-    - cp ../mdbook ./mdbook
     - ./mdbook build
     - rm mdbook
     - git add .
