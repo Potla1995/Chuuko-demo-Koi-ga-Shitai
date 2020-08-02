@@ -1,6 +1,6 @@
 # Chapter 3: For me, you're good.
 
-+ _Progress: pages 148-178 done out of 148-198 (~60% done)._
++ _Progress: pages 148-189 done out of 148-198 (~82% done)._
 + _I had to slow down due to RL commitments (internship + teaching + research + osu tournaments welp). However, all is not lost, as it seems this chapter will end up with considerably less typos and mistranslations than the previous ones thanks to the lower speed._
 + _There are many cute Ayame-chan and Kiyomi-chan moments coming up in the chapter; now Aramiya knows why his sister berates him so much. Well, not that he plans on fixing any of it._ :waturr:
 + _ETA: before August 2020 if things go as planned._
@@ -1168,5 +1168,385 @@ Well, not like I can start singing out of it, but just being the sea kind of gav
 _TL Note_: Pardon my english, it's 02:00 here. What the hell is non-daily-lifey feeling lol?
 
 I never really go to the sea, or have opportunities to look at it.
+
+The walkway by the sea got hit by the waves, and the scene of the spraying water is pretty impressive.
+As the wind is strong today, the waves are also high.
+The smell of salt is also wafting nearby.
+
+Ayame suddenly shoots me a strange look.
+
+"Anyway, Aramiya.
+Why did you suddenly bring up coming to the sea?"
+
+"Well, no reason in particular."
+
+I remembered about it from VNs. Ayame must have guessed that already.
+
+"It feels nice..."
+
+We walk slowly on the walkway, looking at the sea.
+
+Doing this, if someone calls this a date, there would be no room for explanation.
+
+"N〜♪"
+
+Spreading out her arms, Ayame looks like she's having fun.
+
+Her refreshing attire and appearance is very picturesque.
+
+I don't really want to admit it, but she has turned into a perfect event CG.
+
+Looking at her like this, I really start wondering if this girl is trying to become 2D.
+
+"Say,"
+
+"Mm?"
+
+![Ayame-seaside-smile](./img/P185.jpg)
+
+"... Do you really not want to have eyes on anyone other than me?"
+
+Ayame burst out like coughing,
+
+"What are you saying...?",
+
+Sending me a puzzled look.
+
+No, she's just too beautiful, and that got me insecure... is not something I can say out loud.
+I used to think of her as just a delinquent, but got captured by the gap.
+
+"For me, you're good.
+I don't want anyone else.
+I've said this before as well."
+
+_TL Note_: This hits hard. So moeeeeeeeeeeee!!!
+
+"It doesn't balance out.
+I don't intend on making you my lover, so it's pointless."
+
+"It doesn't matter if it balances out or not, right?
+Also I get to decide whether it's pointless or not.
+The current happy time is fully something you gave me.
+Without you, the current situation won't be viable, so it's definitely not pointless."
+
+"How are you that confident..."
+
+"Well, because I'm correct.
+What do you think would have happened to me if we didn't meet?
+I'd have spent a boring school life without making up with Yuuka ever, and embraced only anguish and gloominess.
+In the first place without being saved, I'd have been raped and in the depths of depression.
+The one who pulled me up to this happy place... is none other than you, Aramiya."
+
+I don't have that much of a real feeling of saving Ayame though...
+It was just on the spur of the moment.
+If Ayame is happy, I really had nothing to say other than "isn't that good for you!"
+
+And right now, this girl is just living her life normally...
+
+Maybe that's the difference in our awarenesses.
+
+"So... this time, I want to save you."
+
+"... Save me?"
+
+"I don't intend to deny 2D, however...
+I want you to look at women properly.
+It's true that there are garbage among women, and I'm not defending them.
+But, not everyone is awful.
+Well, me saying this might as well be knocking on the wrong door."
+
+"That..."
+
+That I know already.
+Kiriko nee-san was super nice after all.
+
+People in general, irrespective of gender, are not all cut out of the same stone.
+
+Everyone has their own personality and their own borders between good and evil.
+
+"I want you to overcome your fear of women and trauma...
+and then if you decide that 3D is not for you after that... then it's fine.
+But it's not fair that you have that dimensional filter in your head, right?"
+
+"... Going by that logic, I might not choose you though?"
+
+"Even that's fine.
+If you reject me after your filter is gone, then it can't be helped.
+If you think Yuuka is good, then that's also fine.
+If Ibu is good, that's also OK."
+
+Her personality is that of someone who breaks bamboo...
+
+＿TL　Note:_ 竹を割ったようなやつ basically means someone who has a very determined personality with their own beliefs and values, and who doesn't waver at all in saying what they think to your face.
+
+"Well, when your filter disappears, I'll be happy if you choose me.
+And, I'll definitely remove that filter from your head.
+In the first place, I'll turn myself into 2D so there's no problem there."
+
+"... Umm, I can't say anything but, just do it if you think you can."
+
+"You said it, eh?"
+
+With that, Ayame spreads her hand.
+
+And, links it with mine.
+
+"What?!"
+
+"Look, let's go!"
+
+"Wha-wha-wha-wha-wha...!"
+
+"Isn't it fine just holding hands? Everyone's doing it."
+
+You're right that all couples around us are holding hands, but...!
+
+Maybe because Ayame's tension is also in full swing, she's too hyper!
+
+On top of that, it's very unusual but she has tightly entwined our fingers even.
+
+"L-let me go."
+
+"Well, isn't it fine?
+Just for today.
+Conversely, isn't it strange not to hold hands?"
+
+"What's with that logic!"
+
+After all, we walked from one end to the other all the while holding hands.
+
+I don't want to say this, but my heartrate had not calmed down even for a single moment.
+
+"Haha, that was fun."
+
+"I was constantly sweating cold sweat though."
+
+"Don't say that.
+It was a first time for me too!"
+
+"What are you saying?
+Did you not pull me out to the back of the school building while linking arms?"
+
+"N-now that you mention it.
+B-but then, you also suddenly shouted and linked arms when I asked you about eroge in the classroom, right?"
+
+So nostalgic. Has it been three months already?
+
+"But before, we had only linked arms. This is our first time holding hands."
+
+Ayame smiles wholeheartedly.
+
+My heart jumped up.
+Does this girl's smile have some special effect of exciting the heart or something?
+
+Not good. I've been getting poisoned recently...
+
+&nbsp;
+
+After spending an hour in the seaside, we decided that it was time to go to where Ayame wanted to take me.
+
+Then, I follow Ayame to--
+
+"--and the place you wanted to visit is an eroge shop!?"
+
+"Isn't it fine?"
+
+As she said before, it _will_ become some luggage.
+
+Entering the 18+ corner, we talk to each other in a low voice, discussing about the packages lined up in the shelf in front.
+Getting close to each other in this place is a big load on my heart, but at least it's better than talking loudly.
+
+"It's fine, but why again?"
+
+"I-I wanted to pick something together."
+
+_TL Note:_ LOL. I can't imagine picking my VN with someone else. Especially a girl. On a date. Not that I've ever been on a date, haha. No, really, don't pity me... I'll cry. :sadcool:
+
+"Like picking clothes?!"
+
+How is this eroge? Does it fit?
+
+Ahh, that tentacle eroge fits you really well!
+Especially the warts and slimy liquid combination is godly.
+
+... Is this how the conversation is supposed to go!?
+
+"Hmmm, I can't really see anything that I want to play from here."
+
+"Is it that phase for you already?"
+
+An eroge gamer who has completed a certain number of VNs will never _not find anything to play_.
+
+Limited by the budget, simply titles that catch the eye -- that is, titles that you wanna play become so many in number, that you have no idea where to point your　index finger, and that bewilderment is wrongly perceived as being unable to find something to play.
+
+Especially when similar games are lined up one after the other.
+
+"Maybe I can recommend something old..."
+
+Older games can be interesting, but there are many titles that you enjoy because they are new.
+
+UI development and the improvement in production development is also a part of VNs.
+Creators pile up work on top of work to get it done.
+
+Just so that it can get a bit more interesting than before!
+
+"That's right, I gave up on buying some VNs because of lack of funds..."
+
+"Then, I'll buy something among one of those."
+
+"Aren't you the simple one!?"
+
+"Aramiya's recommendations never go wrong, after all."
+
+I feel like she's being too blind...
+
+I also go wrong sometimes.
+
+Especially _that title with a non-virgin heroine_...
+Just remembering it makes me sad.
+I might start crying even.
+Fujiaki Shiori, why did you deceive me...
+
+_TL Note:_ If you don't remember, go back to the first scene of Volume 1. :P
+
+So it's troublesome if you believe in me too much.
+
+"What's the title that you couldn't buy?"
+
+『Henta~i!!! ~Garter Belt ni Natte Peropero Rerorero~』
+
+_TL Note:_ [Henshin!!! ~Pantsu ni Natte Kunkun Peropero~](https://vndb.org/v6472) I think. Also, it translates to "lickity lick after turning into garter belt" lol.
+
+... Can't say that.
+
+If it was Tozaki, I wouldn't feel constrained about it. But since it's Ayame, she might actually end up buying it.
+
+It's quite erotic, and the CGs were to my preference.
+I'd have bought it if only I had the money.
+I'm thinking of buying it once I get the paycheck.
+
+"... Ayame, you basically like VNs for the story, right?"
+
+"Mm? Well, that's about right.
+Empire, school, fantasy are good settings, but the story is the most important."
+
+Should I recommend nukige with gags at their core?
+
+Well, telling someone who is expecting a good story, to buy nukige is also not good.
+If you order a hamburger, you probably want to taste meat. If you're given the world's best karauto udon, you'd probably only scowl at it.
+
+For her, nukige is still to early.
+
+Then... how about this one?
+
+I pick up a package with around five heroines.
+
+"Then, how about this 『Lily x Link』?
+I heard that the characters are all strange people, and it's interesting."
+
+_TL Note:_ The only corresponding VN that comes to mind is [Pure x Connect](https://vndb.org/v16166). Don't think this is the right reference though, because not all characters are strange. xD
+
+"Okk. Will give ya my reviews after playing it."
+
+"That'd be helpful.
+Not that I have played it yet, so don't know if it's actually interesting."
+
+"No, this is also an experience.
+The package also got me kind of curious."
+
+That's good then.
+
+Taking the package in hand, Ayame walks towards the register.
+Now we can only pray that she buys it safely.
+
+While Ayame is at the register, I look around the other corners.
+Sometimes titles that I could not buy go on sale, so I can't not check it once.
+
+"Not here. How about the next shelf..."
+
+Going further inside, I find a certain girl standing in front of the shelf.
+
+I scrambled back behind the shelf.
+
+"T-that's..."
+
+She's someone I know.
+
+No, she shouldn't be at this kind of a place.
+It's probably an illusion.
+
+Hiding behind the shelf, I stealthily sneak a peek.
+
+"Which one to pick..."
+
+The target is looking at two packages in anguish.
+
+Both are a bit old yuri titles.
+I remember them being reviewed a while ago on the internet.
+
+Inspecting the titles with a serious expression was -- the student council president, Yaotani.
+
+"Are you serious... why is the president..."
+
+"?"
+
+Signs of her looking this way!
+
+I immediately pulled my face behind the shelf.
+That was dangerous...
+I was almost made into a statue in a bit.
+
+Then, after letting some time pass, I take another stealthy peek at her.
+
+"Hmmmm..."
+
+The president is also below 18 years of age, but does she also play eroge? Or is it just that she is showing some interest?
+
+No, that's not a beginner user without a doubt.
+Otherwise she wouldn't be this outgoing in this kind of a place.
+Her atmosphere was almost like it was natural to be here.
+
+"... Don't know if it'll be useful later, but should I take a picture?"
+
+No no, taking secret photos is definitely bad. Let's not do it.
+
+"O--i, Aramiya--"
+
+"Ba...!"
+
+_TL Note_: Baka without the ka. xD
+
+After finishing shopping, Ayame is heading in this direction.
+
+Immediately I take Ayame's hand, and scaredly pull ourselves out of the eroge corner while ignoring her.
+
+I stop after getting on the escalator.
+
+It all being too sudden for Ayame, she gives me a perplexed look.
+
+"W-what happened, all of a sudden?"
+
+"You won't believe me, but... I saw the council president."
+
+"Student council president? Why?"
+
+"... Of course, she came here to buy eroge, right?"
+
+"You really can't judge people by their looks, eh..."
+
+You don't say.
+
+But, did she hear Ayame?
+Her voice wasn't really that loud, and Aramiya is also not an absolutely rare last name.
+
+If she finds out it will be troublesome... but it's the same for her as well, I guess.
+
+If she does something, let's use it against her.
+
+Rather, if she becomes a kindred soul about eroge, that by itself would be an interesting development.
+
+And then, we started walking back.
+
+##Part 5/5
 
 _To be continued_
