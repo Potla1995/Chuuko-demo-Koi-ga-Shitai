@@ -1,12 +1,5 @@
 # Chapter 3: For me, you're good.
 
-+ _Progress: pages 148-189 done out of 148-198 (~82% done)._
-+ _I had to slow down due to RL commitments (internship + teaching + research + osu tournaments welp). However, all is not lost, as it seems this chapter will end up with considerably less typos and mistranslations than the previous ones thanks to the lower speed._
-+ _There are many cute Ayame-chan and Kiyomi-chan moments coming up in the chapter; now Aramiya knows why his sister berates him so much. Well, not that he plans on fixing any of it._ :waturr:
-+ _ETA: before August 2020 if things go as planned._
-
-## Part 1/5
-
 The morning sun is bright.
 
 The sunlight mercilessly shining into the room from the window leads to uncomfortable sweating.
@@ -336,8 +329,6 @@ Either way, let's go quickly!"
 Dear me! Such a high-maintenance sister.
 
 &nbsp;
-
-## Part 2/5
 
 We reach the fountain plaza in front of the station.
 Continuously pumping up however much water, the fountain shows the current time in a consistent rhythm.
@@ -711,8 +702,6 @@ Thinking back, I haven't had breakfast yet."
 I open the map via the URL Kiyomi sent. It's close. Wait, it's right around that corner.
 
 While it irks me that I'm dancing in her palms, <span title="jp. 背に腹は代えられん">there's no time to consider other options</span>.
-
-## Part 3/5
 
 "Is it here..."
 
@@ -1150,8 +1139,6 @@ While I'm a bit embarrassed to be made into a VN character... let's close our ey
 
 &nbsp;
 
-## Part 4/5
-
 After enjoying the softcream, we head over to the ladies' and mens' floors and give each other our impressions.
 
 Although we didn't buy anything in the end, it was quite interesting.
@@ -1545,8 +1532,330 @@ If she does something, let's use it against her.
 
 Rather, if she becomes a kindred soul about eroge, that by itself would be an interesting development.
 
-And then, we started walking back.
+And then, we started going back home.
 
-##Part 5/5
+... That being said, Ayame is now coming with me.
 
-_To be continued_
+"Ahaha, Kiyomi told me to drop by your place on my way back."
+
+"... I only get a bad premonition."
+
+"Don't say that, isn't she a good sister?"
+
+"Please don't hesitate and adopt her."
+
+"Nah, if our household size increases, the finances will get tough..."
+
+I didn't think she'd seriously consider it.
+
+"What business does she have with you though?"
+
+"What indeed...
+She only said 'just drop by'.
+I was only asked to go together with you."
+
+After returning home and going to the hallway, there was no sign of Kiyomi.
+
+The lights are also off, and it's very quiet.
+
+"Eh? This is strange..."
+
+Suddenly Ayame's smartphone starts vibrating.
+
+"From Kiyomi. Let's see let's see..."
+
+This pattern leads to...
+
+"She says she has something to do and is out, so I should wait here."
+
+"Again? Just what is she planning..."
+
+"Don't say that. You're the elder brother, so don't doubt her that much."
+
+"You spoil Kiyomi too much..."
+
+As for me, I've been had at so many times recently.
+It's natural to be wary of her.
+
+If only Ayame's kindness reaches Kiyomi.
+
+"Kiyomi feels like a sister.
+It's kind of new for me.
+I want her to call me 'onii-chan'."
+
+Don't you mean "onee-chan"?
+
+"Well, can't be helped.
+Until she returns, let's wait in my room."
+
+After all, making her wait in the living room is a no-go.
+Since it's unclear when Kiyomi will return.
+
+And anyway, Ayame has visited my room several times now, so nothing strange in that now.
+
+Walking up the hallway and climbing up the stairs, we head towards my room.
+
+"Ah, anyhow, I wanna play the VN I bought."
+
+"... Well, that's fine, but what about a PC?"
+
+"Mhm, I brought my notebook.
+Do you have an external optical drive?"
+
+"Yeah I do..."
+
+Isn't she getting better with computers little by little?
+Is it the result of gathering information?
+No, probably she's learning all of it from playing VNs.
+Including troubleshooting in case things go wrong.
+
+"Here you go, external drive."
+
+After I bring her the external drive, Ayame takes out her small PC and plugs it into a USB port.
+
+And then she neatly opens the packaging and takes out the installation disc.
+Isn't she really good at opening packages?
+Even though I sometimes end up breaking the packaging, and feel uneasy while opening...
+Can't these be made easier to open?
+
+"Okk."
+
+After putting the disc into the drive, she starts installing the VN.
+
+... Maybe I'll also play something.
+
+"Ah, can you lend me a headphone?"
+
+"Sure, sure."
+
+I remember about the time when we played VNs in this room before.
+
+same as that time, I start playing without looking at Ayame.
+
+&nbsp;
+
+6pm. Since it's that season, it's still light outside, but will soon become darker.
+
+Kiyomi still hasn't returned home.
+
+"Say, Aramiya."
+
+"Mm?"
+
+As I turn around after being called, Ayame was making an awkward face.
+
+... I only get bad premonitions.
+
+I feel like something similar happened before as well...
+
+"What's up? Did you clear it?"
+
+"No, not yet.
+2 hours is too little time after all.
+But, I reached _that_ scene with the heroine.
+I think this is the type which does _that_ two or three times."
+
+"How about your evaluation?"
+
+"It's been fun till now.
+The smartphone messaging functionality is an unexpectedly good addition.
+And then the heroine's attire also changes depending on your choices -- that's quite fun too.
+But above all, it makes you laugh a lot.
+Maybe because everyone has loose screws in their heads?
+Every single character's actions are so random that it makes you roll on the floor."
+
+Certainly, the sounds of restraining laughter kept coming from the back. Is that why?
+
+"If this was my room, I'd have probably started gasping for breath by now haha."
+
+Is it that good?
+
+But well, that's not a reason for pausing the gameplay.
+
+"And so, I have a question."
+
+"If possible, I'd prefer it if it's unobtrusive."
+
+Hearing that, Ayame turned beet red and looked down.
+
+And then, showed me the display of her notebook.
+
+It's the scene of a naked girl sleeping on the bed.
+Rather, it's an H scene.
+
+_TL Note_: ... oh shit.
+
+And white bodily fluids covering every single surface was also portrayed there.
+
+It looked as if someone spilled kefir (fermented milk) or undiluted lactic acid or something everywhere.
+
+While I was thinking that she again let it outside, I guess now's not the time for that.
+
+"D-does _that_, come out _this much_?"
+
+_TL Note_: PFFFFFFFFTTTT
+
+"That's too much obtrusive!!"
+
+Ayame's straight balls are leveling up!
+
+"It's fine! You know the answer right!"
+
+"There's no way one can come that much! Are you an idiot?!"
+
+It's just a problem of production or glorification. Of course _that_ doesn't come out _that much_.
+
+"I-is that so... not that much?"
+
+"Good grief, won't you know from AV's or something!"
+
+"I don't watch AV's! Do you watch them??"
+
+"There's no way I'd watch 3D porn, right!?
+Anyway, this is just a special characteristic of eroge!
+If you ask that --"
+
+Do girls also come that much... was what I almost asked without thinking, but I stopped just in time.
+
+Even if it's Ayame, I can't ask her.
+That was dangerous.
+Sexual harrassment also has its limits.
+I feel like she would answer if I ask, but after listening to the answer, it would become super uncomfortable.
+
+"Any! Way! It doesn't come that much!
+The usual quantity is around one teaspoon!"
+
+"I-is that so.
+I guess this much is really abnormal haha..."
+
+After getting her answer, she probably got back in the mood, and returned to the VN.
+
+... Actually, the amount during the first ejaculation was quite scary.
+
+So nostalgic...
+
+&nbsp;
+
+"I'm back!"
+
+Shortly after that, Kiyomi returned home.
+
+"Oh, is she back now?"
+
+"Good grief...
+After making the guest wait.
+I apologize for the shortcomings of my sister."
+
+"I don't care really.
+Please don't get angry.
+I had fun spending time with you, so."
+
+"We just played VNs though?"
+
+"That's fine.
+It's our hobbies.
+Isn't it similar to　making potteries together?"
+
+Not sure if it's something people should be doing together though.
+
+_TL Note:_ Nope. I will never play an eroge with someone else playing eroge behind me. Especially not H scenes lmao.
+
+But well, that's right.
+
+Doing your hobbies together is fun.
+
+We can exchange impressions with each other directly too.
+This is something just texting using smartphones can't achieve.
+
+"Kotoko-san, sorry for making you wait~"
+
+"Ou!"
+
+Without knocking, Kiyomi entered the room and sniffed the air a bit.
+
+... What's up with her?
+
+On top of that, she is giving me a scornful gaze!
+
+"You suck."
+
+"At what!?"
+
+"I went through all that trouble to let you guys stay alone..."
+
+"As I thought, it's all your shallow thinking!"
+
+"What do you mean by shallow thinking!?"
+
+Bishi! With a shrill sound reverbating, I felt a terrific sharp pain.
+
+This girl's lowkicks are so damn painful...
+
+On top of that, she controls the force so as to not break my bones, which shows that she's not seriously aiming to hurt me. Guuuuuuuu...
+
+"Kotoko-san, our parents will come back soon, so how about having dinner together?"
+
+"No, sorry. Today I'll eat together with my parents."
+
+"Ah, I see... that's a bummer."
+
+It's your brain that's a bummer.
+Please also worry about me.
+
+As I stand up while enduring the pain, Ayame looks at me with a heated expression.
+
+"Aramiya,"
+
+"Mm?"
+
+"Today was... the best day in my entire life."
+
+"..."
+
+I fumble for words.
+
+The best day in her entire life, apparently...
+
+It's definitely way more than a flattery or a social greeting.
+
+"W-what happened, Aramiya?"
+
+"N-no, nothing. If you had fun... then it's good."
+
+"Yeah!"
+
+And then Ayame left with a "See you next time!"
+
+Kiyomi told me "send her back you idiot", but my leg was paining so much that I could not even move!
+
+Well, maybe it'd have also been good to see her off...
+
+Just because I wanted to hear about her impressions on the VN!
+Only that!
+Nothing more than that!
+
+"... Aaaa, what kind of poor excuses am I making..."
+
+"What's with that monologue you virgin?
+Rather, isn't your expression loose?
+Gross."
+
+"Ha? No way that's true!"
+
+"What's with that pitiful reaction to 'the best day in my entire life'?
+Why don't you jump around in joy like a dog?"
+
+"Apologize to all the dogs in the world!
+They aren't idiots."
+
+I don't even feel concerned about Kiyomi's words which usually piss me off.
+
+After all, am I also satisfied with today...?
+
+It's... due to Ayame. No matter how you think about it.
+
+While I feel tired, my heart feels very content right now.
+
+This comfortable fatigue is almost like that of clearing a masterpiece of a VN, or --.
+
+![Ayame-returns-home](./img/P205.jpg)
