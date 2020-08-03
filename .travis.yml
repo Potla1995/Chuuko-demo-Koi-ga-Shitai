@@ -2,7 +2,7 @@ language: minimal
 
 script:
     - cd 3/
-    - ../mdbook build
+    - ./mdbook build
     - git add .
     - git commit -m "Built MDBook(s)."
 

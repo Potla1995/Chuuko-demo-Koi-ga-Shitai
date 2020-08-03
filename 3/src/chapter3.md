@@ -1859,5 +1859,3 @@ While I feel tired, my heart feels very content right now.
 This comfortable fatigue is almost like that of clearing a masterpiece of a VN, or --.
 
 ![Ayame-returns-home](./img/P205.jpg)
-
-- - - 
