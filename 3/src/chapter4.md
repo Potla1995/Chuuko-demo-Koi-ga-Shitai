@@ -37,7 +37,7 @@ I almost want to tell them "you're being a bother so move aside".
 "Even the situation has to be how you want, eh?"
 
 The person whose shoulder doesn't get wet ends up falling all over with the considerate person...
-That's too <title span="jp. お約束">conventional</span>.
+That's too <span title="jp. お約束">conventional</span>.
 
 _TL Note_: The author means something like it's a trope that's overused.
 
