@@ -388,9 +388,7 @@ As we returned to the classroom, Ayame and Ibu were chatting like friends for so
 
 "Apart form that, there's also <span title="サロペット">overalls</span>, <span title="ナチュかわのフリルブラウス">natucute frill blouses</span>, or <span title="ガーリーワンピース">girly one-pieces</span>~"
 
-> _TL Note:_ Okay okay wait. What are these terms even. If you are interested in learning more, just google these. I have zero idea about fashion words in Bengali, leave alone Japanese lol.
-
-> But well, for your curiosity, here are your [Overalls](https://ryuryumall.jp/onlineprod/1P/1000594/1000594_01_700_700_700_700.jpg), [Natural Cute Blouse (without frills)](https://base-ec2.akamaized.net/images/item/origin/d352f7925810cd312965387982e43b34.jpg), [Girly one-piece](https://base-ec2.akamaized.net/images/item/origin/e33df62b26e3b72fde06aa1d1a67c5d9.jpg).
+> _TL Note:_ Okay okay wait. What are these terms even. If you are interested in learning more, just google these. I have zero idea about fashion words in Bengali, leave alone Japanese lol. But well, for your curiosity, here are your [Overalls](https://ryuryumall.jp/onlineprod/1P/1000594/1000594_01_700_700_700_700.jpg), [Natural Cute Blouse (without frills)](https://base-ec2.akamaized.net/images/item/origin/d352f7925810cd312965387982e43b34.jpg), [Girly one-piece](https://base-ec2.akamaized.net/images/item/origin/e33df62b26e3b72fde06aa1d1a67c5d9.jpg).
 
 "... What is that? Some sort of incantation?" 
 
