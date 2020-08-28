@@ -1,10 +1,12 @@
 # Chapter 4: At the very best, only as friends, OK!?
 
-_ETA_: October 2020. Life is busy...
+> _ETA_: October 2020. Life is busy...
 
-Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense, so look forward to it!
+> Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense, so look forward to it!
 
-_Progress_: 200-209 out of 200-249 pages (20%)
+> _Progress_: 200-209 out of 200-249 pages (20%)
+
+- - -
 
 The day after I went out with Ayame.
 
@@ -39,7 +41,7 @@ I almost want to tell them "you're being a bother so move aside".
 The person whose shoulder doesn't get wet ends up falling all over with the considerate person...
 That's too <span title="jp. お約束">conventional</span>.
 
-_TL Note_: The author means something like it's a trope that's overused.
+> _TL Note_: The author means something like it's a trope that's overused.
 
 While having conversations of no substance, we reach the classroom.
 
@@ -138,7 +140,7 @@ If things go wrong then even rumors that I'm making them do stuff like in eroge 
 They'll also find out that I'm a deep otaku, and in the worst case, I'll be suspended.
 It'll totally be a _deep impact_... wait this is not the time!
 
-_TL Note:_ I think the author refers to the disaster english film called "Deep Impact". Not sure if a Japanese reference exists here haha.
+> _TL Note:_ I think the author refers to the disaster english film called "Deep Impact". Not sure if a Japanese reference exists here haha.
 
 "Isn't it better to transfer all the eroge inside to home?"
 
@@ -155,7 +157,7 @@ If it is deemed as a matter of mixing private matters with work, it will be a te
 Then how about dashing to the convenience store while hiding the cardboard boxes?
 No, we're out bold if a teacher inspects the contents while we leave.
 
-_TL note:_ Hope you got the cricket reference. xD
+> _TL Note:_ Hope you got the cricket reference. xD
 
 Inside the school, it's not an issue to carry around cardboard boxes, but we'll definitely be seen if we move outside.
 Every gate also has some teacher overlooking it.
@@ -260,7 +262,7 @@ I really wish you would clear up the rumor for free."
 "Yeah. So in the end, which 18+ game did you buy yesterday?
 You were very seriously thinking about which one to buy, after all."
 
-_TL Note_: YES! Give it to her! Punch in the face!
+> _TL Note_: YES! Give it to her! Punch in the face!
 
 The president's eyebrows visibly twitched.
 
@@ -377,7 +379,7 @@ You'll be her male lover, and I'll be her female lover."
 
 ... What?
 
-_TL Note:_ Indeed, what? Are you nuts?
+> _TL Note:_ Indeed, what? Are you nuts?
 
 "Just what did you say right now?"
 

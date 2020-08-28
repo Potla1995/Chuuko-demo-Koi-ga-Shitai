@@ -68,7 +68,7 @@ Then, with mannerisms that seemed to lack confidence, she started writing on the
 "Hmm, correct.
 You escaped death."
 
-_TL Note: Wow this is actually scary xD_
+> _TL Note: Wow this is actually scary xD_
 
 Ayame let out a sigh of relief.
 
@@ -429,7 +429,7 @@ Isn't she too clear smh.
 "Hatsushiba-san is always really cute, and on top of that, your voice is as adorable as the chirping birds in the forest.
 To the point that I want to record it and listen to it."
 
-_TL Note:_ Please teach me these cheesy lines Yaotani kaichou! :bocchiCry:
+> _TL Note:_ Please teach me these cheesy lines Yaotani kaichou! :bocchiCry:
 
 Utterly ignored.
 
@@ -720,7 +720,7 @@ What does she mean by assets?
 Ransom?
 Does she want money or something in exchange for not asking her to join the council?
 
-_TL Note_: This is a bit confusing. In the raw, Ibu says "いきなり[身代話](https://kotobank.jp/word/%E8%BA%AB%E4%BB%A3-538275)までされたんだからねー". Here I'm guessing "minoshirobanashi" would mean something like amassing one's fortune/assets. Clearly the president wants to increase her harem lol. But well, Seiichi thinks maybe she's talking about "身代金" which means ransom or some sort of compensation asked for by blackmailing.
+> _TL Note_: This is a bit confusing. In the raw, Ibu says "いきなり[身代話](https://kotobank.jp/word/%E8%BA%AB%E4%BB%A3-538275)までされたんだからねー". Here I'm guessing "minoshirobanashi" would mean something like amassing one's fortune/assets. Clearly the president wants to increase her harem lol. But well, Seiichi thinks maybe she's talking about "身代金" which means ransom or some sort of compensation asked for by blackmailing.
 
 "Doesn't she say the same to every girl in our school?"
 
@@ -768,7 +768,7 @@ Even I want to blabber without meaning with Saitani.
 
 "Everything on the test comes from the lessons, so why does one even need studying out of classroom?"
 
-_TL Note:_ There we go, another honour student...
+> _TL Note:_ There we go, another honour student...
 
 So full of confidence.
 
@@ -839,7 +839,7 @@ Look, only ten more problems.
 If you don't finish within ten minutes, you have to do ten more.
 It won't end if you don't solve one problem in less than a minute."
 
-_TL Note:_ Wow, this is so harsh... For the first time in this LN I'm feeling sympathy for Ibu lol.
+> _TL Note:_ Wow, this is so harsh... For the first time in this LN I'm feeling sympathy for Ibu lol.
 
 Hatsushiba's demonic coaching had reached its climax.
 And Ibu was making teary eyes, giving up on finishing her questions which had been piling up.
@@ -885,7 +885,7 @@ Anyway concentration power of people has its limit.
 Crossing those limits leads to burden on the head, and breaks your health.
 I really don't want to study to the point of decreasing my life span.
 
-_TL Note:_ Yeah, don't ever try doing a PhD. I've forgotten when I last slept peacefully.
+> _TL Note:_ Yeah, don't ever try doing a PhD. I've forgotten when I last slept peacefully.
 
 "..."
 
@@ -937,7 +937,7 @@ They can be useful as porters, but it would be worrying to leave carrying around
 In the first place, people start melting even standing inside Big Sight in the middle of summer.
 Also, one must wake up at dawn to be fully prepared, which is also painful.
 
-_TL Note:_ Summer comiket is a fight for your life, I kid you not. How I wished Covid19 didn't happen... I even had a summer internship in Tokyo. :(
+> _TL Note:_ Summer comiket is a fight for your life, I kid you not. How I wished Covid19 didn't happen... I even had a summer internship in Tokyo. :(
 
 So, for now Comiket is a no-go.
 What place is good at these times...
@@ -1004,7 +1004,7 @@ Really a feast for the eyes.
 
 "Then, should we go buy swimsuits?"
 
-_TL Note:_ Finally the chapter name makes some sense. Whew, I've come a long way. xD
+> _TL Note:_ Finally the chapter name makes some sense. Whew, I've come a long way. xD
 
 Hatsushiba splurted out as if unable to hold it in any longer.
 Her Demon Sergeant mode had been totally thrown out.
@@ -1052,7 +1052,7 @@ I cannot bring myself to leave Saitani alone, surrounded by four girls.
 That's right.
 She's still a guy, and I'm getting more and more cognizant about it.
 
-_TL Note:_ What? _She_? :concerned:
+> _TL Note:_ What? _She_? :concerned:
 
 Well, even if he stood near the lingerie department, no would would probably talk ill of him.
 
@@ -1190,7 +1190,7 @@ Nishihara said something like in comics, that's what you would do."
 
 "It was a manga named _Kanojora no Jouseki_."
 
-_TL Note:_ If any of you play Go/Shougi/Othello, you would know that jouseki is like "standard sequences". So this manga is titled something like "Established tactics of the girls".
+> _TL Note:_ If any of you play Go/Shougi/Othello, you would know that jouseki is like "standard sequences". So this manga is titled something like "Established tactics of the girls".
 
 My brain froze for a moment.
 
@@ -1437,7 +1437,7 @@ Wait.
 Did she just say she's coming back after trying something else?
 By any chance, did she misunderstand my "don't show it to me" as "I don't like this one"?
 
-_TL Note:_ Not sure how to word this one as it's pretty late at night, but you get what Seiichi wants to say. xD
+> _TL Note:_ Not sure how to word this one as it's pretty late at night, but you get what Seiichi wants to say. xD
 
 "This is bad, she'll come back again.
 Saitani, we must retreat for the moment...
@@ -1476,7 +1476,7 @@ Then no one can blame me (with their gazes) anymore."
 
 "... You looked at Suwama-san's swimsuit, but won't look at Yuuka's or Cotton's?"
 
-_TL Note:_ Eeek, the sadist princess is back at it again.
+> _TL Note:_ Eeek, the sadist princess is back at it again.
 
 Her voice was freezingly cold.
 
@@ -1501,7 +1501,7 @@ Looking around, a beautifully ripened splendid thing was being emphasized.
 Hatsushiba also has really good style.
 She isn't that tall too, and although she has a childish face, places that were standing out were really outstanding.
 
-_TL Note:_ Does this sentence make sense anymore? Idk. :P The clock is ticking and my brain is dying...
+> _TL Note:_ Does this sentence make sense anymore? Idk. :P The clock is ticking and my brain is dying...
 
 The one-piece with frills don't make her seem more grown-up than required, and clearly bring out her charm.
 It really suits her well.
@@ -1588,7 +1588,7 @@ What's up with you guys?
 Is this a <span title="jp. ジェットストリームアタック">Jetstream attack</span>?
 Can I not survive without a stepping stone?
 
-_TL Note:_ [Mobile Gundam reference](https://www.youtube.com/watch?v=BKqoCwYvmFk?t=53).
+> _TL Note:_ [Mobile Gundam reference](https://www.youtube.com/watch?v=BKqoCwYvmFk?t=53).
 
 If I run here, Ibu will definitely chase me...
 
@@ -1614,7 +1614,7 @@ It's about to fall off the important parts!
 Why the hell can this girl stand in this getup in public?
 This is not a liberal beach of America!
 
-_TL note:_ I have (unfortunately? fortunately?) not seen slingshots in the few visits to the beach over here though haha. Maybe because the weather wasn't hot?
+> _TL Note:_ I have (unfortunately? fortunately?) not seen slingshots in the few visits to the beach over here though haha. Maybe because the weather wasn't hot?
 
 "Listen up!
 Next time you wear a swimsuit with dangerous exposure, you'll be disqualified with a red card!"
@@ -1637,7 +1637,7 @@ But despair was yet to end.
 
 "Eh, said something?"
 
-_TL Note:_ Hatsushiba never uses second or first person. This is why sometimes her sentences sound like they are missing pronouns or using third person. This is just how she talks.
+> _TL Note:_ Hatsushiba never uses second or first person. This is why sometimes her sentences sound like they are missing pronouns or using third person. This is just how she talks.
 
 "I didn't say anything...
 So, is it Hatsushiba this time?"
@@ -1736,7 +1736,7 @@ It was the characteristic pose of a certain illustrator.
 
 ![Swimsuit-pose1](./img/P000b.jpg)
 
-_TL Note:_ I don't follow illustrators that much, so don't really know the reference here. If anyone knows who likes to draw this pose, please let me know!
+> _TL Note:_ I don't follow illustrators that much, so don't really know the reference here. If anyone knows who likes to draw this pose, please let me know!
 
 This girl doesn't deviate in her own way...
 
@@ -1754,7 +1754,7 @@ They started calling out on each other.
 
 "Three women gather to make noise" is apparently true.
 
-_TL Note:_ jp. 女三⼈寄れば姦しい is a phrase. It is a wordplay on the kanji of onna/woman(女) and kashimashii/noisy(姦) which just consists of three girls. The Japanese are accurate on that depiction lol.
+> _TL Note:_ jp. 女三⼈寄れば姦しい is a phrase. It is a wordplay on the kanji of onna/woman(女) and kashimashii/noisy(姦) which just consists of three girls. The Japanese are accurate on that depiction lol.
 
 "Haa..."
 
@@ -1793,7 +1793,7 @@ As expected, the one standing there was Saitani.
 
 ![Swimsuit-pose2](./img/P000c.jpg)
 
-_TL Note:_ LMAO.
+> _TL Note:_ LMAO.
 
 On that small body was a refreshing looking bikini, and the bottom was a see-through pareo.
 
@@ -1969,7 +1969,7 @@ And then we decided to meet up outside after buying the swimsuits.
 
 Saitani went to pick flowers, and isn't here right now.
 
-_TL Note:_ LOL the author goes over-the-top with Saitani and female pronouns/expressions.
+> _TL Note:_ LOL the author goes over-the-top with Saitani and female pronouns/expressions.
 
 Well, if it's outside the store, it feels comfortable to wait even if it's ladies' goods.
 Maybe my standards dropped due to staring at swimsuits for so long...
@@ -2056,7 +2056,7 @@ If the person in question doesn't realize it, maybe it's happiness for them.
 
 If someone came to know about it, the scene would be too disagreeable, and just imagining it was increasing the _discomfort index_.
 
-_TL Note: Note very accurate._ jp. 知ってしまえば、そんな光景は不愉快なだけで、想像するだけで不快指数は⾼まっていった。
+> _TL Note: Note very accurate._ jp. 知ってしまえば、そんな光景は不愉快なだけで、想像するだけで不快指数は⾼まっていった。
 
 My hate towards Ako increased and crossed the limits.
 

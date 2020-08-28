@@ -242,5 +242,7 @@ It was also troubling that the breakfast was tastier than usual.
 
 This was probably how Toyotomi Hideyori felt while filling up the outer ring of motes around his castle. 
 
-_TL Note:_ check out [this article on britannica](https://www.britannica.com/biography/Toyotomi-Hideyori).
-<span title = "Early in 1615 Ieyasu arranged a truce. The terms, to which Hideyori agreed, allowed the outer ring of moats protecting the castle to be filled in and the outer perimeter of barricades to be torn down. A few months later, Ieyasu attacked the defenseless castle, and the desperate Hideyori and his family committed suicide.">Here is the important part.</span>
+> _TL Note:_ check out [this article on britannica](https://www.britannica.com/biography/Toyotomi-Hideyori).
+> <span title = "Early in 1615 Ieyasu arranged a truce. The terms, to which Hideyori agreed, allowed the outer ring of moats protecting the castle to be filled in and the outer perimeter of barricades to be torn down. A few months later, Ieyasu attacked the defenseless castle, and the desperate Hideyori and his family committed suicide.">Here is the important part.</span>
+
+- - -

@@ -45,3 +45,5 @@ While turning into a smile,
 Ayame will definitely come under me."
 
 She said so in a tone full of confidence.
+
+- - -

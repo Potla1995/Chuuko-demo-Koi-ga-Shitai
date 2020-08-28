@@ -20,7 +20,7 @@ Plus, it's okay while sitting inside the classroom, but during break time the gi
 Boys being boys, would also do the "We are aliens" gig in front of the fans.
 No doubt there.
 
-_TL Note:_ "Wareware wa Uchuujin da" or "We are aliens" gig is when you keep an electric fan running and let it distort your voice. You must have done it when you were small. xD I remember this scene from Denpa Onna to Seishun Otoko. Basically, something elementary school children would love to do.
+> _TL Note:_ "Wareware wa Uchuujin da" or "We are aliens" gig is when you keep an electric fan running and let it distort your voice. You must have done it when you were small. xD I remember this scene from Denpa Onna to Seishun Otoko. Basically, something elementary school children would love to do.
 
 "Wish the season to turn on the AC comes fast."
 
@@ -172,7 +172,7 @@ I also want to be like that.
 
 It's not my responsibility anyway, you reap what you sow.
 
-_TL Note:_ Learned what the above proverb is in Japanese: it's 「身から出た錆だ」, which literally means "it's the rust from your body".
+> _TL Note:_ Learned what the above proverb is in Japanese: it's 「身から出た錆だ」, which literally means "it's the rust from your body".
 
 That being said, this dicey atmosphere while eating did not do Ayame (her reputation) any good.
 
@@ -388,10 +388,13 @@ As we returned to the classroom, Ayame and Ibu were chatting like friends for so
 
 "Apart form that, there's also <span title="サロペット">overalls</span>, <span title="ナチュかわのフリルブラウス">natucute frill blouses</span>, or <span title="ガーリーワンピース">girly one-pieces</span>~"
 
-_TL Note:_ Okay okay wait. What are these terms even. If you are interested in learning more, just google these. I have zero idea about fashion words in Bengali, leave alone Japanese lol.
-But well, for your curiosity, here are your [Overalls](https://ryuryumall.jp/onlineprod/1P/1000594/1000594_01_700_700_700_700.jpg), [Natural Cute Blouse (without frills)](https://base-ec2.akamaized.net/images/item/origin/d352f7925810cd312965387982e43b34.jpg), [Girly one-piece](https://base-ec2.akamaized.net/images/item/origin/e33df62b26e3b72fde06aa1d1a67c5d9.jpg).
+> _TL Note:_ Okay okay wait. What are these terms even. If you are interested in learning more, just google these. I have zero idea about fashion words in Bengali, leave alone Japanese lol.
 
-"... What is that? Some sort of incantation?" _TL Note:_ IFKR?
+> But well, for your curiosity, here are your [Overalls](https://ryuryumall.jp/onlineprod/1P/1000594/1000594_01_700_700_700_700.jpg), [Natural Cute Blouse (without frills)](https://base-ec2.akamaized.net/images/item/origin/d352f7925810cd312965387982e43b34.jpg), [Girly one-piece](https://base-ec2.akamaized.net/images/item/origin/e33df62b26e3b72fde06aa1d1a67c5d9.jpg).
+
+"... What is that? Some sort of incantation?" 
+
+> _TL Note:_ IFKR?
 
 Well, it looked like Ibu was one-sidedly talking to Ayame.
 
@@ -561,7 +564,7 @@ Tozaki was scratching his head, as if apologizing for whatever he was about to s
 "What is it this time?
 Something like Ayame is an assassin or an amazoness?"
 
-_TL Note:_ amazon = a big, strong, warrior-like woman, someone who reminds you of the mythical Greek women-warriors, the Amazons. I think in Japanese a woman amazon is made into an "amazoness", but it's not an english word, amazons are women by default.
+> _TL Note:_ amazon = a big, strong, warrior-like woman, someone who reminds you of the mythical Greek women-warriors, the Amazons. I think in Japanese a woman amazon is made into an "amazoness", but it's not an english word, amazons are women by default.
 
 No, but he did say it's not something too worrisome..
 
@@ -588,9 +591,9 @@ If you ask me though, I like 『Raspberry Panic』 more."
 
 The anime that gave birth to the phrase "Kimashitawaa". It was also made into a game, if I remember correctly.
 
-_TL Note:_ I think Hitohane is referring to 2015 eroge called [Kimihane: Kanojo to Kanojo no Koi Suru Ikkagetsu](https://vndb.org/v16377), Raspberry panic to [Strawberry Panic](https://vndb.org/v965).
+> _TL Note:_ I think Hitohane is referring to 2015 eroge called [Kimihane: Kanojo to Kanojo no Koi Suru Ikkagetsu](https://vndb.org/v16377), Raspberry panic to [Strawberry Panic](https://vndb.org/v965).
 
-_TL Note:_ Okay now what is "Kimashitawaa"? You can read a pretty descriptive explanation [here](https://dic.pixiv.net/a/%EF%BD%B7%EF%BE%8F%EF%BD%BC%EF%BE%80%EF%BE%9C%EF%BD%B0). Basically "Kimashitawaa" was used by [Suzumi Tamao](https://vndb.org/c26899) in only a scene, as a substitute for "Kitaaa"/"KTKR" which means "It's here!"/"It came!" in english. Well, apparently it's now a slang that can be used when you find out that one of your woman friends is in love with another woman (or a trap). Kinda like a substitute for ["Ara^~"](https://dic.pixiv.net/a/%E3%81%82%E3%82%89%5E%E3%80%9C) (when two girls do kyakya-uwauwa). Research it more on your own if interested. xD
+> _TL Note:_ Okay now what is "Kimashitawaa"? You can read a pretty descriptive explanation [here](https://dic.pixiv.net/a/%EF%BD%B7%EF%BE%8F%EF%BD%BC%EF%BE%80%EF%BE%9C%EF%BD%B0). Basically "Kimashitawaa" was used by [Suzumi Tamao](https://vndb.org/c26899) in only a scene, as a substitute for "Kitaaa"/"KTKR" which means "It's here!"/"It came!" in english. Well, apparently it's now a slang that can be used when you find out that one of your woman friends is in love with another woman (or a trap). Kinda like a substitute for ["Ara^~"](https://dic.pixiv.net/a/%E3%81%82%E3%82%89%5E%E3%80%9C) (when two girls do kyakya-uwauwa). Research it more on your own if interested. xD
 
 "Why such a rumor again..."
 
@@ -735,7 +738,7 @@ One should act with discretion in front of other people. At home we call each ot
 
 "Since I'm your advisor, normally I should be here, right?
 Well, I'm also here to observe you guys so that you don't do bad things."
-_TL Note:_ Like playing eroge.
+> _TL Note:_ Like playing eroge.
 
 "What bad things are you talking about?"
 
@@ -836,7 +839,7 @@ Ibu was totally in agreement with Ayame. "Kind", eh...
 During elementary school when she had learned about my story, she had said "I'll sink them to the bottom of Akashi strait!" pretty indignantly.
 Are you sure about your impression, Ibu?
 
-_TL Note:_ [Akashi Kaikyou](https://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge) is a strait in Kobe famous for sinking several ships in the past due to its severe storms.
+> _TL Note:_ [Akashi Kaikyou](https://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge) is a strait in Kobe famous for sinking several ships in the past due to its severe storms.
 
 ... Well, whatever.
 Truth speaks silently.
@@ -866,7 +869,7 @@ Of course, the thing from before was an eroge.
 Its title was "Ikusa no Yaiba, Yurihana no Kouki".
 It was made by the same publisher as "Princess Weekday", the first eroge that Ayame had played.
 
-_TL Note:_ [Princess Holiday](https://august-soft.com/princess_holiday/index.htm) and [Senmomo](https://vndb.org/v15708) are both famous games made by August. They also made Fortune Arterial (referred to in the text somewhere in Volume 2 too), Yoake Mae yori Ruriiro na, Aiyoku no Eustia, Daitoshokan no Hitsujikai. You must have heard of at least some of these titles... Basically the author is an August fan (as me lol).
+> _TL Note:_ [Princess Holiday](https://august-soft.com/princess_holiday/index.htm) and [Senmomo](https://vndb.org/v15708) are both famous games made by August. They also made Fortune Arterial (referred to in the text somewhere in Volume 2 too), Yoake Mae yori Ruriiro na, Aiyoku no Eustia, Daitoshokan no Hitsujikai. You must have heard of at least some of these titles... Basically the author is an August fan (as me lol).
 
 "While staring daggers at the site, the day had changed without me noticing.
 I think I got a taste of something frightening."
@@ -883,7 +886,7 @@ Albeit being only a teaser site, it was not unusual to check the source code of 
 Anyway, it was good that it wasn't getting released in summer.
 If it had overlapped with "Destiny Zero", I'd have been troubled for at least a day in deciding which game to play first.
 
-_TL Note:_ I'm pretty sure Destiny Zero refers to Destiny Night/Zero from Volume 2, but I can't find an eroge that was released in 2016 summer that has a similar sounding fantasy name. Well, when I read it in Volume 2 I was pretty sure Destiny/Night refers to Fate/Stay Night, and this would then refer to Fate/Zero, but that was released in 2013. Well, do let me know if you have an idea on what these games refer to! xD
+> _TL Note:_ I'm pretty sure Destiny Zero refers to Destiny Night/Zero from Volume 2, but I can't find an eroge that was released in 2016 summer that has a similar sounding fantasy name. Well, when I read it in Volume 2 I was pretty sure Destiny/Night refers to Fate/Stay Night, and this would then refer to Fate/Zero, but that was released in 2013. Well, do let me know if you have an idea on what these games refer to! xD
 
 Is it going to be in fall or winter? Or maybe spring... I'd have to concentrate on it for a week.
 Let's prepare for it in advance.
@@ -1001,7 +1004,7 @@ Who were 'those two'? What did 'entwined' mean? For what was I being offered mon
 "N-no, aren't Ayame, Suwama and Hatsushiba your girlfriends?
 I heard you make them entwine with each other and have opened up an <span title="鑑賞会">appreciation</span>..."
 
-_TL Note:_ Don't exactly know how to phrase this, but apparently our protagonist has opened up a hell of a sketchy business...
+> _TL Note:_ Don't exactly know how to phrase this, but apparently our protagonist has opened up a hell of a sketchy business...
 
 The abnormality of this situation was clearly standing out.
 
@@ -1047,7 +1050,7 @@ If you really want to see yuri scenes that much, just buy eroge.
 Other than that there's also "Miko wa Kannushi-sama ni Koi Shiteru", albeit not exactly vanilla yuri.
 Eroge titles are just overflowing with yuri!
 
-_TL Note:_ If you haven't guessed already: [Sono Hanabira ni Kuchizuke wo](https://vndb.org/v917) (EN: Kiss on the petals), [Kimihane: Kanojo to Kanojo no Koi Suru Ikkagetsu](https://vndb.org/v16377) (EN: Kimihane: The one month of girl in love with girl), [Otome wa <span title="Ohimesama = princess">Boku</span> ni Koishiteru](https://vndb.org/v195) (EN: The maidens are in love with me).
+> _TL Note:_ If you haven't guessed already: [Sono Hanabira ni Kuchizuke wo](https://vndb.org/v917) (EN: Kiss on the petals), [Kimihane: Kanojo to Kanojo no Koi Suru Ikkagetsu](https://vndb.org/v16377) (EN: Kimihane: The one month of girl in love with girl), [Otome wa <span title="Ohimesama = princess">Boku</span> ni Koishiteru](https://vndb.org/v195) (EN: The maidens are in love with me).
 
 Driven by some strange indignation, I headed towards the classroom.
 Tozaki also followed suit without hesitation.
@@ -1374,7 +1377,7 @@ Then, we went to the furthest end of the school building.
 The two minions were looking out so that others did not come this way.
 Almost like the figures of two Nio kings.
 
-_TL Note:_ Check out this [wiki page](https://en.wikipedia.org/wiki/Nio) on Nio. Copying from Wikipedia, they "are two wrathful and muscular guardians of the Buddha standing today at the entrance of many Buddhist temples in East Asian Buddhism in the form of frightening wrestler-like statues."
+> _TL Note:_ Check out this [wiki page](https://en.wikipedia.org/wiki/Nio) on Nio. Copying from Wikipedia, they "are two wrathful and muscular guardians of the Buddha standing today at the entrance of many Buddhist temples in East Asian Buddhism in the form of frightening wrestler-like statues."
 
 Then, while glaring sharply at me,
 
@@ -1606,7 +1609,7 @@ Nervously raising her hand, Ayame squinted in displeasure.
 
 "If it's Ayame-san, then you can annihilate them in one punch!"
 
-_TL Note:_ The JP expression used here is "郷鎮", which means sinking a ship within a minute with bombardment/lightning/explosives. Basically, don't go against this girl 1v1.
+> _TL Note:_ The JP expression used here is "郷鎮", which means sinking a ship within a minute with bombardment/lightning/explosives. Basically, don't go against this girl 1v1.
 
 Kiyomi's follow acted more like an agitation than a cover, and Ayame hung her face while fidgeting her index fingers in front of her chest.
 
@@ -1666,7 +1669,7 @@ Although it wasn't under the blazing sun, it was still very hot.
 The principal's speech about various topics in this heat was torture, if said in clear words.
 In this situation, if the principal was a comedian, I wonder if he would be trying to make us blast off in laughter?
 
-_TL Note:_ This line is very unclear to me. こういう時、校⻑が漫才師だったらドッカンドッカン笑わせてくれるのだろうか。 Let me know if anyone has better suggestions.
+> _TL Note:_ This line is very unclear to me. こういう時、校⻑が漫才師だったらドッカンドッカン笑わせてくれるのだろうか。 Let me know if anyone has better suggestions.
 
 "Finally, the Student Council has an announcement."
 
@@ -1950,13 +1953,13 @@ When I had looked up Live2D, it was written that making it took a huge amount of
 I was at the level where I didn't know the multiplication table, or even write my own name.
 The letters for 'ryou' and 'ma' were also hard for me."
 
-_TL Note:_ The kanji for Ryouma is ⿓⾺.
+> _TL Note:_ The kanji for Ryouma is ⿓⾺.
 
 "Eh? You couldn't write your own name in kanji?"
 
 What pro baseball coach were you?
 
-_TL Note:_ I couldn't find the reference here.
+> _TL Note:_ I couldn't find the reference here.
 
 "After a certain incident during ninth grade, I started studying and got an interest in it.
 But... at that time, I was an idiot who could not get into any high school...
@@ -2059,7 +2062,7 @@ What a bother...
 
 "Please listen to what I have to say."
 
-_TL Note:_ Chapter name much?
+> _TL Note:_ Chapter name much?
 
 It was dubious whether she even wanted to engage in a conversation.
 
@@ -2091,7 +2094,7 @@ It was pretty impudent of her, being the top suspect for spreading the rumors.
 
 <span title="Match-pump?">"Was this your plan all along?"</span>
 
-_TL Note:_ Match-pump is a JP idiom that basically means stirring up trouble oneself and then getting credit for resolving it. The origin is lighting a match and then putting it out with a water pump.
+> _TL Note:_ Match-pump is a JP idiom that basically means stirring up trouble oneself and then getting credit for resolving it. The origin is lighting a match and then putting it out with a water pump.
 
 "... What did you say?"
 
@@ -2292,7 +2295,7 @@ Buying oolong tea and having a toast with Tozaki, we moistened our throats.
 "Vending machine juices are tasty in this season.
 It penetrates through the internal organs."
 
-_TL Note:_ That sounds kind of dangerous... JP is scary!
+> _TL Note:_ That sounds kind of dangerous... JP is scary!
 
 Tozaki was saying stuff as if he was drinking beer.
 It was the same as what my dad says at night.

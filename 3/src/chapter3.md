@@ -25,7 +25,7 @@ After a night's sound sleep in preparation for today, there is no one in this wo
 So, let's start!
 "Magician's Joker", here we--.
 
-_TL Note:_ Probably referring to [Sorcery Jokers](https://vndb.org/v16337).
+> _TL Note:_ Probably referring to [Sorcery Jokers](https://vndb.org/v16337).
 
 "Yo, onii-chan♪"
 
@@ -125,7 +125,7 @@ At the impact that shook my very core, I kneel down holding my leg.
 
 "GUOOOOO...!"
 
-_TL Note:_ RIP. My condolences.
+> _TL Note:_ RIP. My condolences.
 
 "When I asked nicely once, just accept it!
 Come with me right now!
@@ -156,7 +156,7 @@ Just like how Finland ultimately succumbed to the Soviet Union in order to defen
 If it's obvious that you'll face a terrible outcome, then sometimes accepting the unjust demands at the beginning is wise.
 Maybe that option can help you protect things that are important.
 
-_TL Note:_ Yeah, very convincing argument. Just admit it already, your sister is too stonks.
+> _TL Note:_ Yeah, very convincing argument. Just admit it already, your sister is too stonks.
 
 "Can you not show a more pleasant face?"
 
@@ -252,7 +252,7 @@ No, she was probably never even involved with underground agencies.
 Plus who is their representative?
 I don't recall seeing anyone like that in school.
 
-_TL Note:_ I'm a bit confused about this part. Mag said before that Ayame was a part of the underground world (裏番), and Aramiya wants to know what the overground (表番) person looked like. So I interpreted 表番 as a front face of these underground agencies.
+> _TL Note:_ I'm a bit confused about this part. Mag said before that Ayame was a part of the underground world (裏番), and Aramiya wants to know what the overground (表番) person looked like. So I interpreted 表番 as a front face of these underground agencies.
 
 "She's just a normal girl.
 Please try not to be fooled by rumors that much, guys..."
@@ -336,7 +336,7 @@ First time when I saw this it was super exciting a technology, but after seeing 
 Rather, it feels rather inconvenient that the fountain doesn't show the current time immediately.
 Makes me think how humans are so selfish about their conveniences.
 
-_TL Note:_ If you don't know, Kanazawa station has a [spectacular fountain clock](https://www.youtube.com/watch?v=pzGuf7enE7o). Gotta check it out next time I visit Japan!
+> _TL Note:_ If you don't know, Kanazawa station has a [spectacular fountain clock](https://www.youtube.com/watch?v=pzGuf7enE7o). Gotta check it out next time I visit Japan!
 
 Due to the constant flux of people, this place is pretty restless.
 Everyone who just stare at the view absent-mindedly kind of seem like otakus who stare at the circles of their admiration during comiket.
@@ -713,7 +713,7 @@ The place is called "Germoglio Cafe".
 If I'm not wrong, it probably means something like a bud or　gemmation in Italian.
 I think I saw that phrase in "Fukuin no Campanella".
 
-_TL Note_: Referring to [Shukufuku no Campanella](https://vndb.org/v1337).
+> _TL Note_: Referring to [Shukufuku no Campanella](https://vndb.org/v1337).
 
 "You sure know about a very fancy place..."
 
@@ -1006,7 +1006,7 @@ Those creeps with smirks on their face... how great it'd be if all of them lose 
 People who hunt otakus cannot hurt normal people, so disguising as normal people can deter them from attacking.
 If they really come at me, it'd be very troublesome so it results in less damage if I spend money on my attire."
 
-_TL Note:_ Wow that's scary. Good advice though!
+> _TL Note:_ Wow that's scary. Good advice though!
 
 "After all that you say, you're not that afraid of delinquents after all."
 
@@ -1152,7 +1152,7 @@ Then we leave the shopping mall and head towards our next destination, the coast
 The blue sea in front of our eyes...
 Well, not like I can start singing out of it, but just being the sea kind of gave it a non-daily-lifey feeling to it.
 
-_TL Note_: Pardon my english, it's 02:00 here. What the hell is non-daily-lifey feeling lol?
+> _TL Note_: Pardon my english, it's 02:00 here. What the hell is non-daily-lifey feeling lol?
 
 I never really go to the sea, or have opportunities to look at it.
 
@@ -1206,7 +1206,7 @@ I used to think of her as just a delinquent, but got captured by the gap.
 I don't want anyone else.
 I've said this before as well."
 
-_TL Note_: This hits hard. So moeeeeeeeeeeee!!!
+> _TL Note_: This hits hard. So moeeeeeeeeeeee!!!
 
 "It doesn't balance out.
 I don't intend on making you my lover, so it's pointless."
@@ -1347,7 +1347,7 @@ Getting close to each other in this place is a big load on my heart, but at leas
 
 "I-I wanted to pick something together."
 
-_TL Note:_ LOL. I can't imagine picking my VN with someone else. Especially a girl. On a date. Not that I've ever been on a date, haha. No, really, don't pity me... I'll cry. :sadcool:
+> _TL Note:_ LOL. I can't imagine picking my VN with someone else. Especially a girl. On a date. Not that I've ever been on a date, haha. No, really, don't pity me... I'll cry. :sadcool:
 
 "Like picking clothes?!"
 
@@ -1394,7 +1394,7 @@ Just remembering it makes me sad.
 I might start crying even.
 Fujiaki Shiori, why did you deceive me...
 
-_TL Note:_ If you don't remember, go back to the first scene of Volume 1. :P
+> _TL Note:_ If you don't remember, go back to the first scene of Volume 1. :P
 
 So it's troublesome if you believe in me too much.
 
@@ -1402,7 +1402,7 @@ So it's troublesome if you believe in me too much.
 
 『Henta~i!!! ~Garter Belt ni Natte Peropero Rerorero~』
 
-_TL Note:_ [Henshin!!! ~Pantsu ni Natte Kunkun Peropero~](https://vndb.org/v6472) I think. Also, it translates to "lickity lick after turning into garter belt" lol.
+> _TL Note:_ [Henshin!!! ~Pantsu ni Natte Kunkun Peropero~](https://vndb.org/v6472) I think. Also, it translates to "lickity lick after turning into garter belt" lol.
 
 ... Can't say that.
 
@@ -1431,7 +1431,7 @@ I pick up a package with around five heroines.
 "Then, how about this 『Lily x Link』?
 I heard that the characters are all strange people, and it's interesting."
 
-_TL Note:_ The only corresponding VN that comes to mind is [Pure x Connect](https://vndb.org/v16166). Don't think this is the right reference though, because not all characters are strange. xD
+> _TL Note:_ The only corresponding VN that comes to mind is [Pure x Connect](https://vndb.org/v16166). Don't think this is the right reference though, because not all characters are strange. xD
 
 "Okk. Will give ya my reviews after playing it."
 
@@ -1501,7 +1501,7 @@ No no, taking secret photos is definitely bad. Let's not do it.
 
 "Ba...!"
 
-_TL Note_: Baka without the ka. xD
+> _TL Note_: Baka without the ka. xD
 
 After finishing shopping, Ayame is heading in this direction.
 
@@ -1683,7 +1683,7 @@ And then, showed me the display of her notebook.
 It's the scene of a naked girl sleeping on the bed.
 Rather, it's an H scene.
 
-_TL Note_: ... oh shit.
+> _TL Note_: ... oh shit.
 
 And white bodily fluids covering every single surface was also portrayed there.
 
@@ -1693,7 +1693,7 @@ While I was thinking that she again let it outside, I guess now's not the time f
 
 "D-does _that_, come out _this much_?"
 
-_TL Note_: PFFFFFFFFTTTT
+> _TL Note_: PFFFFFFFFTTTT
 
 "That's too much obtrusive!!"
 
@@ -1758,7 +1758,7 @@ Isn't it similar to　making potteries together?"
 
 Not sure if it's something people should be doing together though.
 
-_TL Note:_ Nope. I will never play an eroge with someone else playing eroge behind me. Especially not H scenes lmao.
+> _TL Note:_ Nope. I will never play an eroge with someone else playing eroge behind me. Especially not H scenes lmao.
 
 But well, that's right.
 
@@ -1859,3 +1859,5 @@ While I feel tired, my heart feels very content right now.
 This comfortable fatigue is almost like that of clearing a masterpiece of a VN, or --.
 
 ![Ayame-returns-home](./img/P205.jpg)
+
+- - -
