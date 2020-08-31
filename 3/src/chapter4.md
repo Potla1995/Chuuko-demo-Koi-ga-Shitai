@@ -1,8 +1,8 @@
 # Chapter 4: At the very best, only as friends, OK!?
 
-> _ETA_: October 2020. Life is busy...
-> Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense, so look forward to it!
-> _Progress_: 200-209 out of 200-249 pages (20%)
+> _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense, so look forward to it!
+
+> _Progress_: 200-216 out of 200-249 pages (34%)
 
 - - -
 
@@ -394,6 +394,273 @@ It's such a bizarre topic. Seriously, what the hell is this president thinking?
 Then everything will be wrapped up nicely, right?"
 
 "Nicely, eh..."
+
+"As a plan in the current situation, I think it's pretty reasonable?"
+
+I have no intention of selling away Ayame, though...
+
+Although it is quite interesting that she's saying something that contradicts my mental image of her type...
+
+"You seem to be the type of person who wouldn't tolerate the girl she likes going out with another boy though, am I wrong?"
+
+"Well, I used to think like that... but I realized something.
+Did you not realize it already?"
+
+"Realize what?"
+
+The president smirks condescendingly at me.
+As if truimphing that she's the one who knows Ayame better...
+
+"Only after all this time did I come to understand... the reason behind Ayame's cuteness and beauty-"
+
+Opening her folding fan, she thrusts it horizontally towards me.
+
+&nbsp;
+
+"- is because she's in love."
+
+&nbsp;
+
+The president said so with an extremely serious look.
+
+"I remember the names of every female student in this school.
+Of course, I naturally knew about Ayame when she used to be a delinquent."
+
+Well, kind of expected with how she used to stand out.
+She was probably the number one famous person in school.
+
+"At some point of time... she had suddenly bloomed.
+In full glory.
+Among all the beautiful flowers in the flower bed, as a beautiful woman emitting incomparable charm.
+No matter how hard I thought, I could not figure out the reason behind this transformation... but then I realized.
+She became like this because she fell in love with you."
+
+"..."
+
+> _TL Note:_ Oof what is with this president and her overly poetic language and choice of words? It's testing my vocabulary to the limit. Please stop talking already. You know you can't buy Ayame...
+
+"Ayame's brilliance... although I hate to admit it, exists _because_ you are with her, and it won't be complete without you.
+I desire for that beautiful Ayame-san.
+She's absolutely wonderful.
+Just like an angel descended onto this school.
+If she's with me, my ambition will also definitely be accomplished."
+
+"Ambition...?"
+
+"Yes. To turn this school into an orchard of females... an all-girls school!"
+
+... Is the scale of this topic too big, or too small, or just idiotic?
+
+"This is not an eroge, and I don't think you can do that overnight?
+It's not like the student council has that much authority, right?"
+
+"You're correct.
+If we had that much influence, I'd have turned this into an all-girls school a year ago.
+That's why, we have to commit to a grassroots operation."
+
+"Towards whom?"
+
+"The city mayor or PTA I guess." 
+
+>_TL Note:_ PTA = Parent-teacher association.
+
+"Rather, turning this school into an all-girls school itself will take ages.
+You're not going to be even here next year."
+
+"However, I can sow the seeds.
+If the seeds are sown properly... I can repeat a year or even get myself expelled, or maybe as a faculty, I'll return here.
+It's at that time... that my hunger will be satiated!"
+
+... Why did the students of this school elect _this person_ as their president?
+
+She's even worse than the perverted student council presidents that appear in eroge.
+
+"And you too, seem to be somewhat scared that Ayame-san will be taken away."
+
+"I am not even thinking about that, though."
+
+"Nope. You must be scared right now...
+That Ayame's hymen will be gone.
+Am I right, virgin-nerd-san?"
+
+Calling people virgin addicts while pointing a folding fan at them, doesn't this person have a wonderful personality?
+
+"You are misunderstanding something."
+
+While I'm a virgin nerd, I have never once thought that I wanted Ayame's virginity.
+
+"No, I understand from your smell.
+While I don't want to think about it that much, you're an otaku just like me.
+Therefore, let me promise that I'll not tear her hymen."
+
+She doesn't understand a thing.
+
+But...
+
+It really is impossible.
+
+There's no way I can hand Ayame over to this person - no, this freak.
+
+While I had a fleeting thought that she could become a fellow eroge enthusiast, it seems like it was impossible for us to get along right from the start.
+
+"You."
+
+I glare at the president.
+
+"Don't fuck around!
+Virginity is not about the existence of a membrane.
+It gets taken the moment someone offers their heart."
+
+"I see.
+Seems like you have some opinions about the definition of virginity."
+
+"Not that it matters.
+In the first place, I don't have any such relation with her.
+I've been saying this from the beginning, but if you want her, persuade her by yourself.
+If you think you're yuri, don't drag the existence of a guy in the middle!"
+
+While I'm not an expert in the field, I feel like this freak is even wrong as a yuri.
+
+Finally, handing over Ayame to this person is something I will not agree too even if heaven and hell are swapped.
+
+"Well, even if you do end up persuading Ayame, I'll obstruct it to the bitter end."
+
+Hearing that, the president's eyes turned a dangerous shade.
+
+Oof, scary AF.
+
+"Guess I'll just ask for now, but why?"
+
+"It's easy. I can't digest the fact that you're treating her like an object."
+
+"Object? How so?"
+
+"The fact that you're talking about tearing or not tearing her hymen.
+It's something that neither me nor you can decide on.
+We don't even have that right from the beginning.
+It's to be given to the person that Ayame decides on."
+
+The president hides her mouth behind the folding fan after opening it.
+
+"... So negotiations are off?"
+
+"It's not like there was any sign of it being established from the very onset."
+
+Waving my hand at the president, I turn my back on her.
+
+She's totally the king of wasting time.
+
+Passing by the two attendants, I head towards our clubroom.
+
+"I'm back."
+
+Everyone looked back at me in worry as soon as I entered the room.
+
+"W-welcome back. H-how did it go?"
+
+Ayame asks, taking the initiative.
+
+It's a bit hard to answer the person in question...
+
+"She talked about her dreams."
+
+"... what?"
+
+Everyone makes a strange face.
+
+Well, let's not talk about her proposal of "joint ownership" of Ayame and stuff... it's something that doesn't need to be said out.
+
+Flumping onto a chair, I tiredly look up at the ceiling.
+
+"Aramiya-kun, you look like a salaryman that just returned from a business talk."
+
+"Aren't you watching too much drama or whatever?"
+
+Didn't think I'll get told that by Hatsushiba.
+
+Or rather, of course you'd get tired. Talking with that person is tiring.
+
+In the first place, forcing conversation with people whose thought process is different is exhausting.
+Not like my words reached her in any capacity.
+
+It's still good if we had something common to talk about, but our tastes in eroge titles even would probably be conflicting.
+
+"Good grief... why is that person so obsessed with women?"
+
+Does she grasp the existence of Saitani?
+If they still haven't met each other, I should thrust him at her as an absolute defense.
+
+"She said she was cheated by a guy before tho..."
+
+The person who seemed to have suddenly realized the reason, was none other than the girl with a face as lax as that of a mascot character, Ibu.
+
+Since the input came from an unexpected person, everyone, including me, had round eyes.
+
+"Who did you hear that from? Ibu?"
+
+"From the council president herself."
+
+"When?"
+
+"Probably a long time back~
+I feel like I went through hell by studying after that."
+
+Now that she says it, she was once late because the president had called her.
+It totally slipped our minds to ask her why she was called.
+Wasn't it a talk about "assets" or something?
+
+"And then, when I declined her, she told me that it's bad to go out with boys.
+Even though Seiichi is a good boy..."
+
+"Nah, leave the part about me. What did she say about being cheated?"
+
+"Umm, if I remember correctly...
+Probably when she was in middle or elementary school, she went out with a guy apparently-.
+She told me his name, but I forgot.
+Although it seemed like I have heard that name somewhere..."
+
+"The fact that you don't remember if it was middle or elementary school, I think your story is pretty shaky..."
+
+"P-president did go out with a guy before!!"
+
+Well, it's probably fine to believe in that much.
+Since she's going this far...
+
+"So, she's pretty, right?
+And the guy was also super cool-.
+So everyone was jealous that they were such a great couple."
+
+A couple to envy eh.
+If people think about it that way, it probably sounds like middle school?
+During elementary school even if people become a couple they'd just be jeered at.
+
+Well, let's leave aside the time period for now.
+Rather, it's not a talk about her <span title="jp. 身代話">assets</span> but rather her <span title="jp.　身の上話">personal history</span>...
+
+"So wasn't she also quite happy about it?"
+
+"Yeah, at that time. 
+But... apparently she was told on the graduation day..."
+
+"... What was she told?"
+
+"『Thank you for granting my school life with vibrant colors.
+But, I already found a cute girl, so I don't need you anymore.』, apparently."
+
+... We were all at a loss for words for a moment.
+
+It's Ibu's words.
+I don't think she can remember the conversation word by word.
+
+But, the content was probably not that far off.
+
+"Cruel..."
+
+"...That guy's the worst."
+
+Hatsushiba and Tozaki agreed with each other, frowning in distaste.
+
+
 
 &nbsp;
 
