@@ -68,7 +68,7 @@ Then, with mannerisms that seemed to lack confidence, she started writing on the
 "Hmm, correct.
 You escaped death."
 
-> _TL Note: Wow this is actually scary xD_
+> _TL Note:_ Wow this is actually scary xD
 
 Ayame let out a sigh of relief.
 
@@ -2056,7 +2056,7 @@ If the person in question doesn't realize it, maybe it's happiness for them.
 
 If someone came to know about it, the scene would be too disagreeable, and just imagining it was increasing the _discomfort index_.
 
-> _TL Note: Note very accurate._ jp. 知ってしまえば、そんな光景は不愉快なだけで、想像するだけで不快指数は⾼まっていった。
+> _TL Note:_ Not very accurate. jp. 知ってしまえば、そんな光景は不愉快なだけで、想像するだけで不快指数は高まっていった。
 
 My hate towards Ako increased and crossed the limits.
 

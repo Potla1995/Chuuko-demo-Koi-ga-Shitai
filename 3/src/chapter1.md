@@ -736,6 +736,7 @@ One should act with discretion in front of other people. At home we call each ot
 
 "Since I'm your advisor, normally I should be here, right?
 Well, I'm also here to observe you guys so that you don't do bad things."
+
 > _TL Note:_ Like playing eroge.
 
 "What bad things are you talking about?"

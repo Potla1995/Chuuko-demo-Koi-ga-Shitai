@@ -2,9 +2,11 @@
 
 > _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense, so look forward to it!
 
-> _Progress_: 200-216 out of 200-249 pages (34%)
+> _Progress_: 200-219 out of 200-249 pages (40%)
 
 - - -
+
+## Part 1
 
 The day after I went out with Ayame.
 
@@ -521,7 +523,7 @@ If you think you're yuri, don't drag the existence of a guy in the middle!"
 
 While I'm not an expert in the field, I feel like this freak is even wrong as a yuri.
 
-Finally, handing over Ayame to this person is something I will not agree too even if heaven and hell are swapped.
+Finally, handing over Ayame to this person is something I will not agree to even if heaven and hell flip around.
 
 "Well, even if you do end up persuading Ayame, I'll obstruct it to the bitter end."
 
@@ -660,8 +662,137 @@ But, the content was probably not that far off.
 
 Hatsushiba and Tozaki agreed with each other, frowning in distaste.
 
+It's a story that hits home.
+If such a rival character appears in a VN, you cannot gain catharsis if there isn't an episode where they get chastised.
+If such an episode doesn't exist, I give those VN's a 1☆ rating.
 
+"You kind of end up... pitying her."
+
+Ayame's pupils shadow in sadness.
+
+"That president had such a history..."
+
+"She also said that the boy went out with another cute girl in his next school.
+She was super angry that in the end, she was treated as just an accessory."
+
+"Of course she would.
+But if he treated her that badly, wouldn't have he become the victim of rumors?"
+
+"That you see-.
+He was apparently a very serious type, and no one believed her even if she told them.
+In the end the president was called 『mean』, 『demon』 etc..."
+
+So that's why she stopped believing in guys and turned towards yuri.
+
+Whether eroge came first or her turning into yuri came first is something we don't know... but there's not a lot of difference.
+
+"..."
+
+I suddenly thought.
+
+Her story is very familiar to me.
+
+Since she's the same as me.
+
+After being thoroughly deceived by the opposite sex, she also became unable to believe in them.
+
+Teachers or classmates didn't even believe her when she talked with them about being cheated.
+
+And then she dug into the world of VNs, pretty much like a female version of myself.
+
+Being deceived by the person you love tears apart your mentality by that much.
+Especially if during puberty, that wound becomes deep and doesn't heal easily.
+Even more so if you purely believed in that person.
+
+Nowadays I can get along well with Ibu, and since she's been very sincere... I can now believe that she never had it in her to do such a terrible thing. That itself was a huge jolt between trust and suspicion.
+
+I had also become unable to go to school for a while, and probably the president also probably received shock to a similar degree.
+
+... Although I didn't head over to homosexuality.
+
+Also, it had become clear that even Ibu was being manipulated.
+
+"Is that how she achieved such an over-the-top hobby..."
+
+"Well... something like that, maybe."
+
+At my words, Hatsushiba made a painful expression that conveyed that she couldn't really say anything.
+
+"It's very painful... when the person you believe in betrays you."
+
+Hatsushiba also had to encounter something similar during Songou's case.
+
+We all sympathize with the president.
+She is pitiful.
+Although she probably doesn't want guys to think of her that way.
+
+However, no matter in what form, she stood up on her own even after the tragedy.
+
+That's something I can sincerely respect.
+
+"However... this time, she has become unable to look at her surroundings."
+
+"Did ya say something? Aramiya?"
+
+Ayame asks in wonder.
+
+I ended up muttering that in a small voice, but apparently she didn't hear it.
+
+"... No, nothing in particular."
+
+I won't really stop the president if she wants to be tied together with a girl.
+No one has the right to judge others or deny them for their preferences.
+
+Romance is free.
+Even if you love 2D.
+
+But then, there's a huge prerequisite: that you don't cause hindrance to the person you're aiming for.
+
+The president is already too much obsessed with Ayame.
+
+You never know what she might be up to.
+We must be careful at all times...
+
+&nbsp;
+
+- - -
+
+## Part 1.5
+
+"Was it not possible, after all?"
+
+Yaotani frustratingly bit her fingernails while looking at the back of Seiichi.
+
+"President, your beautiful fingernails will break."
+
+"... You're... correct."
+
+Although she let go of her nails, her eyebrows were still knit together.
+
+It seemed as if her anger was overflowing up from within.
+
+"... Should we do it?"
+
+The secretary proposed something ominous.
+
+However, the president shook her head.
+
+"Violence is bad.
+We must always move smartly."
+
+"Hmm..."
+
+"However... we need to use our final means.
+Not that I really want to use _that_... it leaves a bad taste in my mouth as the student council president."
+
+Such dangerous words dispersed into the hallway.
+
+- - -
+
+## Part 2
 
 &nbsp;
 
 _To be continued..._
+
+_Woah, things are escalating pretty fast._

@@ -1264,7 +1264,7 @@ If Ibu is good, that's also OK."
 
 Her personality is that of someone who breaks bamboo...
 
-＿TL　Note:_ 竹を割ったようなやつ basically means someone who has a very determined personality with their own beliefs and values, and who doesn't waver at all in saying what they think to your face.
+> _TL　Note:_ 竹を割ったようなやつ basically means someone who has a very determined personality with their own beliefs and values, and who doesn't waver at all in saying what they think to your face.
 
 "Well, when your filter disappears, I'll be happy if you choose me.
 And, I'll definitely remove that filter from your head.
