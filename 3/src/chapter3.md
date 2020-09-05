@@ -754,7 +754,7 @@ And hugs me every time we meet."
 
 "By your terms, she kind of feels like Kotani-sensei."
 
-"... Kiriko nee-san, eh? Is that so?"
+"... Kiriko-neesan, eh? Is that so?"
 
 "Well, when we were saved by the police, the first thing she did was to hug you tight, right?"
 
@@ -762,7 +762,7 @@ And hugs me every time we meet."
 
 "Aren't they also close in age? She's 8 years older than me."
 
-"Ah, then must be the same. Kiriko nee-san is 23."
+"Ah, then must be the same. Kiriko-neesan is 23."
 
 She also purchased my cellphone and pays for the bills, after all.
 
@@ -772,7 +772,7 @@ I'm always being taken care of. At school she's kind of noisy, but still saves m
 
 "Present, eh..."
 
-Should I also give my thanks to Kiriko nee-san?
+Should I also give my thanks to Kiriko-neesan?
 
 ... No, wait. She pushes mundane stuff down my throat just by that amount.
 That should offset each other.
@@ -1245,7 +1245,7 @@ Well, me saying this might as well be knocking on the wrong door."
 "That..."
 
 That I know already.
-Kiriko nee-san was super nice after all.
+Kiriko-neesan was super nice after all.
 
 People in general, irrespective of gender, are not all cut out of the same stone.
 

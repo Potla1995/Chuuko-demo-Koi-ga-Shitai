@@ -1,8 +1,8 @@
 # Chapter 4: At the very best, only as friends, OK!?
 
-> _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense, so look forward to it!
+> _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense and has a lot of POV switching. Look forward to it!
 
-> _Progress_: 200-219 out of 200-249 pages (40%)
+> _Progress_: 200-229 out of 200-249 pages (60%)
 
 - - -
 
@@ -757,6 +757,8 @@ We must be careful at all times...
 
 - - -
 
+&nbsp;
+
 ## Part 1.5
 
 "Was it not possible, after all?"
@@ -787,12 +789,340 @@ Not that I really want to use _that_... it leaves a bad taste in my mouth as the
 
 Such dangerous words dispersed into the hallway.
 
+&nbsp;
+
 - - -
 
+&nbsp;
+
 ## Part 2
+
+After the secret conversation with the president, the rumor, instead of calming down, was spreading even further.
+
+After finishing our packed lunches during the lunch break, as we were quietly gathered in a corner of the classroom, Tozaki told us with a bitter smile...
+
+"So apparently now you have taken the virginity of half of the girls of this school."
+
+"Don't kid with me, as if such a thing can even be acceptable!"
+
+If they were 2D girls, it'd be the best, but my heart doesn't move even a bit if it's in 3D.
+
+In the first place, does such a VN-type rumor also find fuel somehow?
+
+"Well, most of them don't really believe it though."
+
+"Most of them... so saying backwards, many people believe in the rumor?"
+
+"Although there was only one such example, but they were like 『seriously?』.
+Not sure if it was a joke or not."
+
+Isn't the average intellect of our school too low!?
+
+Just what evidence do they have to believe in it...
+What is the factor behind their thoughts?
+
+No matter how think about it, I've been maintaining proper conduct.
+At least in the exterior.
+Don't tell me, my true nature that even I don't know about, somehow got exposed?
+... Nah, not possible.
+
+"It's just that...
+There's also a troublesome rumor that is starting to get mixed."
+
+"What do you mean by troublesome?"
+
+Just how more troublesome can this even get?
+
+"That you're doing stuff like in 『Classmate Paradise!』..."
+
+For a moment, my CPU hung up.
+
+"What... did you..."
+
+『Classmate Paradise!』.
+
+A VN where you screw 15 classmates in order after school, or doing XX stuff together.
+So, it's the title of a full-fledged eroge.
+
+> _TL Note:_ After some digging through VNDB, I think the author here refers to the old VN called [Doukyuusei](https://vndb.org/v185) where there are 14 heroines and you can select any (or multiple) of their routes... Way to go, Aramiya! xD
+
+"Why did that title come up...!?"
+
+"No clue.
+It's possible that otakus are fueling the rumors even further...
+Rather, the name of eroge mixed into rumors is rare..."
+
+"Please tell me you're lying..."
+
+Isn't it the same as the fact that I'm a deep otaku is coming out of the bag!?
+
+The unnatural development speed of the rumor is already out of control; no matter what I say it'll just be the same as spilling water on hot stone.
+
+That being said, as long as the clubroom is not broken into, my hobby should not get found out...
+
+"Hey, how about you try doing something good in order to spread good rumors, like during Cotton's time?"
+
+Hatsushiba proposed in a worried tone.
+
+Not that I didn't think of that...
+
+"It's different from Ayame's time - I don't have a chance of leaving such a good impression like Ayame did.
+It's futile."
+
+"But"
+
+"That kind of action had meaning because Ayame's original impression was bad, and for me, the impression I have is $\pm0$...
+It's not clear how effective it would be.
+Not that it will be meaningless, but doing such a thing in the face of the fresh rumor will only make it seem deliberate."
+
+> _TL Note:_ Trying to make it too literal kind of obfuscates the meaning, but basically Ayame's rumor was old but Aramiya's rumor is new. Doing good stuff only now has a chance of backfiring.
+
+"Then, I could tell everyone..."
+
+She probably is thinking of doing the podium thingy from Ayame's time.
+
+"While I'm happy about your feelings, even that won't have a lot of effect..."
+
+Our podium declaration also had impeccable timing, after all.
+
+"How about just giving up and doing stuff like the rumor~"
+
+Ibu brings up a moronic opinion as usual.
+
+"That kind of stuff you can do after the rumors calm down and you just wanna laugh it off.
+If we do it now..."
+
+"But well~.
+Once you pierce through, sometimes it turns into a good flow-.
+_If pushing doesn't work, push harder_, or something?"
+
+"... Well, not like that kind of methods don't exist.
+By the way, the correct proverb is _if pushing doesn't work, try pulling_.
+What good would pushing harder do?"
+
+For example, let's say the rumor was that I love porn magazines.
+
+Then if I bring an abnormal amount of porn mags, it's not impossible that there's some chance of it being conceived as being deliberate.
+
+But in this case, just one or many paper bags full of porn mags won't suffice.
+You'd have to bring a 2-ton truck loaded with porn mags in order to make it into a deliberate gag.
+
+The amount of VN in my home and the clubroom does add up to that ridiculous quantity, but to make it into a gag I'd want at least three times that much.
+Even if I ask Ayame and Tozaki to bring their VN collections, it won't be enough.
+
+"For now there's no choice but to endure, I guess..."
+
+"But somehow, you continuing to be misunderstood like this is..."
+
+Ayame sadly looks at me.
+
+She seems to be suffering as if it's her own problem.
+
+"Can't be helped, right?
+At this stage, no matter what we do the timing is terrible.
+Plus, the final exam and summer vacation are right around the corner.
+It's fine if we endure till the closing ceremony."
+
+There are times when you really can't do anything.
+
+Well, just understanding that much should be enough... is what I was thinking.
+
+While returning from the bathroom after the lunch break ended,
+
+"Seiichi, come with me for a moment."
+
+Being caught by Kiriko-neesan, I was moved to a deserted corner of the hallway.
+
+"What happened?"
+
+"So. You don't have explosives and stuff in the clubroom, right?"
+
+"Ha? Of course I haven't.
+What are you talking about?"
+
+"Of course..."
+
+Kiriko-neesan let out a sigh of relief, but her expression was still perplexed.
+
+"Why did such a topic..."
+
+"In the middle of the rumor that you have been doing whatever you like in that room, an anonymous report came in that they heard the sound of an explosion from there.
+And, on another occasion, apparently smoke was seen coming out from the window."
+
+"It's a false accusation.
+It's not like I'm playing my VNs on the speaker in that room."
+
+I have not even played an explosion sound effect from my laptop.
+
+There's also no smoke.
+We don't even deal with gunpowder or anything.
+
+"In the first place, if smoke had actually appeared, there would be more witnesses.
+Same with the explosion sound, right."
+
+"That's right.
+But the problem is that it being mixed with the current rumors, the teachers have started to become slightly suspicious about it.'
+
+"Oof, give me a break..."
+
+It's the era when even teachers get fooled by rumors.
+
+No, maybe the rumors themselves are well-made.
+
+Certainly, the presence of explosives in the clubroom is not something that will definitely not happen.
+There even were such news in some overseas schools.
+Chemical substances leaking out and cause explosion accidents also happen even if in small scale.
+
+At least, it's easier to believe than me playing VNs inside that room...
+No, maybe they're separate issues?
+
+"And hence it has been brought up that the room should be inspected."
+
+"Well, of course it would be brought up..."
+
+If the suspicion can be cleared by just a little inspection, that's easier even for the teachers.
+
+Of course, they'll discover the eroge packages stored in the clubroom, and my suspension would be set in stone.
+
+"... You can't decline it?"
+
+"That is impossible after all.
+If it gets worse, you might get expelled."
+
+"No matter how worse it gets, expulsion is too much, right?"
+
+"I don't think it'll happen, but if you resist obstinately, then it'll be interpreted as you bringing explosives into the clubroom."
+
+"This is seriously bad, isn't it..."
+
+"Super bad. Seiichi, what will you do?
+About all the stuff inside that room.
+While I can _ignore_ it, I cannot _look after_ it."
+
+"... Not even if Kiriko-neesan uses her name?"
+
+"Well, if you can properly disguise the contents of the stuff being brought out..."
+
+Even if we disguisse it as documents, right now there's a trend to not disclose information to third parties outside school.
+
+If some sort of unnatural substance is discovered, then it's not hard to imagine Kiriko-neesan getting into trouble and being inspected for it.
+
+A solution that has a chance to cause her trouble is something I can never agree to take.
+
+"Well, if it's in exchange for your expulsion, I also have the resolve to see through it."
+
+Kiriko-neesan's serious expression conveys that she isn't joking.
+
+"No, going that far...
+How longer can the inspection be delayed for?"
+
+"It's not like the teachers are believing in any of it like idiots, but they were thinking that doing the inspection might calm down the rumor.
+In the worst case, it'll happen today after school.
+If not today, definitely by tomorrow.
+Especially Murakami-sensei of <span title="jp. 現代文">Modern Affairs</span> is pretty desparate about it."
+
+My head starting spinning.
+
+"... I'll think about something by the time classes end."
+
+I must think about something that Kiriko-neesan can bring out without raising suspicion...
+
+"Got it.
+If there's something I can help with, contact me...
+hmm?"
+
+Kiriko-neesan looks at the other side all of a sudden.
+
+"Something the matter?"
+
+"No, I felt like someone was there.
+Was it my imagination?"
+
+"I didn't realize anything though..."
+
+It is pointless to ponder over that at this point.
+
+"I'll return to the classroom."
+
+Parting off from Kiriko-neesan, I head towards the classroom.
+
+Really, what should I do...
+
+![Kiriko-conversation](./img/P237.jpg)
+
+&nbsp;
+
+- - -
+
+&nbsp;
+
+## Part 2.5
+
+"Aramiya might get expelled...!?"
+
+Seeing Kotani-sensei catch Aramiya who was returning from the bathroom and taking him away by chance, I followed them in curiosity.
+
+And I overheard them talking about the possibility of Aramiya getting expelled... which is absolutely unbelievable.
+
+"You must be kidding me..."
+
+If such a thing happens...
+
+I don't even want to imagine it.
+
+The fact that the me right now is here.
+
+That I am having fun in school.
+
+That I was able to make up with Yuuka.
+
+All of it is thanks to Aramiya.
+
+It wouldn't have been strange for me to get expelled, but I found happiness.
+But in exchange, if Aramiya, who saved me, gets expelled instead, that's something I can never acknowledge.
+
+"But, what should I..."
+
+But no good idea comes to mind.
+
+Aramiya himself doesn't seem to be able to come up with any plans.
+
+There's no action that I can take.
+There are no sparks of ideas that flash in the mind.
+
+However.
+
+『... The previous matter that you said to leave to you and the president to solve.』
+
+I recall the recent happenings.
+
+At that time, Aramiya had said that it's fine to do nothing.
+
+Aramiya has always been worried about Ayame, even if his words are rude.
+
+At this point of time, I should take some action.
+
+There's no other answer.
+
+"... Let's go."
+
+Strengthening her resolve, Ayame heads towards the Student Council room.
+
+&nbsp;
+
+- - -
+
+&nbsp;
+
+## Part 3
+
+"Really, what should I do...
+
+I returned a bit before the lunch break ended, but the situation is totally hopeless.
+
+If the retaliation even contains a possibility of expulsion, they are totally prepared to actually harm me.
+Why are they aiming to make my life this difficult!?
 
 &nbsp;
 
 _To be continued..._
-
-_Woah, things are escalating pretty fast._
