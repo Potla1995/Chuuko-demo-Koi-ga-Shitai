@@ -757,8 +757,6 @@ We must be careful at all times...
 
 - - -
 
-&nbsp;
-
 ## Part 1.5
 
 "Was it not possible, after all?"
@@ -792,8 +790,6 @@ Such dangerous words dispersed into the hallway.
 &nbsp;
 
 - - -
-
-&nbsp;
 
 ## Part 2
 
@@ -1054,8 +1050,6 @@ Really, what should I do...
 
 - - -
 
-&nbsp;
-
 ## Part 2.5
 
 "Aramiya might get expelled...!?"
@@ -1111,8 +1105,6 @@ Strengthening her resolve, Ayame heads towards the Student Council room.
 &nbsp;
 
 - - -
-
-&nbsp;
 
 ## Part 3
 
