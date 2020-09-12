@@ -2,7 +2,7 @@
 
 > _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense and has a lot of POV switching. Look forward to it!
 
-> _Progress_: 200-229 out of 200-249 pages (60%)
+> _Progress_: 200-233 out of 200-249 pages (68%)
 
 - - -
 
@@ -1086,7 +1086,7 @@ There are no sparks of ideas that flash in the mind.
 
 However.
 
-『... The previous matter that you said to leave to you and the president to solve.』
+『... What we were talking about earlier was that, if we hand you over to the student council president, then she would solve all of our problems.』
 
 I recall the recent happenings.
 
@@ -1114,6 +1114,192 @@ I returned a bit before the lunch break ended, but the situation is totally hope
 
 If the retaliation even contains a possibility of expulsion, they are totally prepared to actually harm me.
 Why are they aiming to make my life this difficult!?
+
+Regarding the rumor about myself, I had this careless attitude of not caring about it at all.
+Because no one in their right minds would believe in them.
+Thinking that it will disappear eventually, just like the monsoon.
+
+> _TL Note:_ Monsoon in japan lasts for around a month in the middle of summer, and goes poof just like that.
+
+But, that didn't happen.
+Probably Ayame also went through this when rumors about her had just started springing out...
+
+After all, that I have to do something about the rumor... makes me agitated, but my hands are tied.
+
+When it comes to myself, why does my thought process become dull?
+
+"What do you think will happen when the eroge in the clubroom gets discovered?"
+
+I discreetly ask Tozaki, who is sitting in the seat behind me.
+
+"Suspension, I guess..."
+
+"Yeah."
+
+"But, there's something even worse than that, right?"
+
+Don't say any further, Tozaki.
+
+After suspension due to the eroge being discovered...
+
+I'll probably get titles like "Eroge　emperor" or "18+ Meister", and it will stick for the rest of my school life.
+
+"Even if I get suspended, we'll still be friends, right?"
+
+"It depends on the situation.
+The answer would depend on just how your position would be affected."
+
+... What a worthless friend.
+
+But well, it can't be helped.
+This particular case.
+
+If our positions were reversed, I'd give the same answer.
+
+Especially Tozaki might become classified as the same kind of potato as me.
+
+"... Come to think of it, where's Ayame?"
+
+It's almost time for the lunch break to end, but Ayame cannot be seen anywhere.
+
+She has stopped skipping classes for a long while now.
+
+"Now that you mention it, she's not here.
+Maybe she went to pick some flowers?"
+
+The next lecture is Ms. Kawada's Japanese History, so she probably won't be severely reprimanding if she's late.
+
+"Ah, Ayame-san was... kind of in a strange area, though?"
+
+The person who suddenly started a conversation with us was Nishihara.
+
+With eyes that lack confidence, she looks nervous.
+
+"Strange area?"
+
+"I t-think she went towards the first building...
+Because she was walking towards a place where we don't visit a lot, it kind of stayed in my memory..."
+
+Why was Nishihara watching her?
+
+Just a coincidence?
+Well, not that I can think of any particular reason.
+
+... Let's not doubt her observation for now.
+
+The first building has... the third year classrooms, staff room, and the student council room -.
+
+"Ah..."
+
+That girl, don't tell me...!
+
+"... Tozaki, sorry.
+I'll be right back.
+Answer my roll-call if you can."
+
+"Ha? What are you saying, isn't that impossible!?"
+
+I stand up and leave the classroom.
+
+Then, run towards the first school building.
+
+The bell marking the end of the lunch break will ring soon, and five minutes after that the classes will resume.
+
+The teachers will come this way soon, and it'll probably become impossible to avoid them.
+
+No matter how you think about it, what I'm doing is skipping classes in broad daylight.
+
+However... there's no doubt that Ayame has headed towards the student council room.
+
+Taking into account her personality, I have no doubts about it.
+
+I should have paid her actions more attention.
+
+『... What we were talking about earlier was that, if we hand you over to the student council president, then she would solve all of our problems.』
+
+> _TL Note:_ Aramiya told this to Ayame back in Chapter 1 when they were buying stuff from the vending machine.
+
+If I had known at that time that things would escalate to this level, I'd have not spoken a word about it to her.
+
+Although I meant that as a warning to stay away from the president, to think that she'd willingly go over and do something like this...
+
+If the person eavesdropping on my conversation with Kiriko-neesan was Ayame, then...
+
+She'll definitely sell herself in exchange for my expulsion.
+
+"Who are you kidding...!
+Don't make me carry that cross on my back...!"
+
+> _TL Note:_ As in, he'll be guilty of selling Ayame indirectly, and he doesn't want to carry that guilt.
+
+After crossing over to the first building via the second floor connector, I head to the topmost floor.
+
+Climbing up the stairs, a hallway going further in appeared.
+
+The student council room is further down this way.
+
+However, two girls are standing guard right there.
+
+The two minions from before.
+The vice president and the secretary.
+The president had referred to them as "Hana" and "Asuka".
+
+"Where do you think you're going, Aramiya-san?
+Classes have already started."
+
+The braided girl with glasses - Haha - warned me with a sharp glare.
+Attribute-wise, her character should be more gentle.
+A person donning three braids and glasses being a battle maniac is... something one cannot even think of.
+
+"Let me go inside.
+Ayame is inside, right?"
+
+"... I'm telling you to leave."
+
+The secretary Asuka pushes a step forward towards me.
+
+She had a pressure different from Ayame.
+Girls are strong, eh!
+
+"I cannot turn back.
+Please let me pass."
+
+I try to slip past them.
+
+... But, she blocks my way mirroring my movements.
+
+"Can't do.
+Go back."
+
+"I don't have the leisure for discussion."
+
+I forcefully push her to go past the duo.
+
+But, she catches me by the shirt and stops me with an abnormal amount of force.
+
+"I've been telling you to return to your classroom!"
+
+"Right back at you, Student Council Members!
+Let me pass through!"
+
+Ayame is there in front.
+
+If she wanted to become a member of the student council by her own will, I'd have been OK with it.
+
+But, she's doing this all for my sake.
+I must stop her, no matter what comes my way.
+
+"You're persistent!
+Just go back to your classroom!"
+
+She tries to throw me while gripping my shirt.
+Damn, she's powerful!
+
+Is she really a girl?
+Is she the relative of the <span title="jp. 霊長類最強女子">strongest apex-class girl<span> or something?
+
+"Tch."
+
 
 &nbsp;
 
