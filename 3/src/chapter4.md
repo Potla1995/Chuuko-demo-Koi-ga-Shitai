@@ -1,7 +1,7 @@
 # Chapter 4: At the very best, only as friends, OK!?
 > Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/).
 
-> _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense and has a lot of POV switching. Look forward to it!
+> I'm busy applying for jobs and writing my PhD thesis, so progress is slow and delayed... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense and has a lot of POV switching. Look forward to it!
 
 - - -
 
