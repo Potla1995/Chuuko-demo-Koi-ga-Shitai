@@ -1790,7 +1790,7 @@ If you swap out "guy" for "girl" in her situation, she's the exact reflection of
 
 Ayame who was supporting me,
 
-![Ayame dumps the pres](P259.jpg)
+![Ayame dumps the pres](./img/P259.jpg)
 
 "...After all, Aramiya is the best for me."
 
