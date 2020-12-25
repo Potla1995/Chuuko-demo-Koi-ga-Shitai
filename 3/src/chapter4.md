@@ -3,8 +3,6 @@
 
 > _ETA_: October 2020. Life is busy... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense and has a lot of POV switching. Look forward to it!
 
-> _Progress_: 200-233 out of 200-249 pages (68%)
-
 - - -
 
 ## Part 1
@@ -1301,7 +1299,593 @@ Is she the relative of the <span title="jp. 霊長類最強女子">strongest ape
 
 "Tch."
 
+Not only that, my Y-shirt got taken along with broken buttons and threads.
+Giving the shirt in her hand only a glance, the secretary with a huge build threw it away like a piece of trash, and tapped her hands as if to brush off dust.
+What the heck do you think someone else's shirt is?
+
+She takes a half-bent posture, as if playing rugby.
+The vice president is keeping a watchful eye from behind.
+...Don't tell me even the vice president is strong.
+
+Just facing this secretary girl is a handful, and the vice president is blocking my way continuously, doesn't seem like they'll let me pass.
+Even if I get past the secretary, if I get blocked, it doesn't matter if the vice president is strong or weak.
+She can stop me on track no matter what.
+
+And as I'm stuck, the secretary can drag me by the neck from behind.
+
+There's no gap... but, even then.
+
+I must pass through here.
+Since climbing up the school wall is physically impossible for me!
+Without even backup, who in their sane mind would try that!
+
+"Ahhhhhhh!"
+
+Lowering my head and posture, I make a wild dash.
+
+I also know that it's very uncharacteristic of me, although the reason doesn't really matter now.
+
+"You're so annoying!"
+
+Instead of the Y-shirt that got sacrificed, this time she catches me by my T-shirt.
+
+A ripping sound that I didn't want to hear, reverbated.
+My T-shirt got destroyed loudly.
+At this rate, I'll get scolded after returning to the classroom, and a thunderous sermon is probably waiting back home.
+
+"We won't let you pass through!"
+
+That figure of a Buddhist guardian god blocking the way is the definition of a daunting pose.
+
+And, the vice president is perfectly watching the gap with her spectacles shining.
+A breakthrough is impossible...
+
+If I was going to get half-naked anyway, I should have coated myself in oil.
+It'd have been easier to _slip_ past.
+No idea where to find oil, though.
+
+The walls or ceiling can probably be used for an easy breakthrough, but I won't be in this predicament in the first place if I could do such a thing.
+It'll be game over from spraining my legs the moment I try that.
+
+"Give up and go back.
+The student council will refund your Y-shirt and T-shirt cost if you return rightaway."
+
+"It's not even your money, how impudent..."
+
+They took up too much of my time.
+
+What should I do?
+The more time passes, the worse the situation becomes for Ayame.
+And my position too, from bunking the lecture.
+
+The only thing I can think of right now is to thoughtlessly charge forward.
+
+My morale is going down at this rate.
+
+---Is there really no way out...!?
+
+"Aramiya-kun!"
+
+"Seiichi!"
+
+Two familiar voices echoed throughout the hallway.
+
+Turning around, I see Hatsushiba and Ibu who had just finished climbing up the stairs.
+
+"You two...?"
+
+"We'll talk later!
+Yuuka and Ibu will restrain those two, so keep going forward!"
+
+"Go save Ayamecchi.
+Is my opponent that huge girl over there?
+Her breasts are smaller than mine though."
+
+And then Ibu latches onto the huge secretary, and Hatsushiba catches the hand of the vice president to restrain their movement.
+
+...Ibu's brute strength is amazing.
+
+"Seiichi, fast!
+I won't last long!"
+
+"Aramiya-kun, Cotton is in your hands!"
+
+What is this, a Shounen manga?
+「Leave this to me and go ahead！」
+I didn't think girls would be putting that into practice.
+
+But, I don't hate this Shounen manga-type development.
+
+It's a situation very common in VNs too!
+It also happened in 『Nyolz Sea Dive 2』!
+That soldier who kept shouting despite getting his arm torn off was just amazing!
+
+> _TL Note_: Original VN is [Baldr Sky Dive 2](https://vndb.org/v1913). The opening theme is sung by KOTOKO, so you must play it lol.
+
+"I'm sorry, you two!"
+
+Quietly passing by the two groups of fighters, I head towards the Student Council room.
+
+"Halt it!"
+
+"I'm your opponent here!"
+
+Ibu is actually matching that secretary's power.
+
+She's amazing.
+I see her in a new light now.
+If she gets seriously angry and hits you, it seems like your nose might dent.
+Let's be careful not to anger her in the future.
+
+Piggybacking on top of the gour girls fighting each other like guys, I reach the Student Council room's door.
+
+And slam it open.
+
+It's as wide as a normal classroom, but it has a fluffy red carpet on the floor.
+The bookshelf on the wall is also made of high-class wood.
+The desks laid around are glamorous, as if for use by some CEO or Secretary of a huge company.
+
+"...A-Aramiya."
+
+In the middle of the room.
+
+Ayame was standing still with President Yaotani hugging her from behind.
+
+Yaotani's right hand was enveloping Ayame's waist, and her left hand was moving towards her breasts.
+She was leisurely licking Ayame's nape.
+
+Ayame looked beet red, dying from embarrassment.
+
+"......"
+
+The situation was too lasvicious, and some people might succumb to the desire to see more.
+
+However, the moment I saw them, my body became hot and my hands spontaneously made their way towards the president.
+
+"Let her go!"
+
+I forcefully tear them apart.
+
+Unexpectedly, Yaotani let Ayame go without any resistance.
+
+But, to prevent her from latching onto her again like a leech, I strongly embrace Ayame.
+
+"A-Aramiya..."
+
+"Why are you so forward!"
+
+> _TL Note_: He's saying this in the sense of "why do you jump the gun by yourself without talking to us?"
+
+Ayame looks down in embarrassment from my words.
+Becoming limp, she leans onto me.
+
+"...I remember putting Hana and Asuka on guard outside."
+
+The President confusedly glares at us.
+
+"The vice president and secretary are being held back by my companions."
+
+"Is your naked upper half a sexual appeal?"
+
+"Your secretary tore my shirts off.
+Send your complaints to that brute instead."
+
+Opening her folding fan, the president hides her mouth while sighing.
+
+"Good gracious.
+You kept being a hindrance to the end.
+You don't really want to become lovers with Ayame, right?"
+
+"Yes, that's right.
+I have no romantic feelings for her."
+
+"Then, what I do with her is of no importance to you, right?
+If you have no feelings, then can you please not hinder our love?"
+
+Just as I mentioned, I don't have romantic feelings for her.
+
+I do have this fluffy feeling in my heart that's not clear, but I'm not stupid to mistake it for love.
+
+> _TL Note_: No, you are pretty stupid. LOL
+
+However-
+
+"Of course it matters to me."
+
+"...What?"
+
+"Although I don't have romantic feelings for her, she's my very good friend.
+There's no way I don't care for her."
+
+"Then, you saved her as a friend?"
+
+"Yes, that's right.
+Is it strange to save your friend when they're in danger?
+Although I got saved by her twice."
+
+Once during Songou's rape attempt.
+
+Once more during Ibu's reverse rape attempt.
+
+Both were terrible situations for me.
+If things went too far south, I'd have lost my virginity both from the front and the back.
+
+_TL Note:_ The original is "処女も童貞も失う". Japanese has two different words for virginity depending on the gender.
+
+"Do you want to get expelled from that stupid rumor?
+Ayame submitted herself to me for your sake, you know?
+Do you want to make her prideful resolve all go to waste?"
+
+The president asks so, looking down at me.
+
+"Of course I don't want to get expelled."
+
+"Then,"
+
+"But, I myself want to leave a school that expels students based on rumors!
+No matter how terrible lies you spread out, or even if my secret gets found out, I'm never gonna bend!
+If you wanna break my school life apart, suit yourself!
+But, as long as my eyes are open, I'll never forgive anyone who tries to steal Ayame's dignity in exchange!"
+
+![Cover Illustration #g](./img/P000g.jpg)
+
+"A-Aramiya..."
+
+She looks like she's about to cry.
+
+"D-don't misunderstand me! **At the very best, only as friends, OK!?**"
+
+"Yeah, I know.
+For now, right..."
+
+> _TL Note_: Chapter title much? Also, She means it in the sense that they're friends for now, but it may change in the future. _wink wink_
+
+At that timing, loud footsteps could be heard closing in.
+
+"Airi-sama!"
+
+It's the secretary.
+
+"What did you--"
+
+_Do to the two_, is what I wanted to say.
+But I got caught by the neck and my voice couldn't come out.
+
+And she even pulls Ayame apart.
+
+"Ngugugugugugu!"
+
+"Shaddup. I won't cut slack for people who hinder Airi-sama."
+
+My voice doesn't come out.
+
+I can only groan.
+
+Getting strangled, my blood circulation started to get hindered.
+My consciousness keeps fading away little by little.
+
+This is bad.
+
+If I faint like this--.
+
+"What do you think you're doingm you bastard!"
+
+From beside me, Ayame catches the muscular arm strangling me.
+
+She compresses the arm to half its width in an instant.
+
+"Ah, guh...!"
+
+"Let him go.
+If you don't, your bones will break."
+
+"Agagagaga!
+As if I, can...!"
+
+I can see via my fading consicousness that Ayame's face is about to revert back to her former days.
+
+It's a trend that must not happen.
+
+"...If you don't wanna die, leave him."
+
+"AAAAA!!"
+
+A soundless scream mixes in with Ayame's cold voice from her former days.
+
+The Ayame standing there was a delinquent.
+
+At this rate, she can never return to normal!
+
+"Buha! Haa! Haa!"
+
+Thanks to her superhuman strength, the grip around my neck weakened and I could breathe again.
+
+"...A...ya...me..."
+
+But, my vocal chords that were restrained until now don't work at all.
+
+My lungs are desiring for more oxygen.
+
+I got completely limp and powerless.
+
+"Just wait a bit, Aramiya.
+I'll complete the cleanup soon."
+
+Wrong, you're doing it wrong!
+You cannot leave it all to anger!
+
+Finally, the secretary frees my neck from her grip.
+
+Unable to stand straight after being released, I drop to my knees.
+
+"Why... do you all want to cause Aramiya to fall.
+What has he even done."
+
+Dragging the secretary's twisted arm along, she now takes steady steps towards the president.
+
+The unfortunate chair that was in her way got kicked and flown away.
+Hitting the bookshelf with a great force, it rocked some books off.
+
+The president's pale face can be explained by Ayame's back.
+
+Without even looking, I understood what Ayame is about to do.
+
+Right now, she's completely left her devices to autopilot in serious anger.
+She's not thinking anything at all.
+
+"I'd have been fine no matter what you did to me, but don't think you can get away with injuring Aramiya.
+You've put your hands on someone who you should never have."
+
+"Stop it, Ayame-san.
+Using violence...!"
+
+"Shut up.
+If Aramiya gets expelled, then I'll also--"
+
+I immediately catch Ayame's ankle with my hands.
+
+I can't stand up yet, so there's no other way to stop her.
+
+Thank god I reached.
+
+"A-Aramiya?"
+
+"I'm telling... you... stop..."
+
+My breathing still shallow, I can't speak properly.
+
+"B-but!"
+
+"I've told... many times.
+Violence... is... bad."
+
+This is something I have to agree with the president on.
+
+I couldn't look up to see Ayame's expression, but I understood that she was confused.
+
+"Calm, down.
+Take a, deep breath...
+You... will not be violent... without meaning... anymore.
+You won't... be violent... even if there's... meaning.
+Right...?"
+
+My lungs are still screaming, but I can't back down.
+
+My vision keeps getting whiter from trying to speak while not having enough oxygen.
+
+But, I must calm Ayame down somehow.
+
+Even if I stop breathing, I won't let her ankle go.
+
+"...B-but"
+
+"Don't worry about me...
+If you keep... being violent like that...
+I'll hate you... from the bottom of my heart..."
+
+I could feel her calming down from my grip.
+
+I guess she finally put her hands down.
+
+Thankfully she's back to normal.
+
+"S-sorry..."
+
+Letting go of the secretary, Ayame turns around and supports my upper half with an embrace.
+
+With my breathing in place, my consciousness becomes clearer little by little.
+
+"It's fine... I can walk in a bit...
+I like Ayame that... cares for others... like this, more than... the violent one."
+
+"Aramiya..."
+
+"Please don't forget...
+For real.
+If you completely... lose it and hit someone... I can't cover for you anymore..."
+
+"Yeah. Sorry about it every time..."
+
+"As long as you understand...
+In the first place, you went so far... for me...
+That made me... really happy."
+
+And that's it.
+
+My problems have still not been solved, but well, it's fine.
+
+It's good enough that Ayame got saved.
+We can definitely come up with something if we all think together.
+
+"Let's go back...
+I'm worried about Hatsushiba and Ibu..."
+
+Guess they're fine, though.
+
+"Yes, let's go back."
+
+Leaning my body onto Ayame, we stand up.
+
+"W-wait! Ayame-san!"
+
+The president calls out to Ayame's back.
+
+"President..."
+
+"I can give you whatever you desire.
+We can even talk about 18+ games.
+If you wish for it, I'll even play your favourite genre."
+
+The president keeps desparately trying to convince her, almost like a lover that got dumped.
+
+"Guys are... the worst, Ayame-san.
+Although he might be treating you well right now, he'll definitely double-cross you in the future!"
+
+She has her own reasons to think that way.
+
+"Guys have brought misfortune to numerous girls.
+I'm also one of them.
+That's why I understand.
+That your love will never come to fruitition."
+
+Just as she says.
+Rather, I myself don't trust girls.
+
+"I bet on it.
+You'll definitely be left alone.
+Guys aren't what you think they are.
+They're vulgar, offensive, and don't do any good to this world."
+
+The president keeps talking.
+
+"They get close only for their own satisfaction, seduce beautiful girls for showing off to others, deceive your heart with misleading words, and finally throw you away calling you a pain.
+They say they'll be with you forever, while repeating the same words to other girls."
+
+Digging up her old memories, she starts crying.
+
+"And then, you'll be left all alone.
+We're just decoratives item necessary for their school life, and get thrown away once our use runs out!
+Even if we're truly in love, it doesn't matter.
+Their expression of love is temporary, and will fade away soon!
+Without realizing that much, I frantically chased love like an idiot...!"
+
+While crying, she extends her arms to Ayame.
+
+"But, I'll never let you down.
+Because we're both girls.
+We understand each other.
+We can share fun and happiness together.
+So, yield to me.
+I'll definitely show you to a new world...!"
+
+Her long speech finally gets over.
+
+While her words were a total mess, she put her heart into it.
+
+Her vigor seemed to be able to easily capture the trust of other people.
+
+In reality, because she was deceived, she doesn't believe in guys.
+
+If you swap out "guy" for "girl" in her situation, she's the exact reflection of my own self.
+
+Ayame who was supporting me,
+
+![Ayame dumps the pres](P259.jpg)
+
+"...After all, Aramiya is the best for me."
 
 &nbsp;
 
-_To be continued..._
+Without a moment's dilemma, she gives a honest reply.
+
+"Is that... because you don't like girls?
+Are guys better?"
+
+With her hands on her chest, the president asks disheartenedly.
+
+But, Ayame shook her head as expected.
+
+"It's not like I yearn for guys."
+
+"Then,"
+
+"I like Aramiya.
+I have so much debt to him that I can't ever return."
+
+"Debt... Isn't that just so that he can get close--"
+
+"That's not it.
+I understand Aramiya's situation very well.
+Originally, it didn't even suit his character to come saving me.
+While it was a coincidence, he still rescued me.
+And then, he desperately worked his brains to dissolve my bad rumors.
+If someone goes that far for you... even if he doesn't have feelings for you, you can't help but fall in love, right?"
+
+Hearing that, the president falls down on her knees limply.
+
+"Well then.
+About your feelings... well, I'll accept them."
+
+With that, we leave the Student Council room.
+
+"Cotton! Aramiya-kun!"
+
+"Seiichi! Ayamecchi!"
+
+Hatsushiba and Ibu who were haggling with the vice president come close to us.
+
+"No way, the student council president... was..."
+
+Leaving the two aside, the vice president scurries towards the Student Council room.
+
+It's a relief that these two are also fine.
+
+"Let's go back to the classroom already."
+
+Ayame, who was lending her shoulder, makes a stern face.
+
+"The infirmary comes first.
+You were strangled, after all.
+Worry about your own body before worrying about lessons."
+
+Her pupils were shaking in worry.
+
+Seems like she's more anxious than her voice can express.
+
+"Yuuka, Suwama.
+Sorry, but..."
+
+"No worries, Cotton.
+Yuuka will return to the classroom with her and explain first."
+
+"Don't do anything strange, Ayamecchi~"
+
+Leaving those words behind, the two left towards the classroom.
+
+"Ah, uniform..."
+
+"You can't do anything about the torn clothes, right?
+Let's go to the infirmary first."
+
+"...Ah, okay."
+
+Finally, after all this time, my consciousness starts flickering.
+
+Maybe because I kept talking without catching my breath.
+
+But, Ayame's strong support felt warm and comfortable.
+
+To the point of thinking that it might be fine this way.
+
+Walking down the quiet hallway while the lectures were running,
+
+"You don't have to reply, but-"
+
+Ayame whispers quietly.
+
+"I was happy you came to save me.
+You appeared... like a VN protagonist."
+
+That was definitely the highest praise I could ever receive.
+
+---
