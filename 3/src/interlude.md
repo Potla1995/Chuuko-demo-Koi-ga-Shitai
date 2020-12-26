@@ -1,5 +1,5 @@
 # Interlude
-> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/).
+> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/qwa8YgPxrP) as well.
 
 "And that's why, please persuade her on your own.
 We don't want your help."

@@ -1,5 +1,5 @@
 # Chapter 4: At the very best, only as friends, OK!?
-> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/).
+> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/qwa8YgPxrP) as well.
 
 > I'm busy applying for jobs and writing my PhD thesis, so progress is slow and delayed... Also, a spoiler about the title. It's just Aramiya acting all tsundere. This chapter is very intense and has a lot of POV switching. Look forward to it!
 
@@ -1824,7 +1824,7 @@ If someone goes that far for you... even if he doesn't have feelings for you, yo
 Hearing that, the president falls down on her knees limply.
 
 "Well then.
-About your feelings... well, I'll accept them."
+About your feelings... well, I'll acknowledge them."
 
 With that, we leave the Student Council room.
 
