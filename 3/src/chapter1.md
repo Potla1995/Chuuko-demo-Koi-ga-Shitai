@@ -1,5 +1,5 @@
 # Chapter 1: Please listen to what I have to say!
-> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/qwa8YgPxrP) as well.
+> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/Srvv9nzyQT) as well.
 
 ### Part 1
 

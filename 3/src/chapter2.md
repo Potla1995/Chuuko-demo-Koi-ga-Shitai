@@ -1,6 +1,6 @@
 # Chapter 2: Then, should we go buy swimsuits?
 > _Note:_ _From this chapter on I'll be shifting to present tense for Seiichi's thoughts, and keep past tense for narration._
-> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/qwa8YgPxrP) as well.
+> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/Srvv9nzyQT) as well.
 
 Ever since the club room became unusable, we tried to search for the culprit behind the rumors, but as expected, it wasn't as easy.
 

@@ -1,5 +1,5 @@
 # Prologue
-> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/qwa8YgPxrP) as well.
+> Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/Srvv9nzyQT) as well.
 
 A strange premonition suddenly shook my consciousness out of a doze.
 
