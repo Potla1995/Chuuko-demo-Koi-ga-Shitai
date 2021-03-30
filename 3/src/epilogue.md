@@ -1,10 +1,6 @@
 # Epilogue and Afterword
 > Disqus volume 3 on [this page](https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/). Feel free to join [my discord server](https://discord.gg/Srvv9nzyQT) as well.
 
-> _Progress_: 250-258 out of 250-265 (56%)
-
-> _ETA_: January 2021.
-
 ## Epilogue
 
 Around two weeks after the happenings from last time,
