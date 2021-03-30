@@ -1,0 +1,357 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Prologue - Chuuko demo Koi ga Shitai! - 03</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="text_style.css">
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="affix"><a href="cover.html">Cover Illustrations</a></li><li class="affix"><a href="prologue.html" class="active">Prologue</a></li><li class="affix"><a href="chapter1.html">Chapter 1: Please listen to what I have to say!</a></li><li class="affix"><a href="interlude.html">Interlude</a></li><li class="affix"><a href="chapter2.html">Chapter 2: Then, should we go buy swimsuits?</a></li><li class="affix"><a href="chapter3.html">Chapter 3: For me, you're good.</a></li><li class="affix"><a href="chapter4.html">Chapter 4: At the very best, only as friends, OK!?</a></li><li class="affix"><a href="epilogue.html">Epilogue and Afterword</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Chuuko demo Koi ga Shitai! - 03</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#prologue" id="prologue">Prologue</a></h1>
+<blockquote>
+<p>Disqus volume 3 on <a href="https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/3/">this page</a>. Feel free to join <a href="https://discord.gg/Srvv9nzyQT">my discord server</a> as well.</p>
+</blockquote>
+<p>A strange premonition suddenly shook my consciousness out of a doze.</p>
+<p>As if waking up from a nightmare, I forcefully raise my upper half.</p>
+<p>I cautiously check my surroundings without leaving any gaps.</p>
+<p>The floor, walls, ceiling... are all fine.</p>
+<p>No one is in the room. Not even a single insect.</p>
+<p>Except for the dust particles dancing in the sunlight peeking through the gaps of the curtains.</p>
+<p>Since it was June, almost summer, the closed off room was mercilessly ascending in temperature.</p>
+<p>It's hot.</p>
+<p>My pajamas and shirt were soaked in sweat.</p>
+<p>&quot;...I woke up not because of the premonition, but because of the temperature?&quot;</p>
+<p>Getting off the bed, I opened the curtain and windows.
+The gentle breeze pushed out the stagnant air from the room.</p>
+<p>It was around time to wanting to start using the AC, but I still had reservations as it was still June.
+If the body got used to the AC at this season, it will be hard to bear the actual summer heat.
+I decided to endure not using it.</p>
+<p>As I switched on the electric fan kept beside the window, strong wind started circulating inside the room.
+Setting it to oscillate quickened the displacement of air.</p>
+<p>&quot;It's already summer, eh.&quot;</p>
+<p>Recollecting the memories of the past hot days, I was enjoying the gentle breeze coming in through the window and the man-made strong winds, when -</p>
+<p>A knocking sound reverbated through the room.</p>
+<p>Who is it?</p>
+<p>My family members don't even bother knocking anyway.</p>
+<p>They don't listen no matter how much you tell them to knock before coming in.
+Honestly, I want to put on a lock.
+It's troubling when you can't play your eroge in peace.</p>
+<p>Time kept passing by as I was fed up wondering who came by.
+I couldn't think of words to reply with.</p>
+<p>And then, the door slowly opened... as if it couldn't be helped since there was no response.
+They were very considerate to not make any sound.
+Judging from this, they were definitely not any of my family members.</p>
+<p>The person who entered the room was,</p>
+<p>&quot;Oh? Were you awake?&quot;</p>
+<p>Ayame.</p>
+<p>Ayame Kotoko,a classmate.
+The sharp glint of her eyes had toned down quite a bit compared to before, and seemed to be more gentle now.
+Her hair had also grown, making the twintails slightly longer than before.</p>
+<p>However, the facial expression on the healthy looking skin was that of puzzlement, or maybe discontent.
+It seemed like she was not satisfied about something.</p>
+<p>&quot;Good morning, Aramiya.&quot;</p>
+<p>&quot;...Good morning, Ayame.&quot;</p>
+<p>I said so without much thought, but it wasn't the time to exchange greetings.</p>
+<p>Why is she at my house as if it's natural?
+It's not as if she's freeloading here.</p>
+<p>... Nope, not even worth thinking.</p>
+<p>It's probably my sister, Kiyomi wo called her in.
+I know her pretty well.</p>
+<p>&quot;Although I thought I could wake you up today as well...&quot;</p>
+<p>&quot;That's unfortunate.&quot;</p>
+<p>As if one would be woken up early as easily an eroge protagonist!</p>
+<p>Is it that?
+Did I wake myself up from the premonition that she was about to come?</p>
+<p>It's bad for my heart if she's the first thing I see in the morning.
+Waking up on alarm is the best.</p>
+<p>&quot;Tch. Then at least reply when I knock.&quot;</p>
+<p>Well, that couldn't be helped since I was bewildered about who had come to visit.</p>
+<p>More than that, I was curious about something.</p>
+<p>&quot;Ayame&quot;</p>
+<p>&quot;Hmm?&quot;</p>
+<p>Ayame was wearing her uniform as usual.</p>
+<p>It was not the modified uniform that she used to wear.
+Moreover, it was the season for the change of clothes, and she was in her summer uniform.
+It was designated by the school.</p>
+<p>It's almost summer, and there was no mistake since it was a half day.
+The problem was -</p>
+<p>&quot;Why are you wearing an apron?&quot;</p>
+<p>She had a cute looking white apron with frills on.
+While holding a ladle.</p>
+<p>Apron on top of uniform, is just too much like an eroge situation.
+Have some prudence!</p>
+<p>&quot;Oh, this? I was making breakfast, that's why.&quot;</p>
+<p>&quot;Hmm? Breakfast? Where of?&quot;</p>
+<p>&quot;Your house's.&quot;</p>
+<p>&quot;Why?&quot;</p>
+<p>&quot;It was a request from your mom.&quot;</p>
+<p>&quot;......&quot;</p>
+<p>Whoa, hang on!</p>
+<p>This was a bit intense for a wake up prank.</p>
+<p>It was more shocking than being woken up in the morning.</p>
+<p>&quot;Seiichi, wake up fast~&quot;
+&quot;Wake up already, you damn virgin!&quot;</p>
+<p>My mom and sister Kiyomi peered into my room together.</p>
+<p>Mom with a satisfied smile on her face, Kiyomi with an apparent dissatisfaction on her face.</p>
+<p>&quot;Why are you making her cook breakfast?&quot;</p>
+<p>&quot;I tasted it a little, it was delicious~&quot;</p>
+<p>I wasn't asking about the taste!
+Rather, I already know about her skills!</p>
+<p>&quot;Actually, aren't you also a happy person to have such a girl making breakfast for you!&quot;</p>
+<p>&quot;This virgin doesn't deserve all this. My first time believing that god is unfair.&quot;</p>
+<p>&quot;No no no! What kind of nerves do you have, making my classmake cook breakfast!?
+Or rather, why do we have something like a frilled apron!&quot;</p>
+<p>Think about your age!
+Not that I could say that out loud.</p>
+<p>&quot;We didn't really force her to do this?&quot;</p>
+<p>Mom gave a wink.
+So frivolous unfitting her age...</p>
+<p>&quot;Ah, I can guarantee that it's tasty?&quot;</p>
+<p>Ayame appealed to me while concealing her mouth with her ladle, showing a lack of confidence.</p>
+<p>Where have I seen this scene before?</p>
+<p><img src="./img/P009.jpg" alt="Ayame-appeal" /></p>
+<p>This... is she trying to mimic some <span title = "エロゲのスチル">eroge sprite</span>?
+No, that's not it.
+This composition was that of a <span title = "特典イラスト">special CG</span>.</p>
+<p>&quot;OK OK, Seiichi. Quickly change and come downstairs. The plates are already set up.&quot;</p>
+<p>&quot;Virgin, you have too much blessings, so at least move briskly to not inconvenience others.&quot;</p>
+<p>The two climbed downstairs after saying whatever they liked.</p>
+<p>&quot;T-then, I'll finish up cooking. Come down fast, OK?&quot;</p>
+<p>&quot;Ah, Okay...&quot;</p>
+<p>And then Ayame left my room.</p>
+<p>After all that hustle-bustle unimaginable for my life until now, it became quiet again.</p>
+<p>The only thing that came out was a long sigh.</p>
+<p>To think my house would be thrown into this much disarray...</p>
+<p>I probably should have dad say something strict about this.
+For my own morning peace.</p>
+<p>While heading towards the living room after changing,</p>
+<p>&quot;Ohh, this is tastier than our household! Where did you pick up cooking?&quot;</p>
+<p>&quot;Hmm, from looking at mom's recipe notes... and also elder sister taught me some.&quot;</p>
+<p>&quot;We'll be happy if you come over as our bride...&quot;</p>
+<p>Ayame turned deep red after being told that.</p>
+<p>Dad seemed to have been completely enticed.</p>
+<p>&quot;D-dad? It might be better to think about our appearances a little...&quot;</p>
+<p>I whisper so as to not being heard by others.</p>
+<p>&quot;What are you saying?
+It is definitely good to have a girl with good relationship during school days.
+Otherwise your marriage might get delayed.
+God knows what would have happened to me had I not met your mom.
+Make sure to maintain a pure and proper relationship from now on too.&quot;</p>
+<p>I guess I should express thanks for his opinions stemming from personal experience.</p>
+<p>It was not an atmosphere where one could declare something like &quot;I'll marry a 2D girl, so please give up on me getting a lover or a successor&quot;.</p>
+<p>If I said that, the three of my family members would make me listen to heart scraping lectures while sitting in seiza.</p>
+<p>&quot;H-how is it, Aramiya? I made sure the seasoning is according to your preferences.&quot;</p>
+<p>Ayame asked me with a mixture of confidence and unease on her face.</p>
+<p>And, the three others sent me death stares that conveyed &quot;you know what'll happen if you say it's bad, right?&quot;.
+You're all scary!</p>
+<p>&quot;...It's delicious, really!&quot;</p>
+<p>&quot;I'm glad!&quot;</p>
+<p>Ayame showed a broad smile.</p>
+<p>It was also troubling that the breakfast was tastier than usual.</p>
+<p>This was probably how Toyotomi Hideyori felt while filling up the outer ring of motes around his castle. </p>
+<blockquote>
+<p><em>TL Note:</em> check out <a href="https://www.britannica.com/biography/Toyotomi-Hideyori">this article on britannica</a>.
+<span title = "Early in 1615 Ieyasu arranged a truce. The terms, to which Hideyori agreed, allowed the outer ring of moats protecting the castle to be filled in and the outer perimeter of barricades to be torn down. A few months later, Ieyasu attacked the defenseless castle, and the desperate Hideyori and his family committed suicide.">Here is the important part.</span></p>
+</blockquote>
+<hr />
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="cover.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="chapter1.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a href="cover.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a href="chapter1.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
