@@ -423,7 +423,7 @@ At this moment, let's forget about all these worries and solidify our plans for 
 ## Author's Afterword
 
 Hello dear GA Bunko readers, it's been a while.
-I'm Oota Gakutata, or rather, Tao Noritake.
+I'm Oota Gakutada, or rather, Tao Noritake.
 
 "Chuuko demo Koi ga Shitai!" has published three volumes already.
 Thanks to the popularity this title received from everyone, I've been able to continue writing.
