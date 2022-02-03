@@ -1,5 +1,7 @@
 # Chapter 1: Isn’t there too much homework?
 
+> Disqus Volume 4 [here](https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html).
+
 ### Part 1
 
 > TL: ArkTL
@@ -42,7 +44,9 @@ Kiriko-nee who stayed here last night, whilst grabbing one of the question books
 
 *Sigh*, Kiriko-nee will barge in without knocking anyways so it’s not that it matters.
 
-“1.5 times huh… Kiriko-nee’s school is a through-train?” (TN note: In case you don't know what is through-train , its like you can study at the same school as your middle school in high school; in ASIA)
+“1.5 times huh… Kiriko-nee’s school is a through-train?” 
+
+> _Ark_: In case you don't know what is through-train , its like you can study at the same school as your middle school in high school; in ASIA
 
 “It’s not though. And some of my college peeps have 3 times the amount of yours.”
 

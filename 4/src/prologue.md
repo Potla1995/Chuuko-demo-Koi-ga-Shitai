@@ -1,7 +1,11 @@
 # Prologue
 > (Currently dead) [discord server](https://discord.gg/Srvv9nzyQT) for the series.
+
 > TL: ArkTL
+
 > Announcement: I've talked with Ark and got his consent to put up his TL for the parts he's worked on here. We'll try to push out chapters together, but are both busy with RL, so updates will be delayed.
+
+> Disqus Volume 4 [here](https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html).
 
 Being urged by the sunlight peeking through the curtains to wake up, my drowsy morning starts in bed.
 
