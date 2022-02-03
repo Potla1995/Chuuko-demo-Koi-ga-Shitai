@@ -5,7 +5,7 @@ script:
     - ./mdbook build
     - git add .
     - cd ../4/
-    - ./mdbook build
+    - ../3/mdbook build
     - git add .
     - git commit -m "Built MDBook(s)."
 
