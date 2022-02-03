@@ -1,0 +1,8 @@
+[book]
+authors = ["Potla"]
+multilingual = false
+src = "src"
+title = "Chuuko demo Koi ga Shitai! - 03"
+
+[output.html]
+additional-css = ["text_style.css"]
