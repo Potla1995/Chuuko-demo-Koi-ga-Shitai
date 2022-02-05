@@ -339,6 +339,213 @@ At that moment, my phone started ringing again.
 
 "Who's it this time? Ayame again?"
 
+&nbsp;
+
+The intercom rang loudly.
+
+"Y-yo!"
+
+Ayame was waiting as I opened the door.
+
+Her eyes are slanted upwards, and has a twintail hairstyle; the usual appearance.
+
+It's not as much as the time when we went out together last time, but her outfit looked neat and tidy.
+Complete with a hat, she does look a bit boyish.
+As it was summer, her clothes had slightly increased exposure, revealing her fair skin quite a bit.
+Her shirt was on the shorter side, making her belly button almost visible, and due to the short pants, her healthy thighs were also in view.
+
+She was also carrying a huge sports bag over her shoulder.
+
+"You sure have a lot of luggage..."
+
+"The homework given to us is too much.
+Why is our school so sadistic about it?"
+
+We were talking about that yesterday. Me and Tozaki.
+
+"The amount was about the same last year too, though."
+
+"A-anyway, I didn't submit the homework last year."
+
+Ayame awkwardly averts her eyes and plays dumb.
+Just as I thought.
+
+You can get promoted to the next class even if you don't submit the homework.
+However, it'll probably affect the school's internal evaluation.
+
+"Well, whatever.
+Come on in.
+I have no intention of wasting time here."
+
+"Roger!"
+
+We climb the stairs and enter my room together.
+
+"Oh, it's a wild Ayamecchi~"
+
+"I-Ibu!?"
+
+Our classmate, Suwama Ibu was already sitting on the table in my room.
+
+Donning a fluffy pair of twintails as usual, she was also wearing candy-shaped hairclips.
+While her makeup isn't as intense as before, it could be said that it was just the amount to make it look natural.
+
+She was wearing an off-shoulder top that completely showed off her shoulders, which, paired with the miniskirt, made her getup excessively exposing.
+
+Ayame looks at me with a face that clearly asks _why?_
+
+"This girl is the same as you.
+She said she doesn't get a thing."
+
+"N-no, but Ibu won't really play Destiny:Zero, right?"
+
+"Well, that's true...
+But apparently she couldn't solve a single problem, so was quite lost about it.
+It'll be troublesome if she doesn't submit anything and the teachers turn unwanted attention to our club."
+
+Thanks to the Student council and Kiriko-nee, we somehow were able to avoid the inspection, but the topic of our club did get raised during the teacher's meeting.
+If we do anything stupid, we'll catch their eyes this time for sure.
+
+On top of that, there are teachers who would disagree with allowing students to play... games in the club.
+Churning up any kind of trouble can lead to our club getting disbanded.
+If our grades are bad, then that's exactly what they will hook onto, and say stuff like _"Your grades went down because you play games!"_.
+
+I really want to avoid such worthlessly stupid scenarios.
+
+"Even though I thought it'll only be the two of us..."
+
+Ayame leaks out her thoughts.
+Hey, I can clearly hear you.
+
+It's not like I'm bullying her or anything.
+
+"Anyway, let's get started already.
+Let's start with the toughest hurdle first: math."
+
+"Yeay～ I'm counting on you, Seiichi!
+Let's try our best together, Ayamecchi!"
+
+"Ugh... well, I must finish the homework at all costs.
+It's time to get serious!"
+
+Both of them are sure motivated.
+
+Well then.
+I start reading the prologue of the history book for the book review thing.
+
+&nbsp;
+
+Just as they start working together on the math workbook,
+
+"By the way, Ibu, how're you so calm?  
+Do you not even feel the slightest bit nervous when you're here?
+I come up to Aramiya's room a lot too, but I'm always nervous about it."
+
+"Uhh, well, I've been here quite a few times, I guess?
+But if I'm visiting after a long time, it does make me ner～vous--"
+
+"Wha...!"
+
+"I used to come here a lot before sending that love letter--.
+Together with Akocchi and all.
+I was pretty surprised that the room changed a lot compared to the last time I visited～.
+It's a lot more empty now."
+
+Ayame throws a sharp look again.
+You're scaring me.
+
+"It was against my will.
+Not like we've done anything anyway."
+
+Kyouya, Izumi, and Ibu were the usual guests.
+
+Well, I was never really in their group, but for some reason they liked coming over to my place.
+Even then, the total number of times could probably be counted on my two hands.
+
+Thinking back on it now, it might have been something like an evaluation test.
+_"Should we put this guy in our group?" "Let's observe him a bit more."_
+Something like that.
+
+"I'm jealous of you..."
+
+"Ehehe～
+Well, you could call it the privilege of a childhood friend, maybe～?"
+
+"Ughhhhhhh"
+
+While our houses are close, she's never come to wake me up in the morning or picking me up on the way to school, y'know.
+
+I don't remember going to school together even once.
+
+In that sense, she's a complete failure of a childhood friend by eroge standards.
+In the first place, if your childhood friend that you reunite with after years becomes a flashy gal, people will complain about the work.
+At least 50% of them will.
+
+"B-but, I came to wake you up in the morning!
+That means we're already childhood friends."
+
+......What's with that logic, Ayame. You don't make sense.
+
+"Ehh～
+You met Seiichi for the first time in high school, right Ayamecchi?
+That's not a childhood friend anymore..."
+
+"You could just call us childhood friends that didn't know each other till recently!"
+
+"But, neither of you are children anymore～"
+
+"No! If you think you're a childhood friend, you're one!"
+
+The discussion takes a philosophical turn.
+Seems like they're fighting over nomenclature of the term "childhood friend" itself.
+
+"Well, the definition of childhood friend is a mystery.
+Even if you know each other from high school, when you turn into adults you could call each other childhood friends."
+
+Ayame immediately approves of my opinion and nods enthusiastically.
+
+"Exactly!"
+
+"...While it's fine to pursue the mystery of childhood friends, can you guys first solve the problem of summer vacation homework?"
+
+The two of them return their attention to their notebooks immediately.
+
+What am I gonna do with these two...
+
+&nbsp;
+
+Soon after--
+
+"By the way, what're you reading, Aramiya?"
+
+ Ayame asks with a voice full of curiosity.
+ I really wish you could concentrate for at least 30 minutes though.
+ 
+ "The history book.
+ We have homework on it, remember?"
+ 
+ "If I remember correctly, it's the book review, right? For world history...
+ 『_German Bismark Empire_』?
+ You're sure reading some strange book for it."
+ 
+ "It's not strange.
+ I'm not interested in the content that much either.
+ It's just for the sake of writing a report."
+ 
+ Ibu's face turns into a pout hearing my words.
+ 
+ "Both world and Japanese history are so annoying―.
+ What'll you do learning about the old times?
+ It's so useless.
+ I'm never gonna take history research as a future job, y'know～"
+ 
+ "Yeah..."
+ 
+ Ayame agrees with Ibu's words wholeheartedly.
+ 
+ Man, history is interesting though.
+ 
 - - -
 
-_To be continued..._
+_To be continued..._  
+> Chapter 1 Progress: pages 29-38 out of 29-73 (20% done)
