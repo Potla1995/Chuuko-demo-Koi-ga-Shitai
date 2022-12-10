@@ -545,7 +545,298 @@ Soon after--
  
  Man, history is interesting though.
  
+ There's even an expression called "history girl".
+ Well, although the term refers to girls that are familiar with a particular time period, or seem to have inclination towards knowledge about some specific people.
+ 
+ Most importantly, in VNs that use historical events as their base tend to have an interesting gap between the real person and the way they're depicted as characters.
+ Like, isn't it amazing when a genius tactician yells "The enemy is here!"?
+ That kind of line is cheating.
+ I mean, no matter what they do it's so cute you could die.
+ There are even instances of loose settings, such as characters yelling "Here we go! Yeah!" in English during the [Sengoku era](https://en.wikipedia.org/wiki/Sengoku_period).
+ That one really caught me off-guard.
+ 
+ Even though the content itself follows historical events, if they execute it properly people will be unhappy about it, and if they show the story from a new perspective, it might take people by surprise.
+ 
+ And that's exactly why I wish to learn about the Sengoku period or the [Sangokushi period](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E5%BF%97_(%E6%AD%B4%E5%8F%B2%E6%9B%B8)), which appears frequently as the setting of several games.
+ Even if it's completely useless for my coursework in school!
+ As for the Sangokushi era, it's enough if the battle of Sekiheki is mentioned, and even in the Sengoku era, there's not much other than the famous battle of [Sekigahara](https://en.wikipedia.org/wiki/Battle_of_Sekigahara).
+ The battle of [Okehazama](https://en.wikipedia.org/wiki/Battle_of_Okehazama) doesn't even appear in some games.
+ Well, the Sangokushi and Sengoku period's common sense can be overturned at any time by a single primary source, and it's a mystery about why it's important.
+ 
+ > _Potla_: A bit shaky on my interpretation of the above battles. I don't know anything about Japanese history, after all... But if you're more familiar with the english version, Sengoku period is called the "warring states period" and Sangokushi era is the "three kingdoms period", so if you wanna look into it in more detail, feel free to look these up.
+ 
+ "Didn't you learn about the reason for learning history in primary school?
+ It's to learn from your past and use the knowledge in the present world.
+ Because we have a past is why we can fix our old mistakes.
+ The way you guys are dismissing history as unneeded is itself a recipe for repeating your past errors, you know."
+ 
+ "C'mon, we're not gonna make any mistakes anyway～"
+ 
+ "...You sure sound very confident."
+ 
+ While it's a pain to explain it properly, I think I should fix that misconception of hers.
+ It might help her understand the lessons in the next term better.
+ 
+ ...Although it'll sound like preaching, and I don't feel good acting like an instructor.
+ 
+ "Then, listen closely, Ibu.
+ If Ako asks you to send out a fake love letter to deceive someone again, like she did during primary school, would you do it again?"
+ 
+ "Eh? Of course not.
+ It's not good to deceive others.
+ ...Seiichi, don't tell me you want to be deceived?"
+ 
+ "Like hell I want that!
+ Just as you said, it's bad to deceive others.
+ Okay, so why did you understand that it's not a good thing?"
+ 
+ "Well, that's because Seiichi and Ayamecchi got mad at me..."
+ 
+ "That exactly is history.
+ Your personal history.
+ Although its scale is tiny, because you have that kind of experience, you know it's bad to send out fake love letters, and won't do that anymore."
+ 
+ "Ah, I see..."
+ 
+ It feels kinda strange to see her being convinced about such an obvious thing.
+ 
+ I guess this lack of common sense is what makes her character.
+ I should make some effort to correct that personality.
+ 
+ "Say if you had read in some book that it's not good to deceive people or that you shouldn't trust what everyone says without questioning it before you were asked to send that love letter, you wouldn't have taken the same action back then, right?"
+ 
+ "Yep yep!"
+ 
+ "History is exactly that, a compilation of human experiences, and its purpose is to make sure people don't repeat the same mistakes.
+ Because we understand our old mistakes, society can keep functioning as it does right now."
+ 
+ "Gotcha!"
+ 
+ ...Well, her replies are enthusiastic.
+ But did she really get all that?
+ 
+ Whatever.
+ I'll just believe in her for now.
+ 
+ I close my book and point at the cover.
+ 
+ "Bismark, the person who this book is based on, also said 'Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.'"
+ 
+ "History is amaazingー!"
+ 
+ While Ibu was impressed by my speech, Ayame squinted her eyebrows.
+ 
+ "Say, isn't history just the compilation of how others failed?
+ Unless you fail yourself and run into trouble, people don't really learn to not make those mistakes, right?"
+ 
+ "Quite sharp.
+ I think what you're saying is absolutely correct.
+ Apparently the words Bismark said back then were different from what we learn right now.
+ After all, we humans repeat our old mistakes time and again, and try to get around them to overcome hurdles.
+ It's the same for games.
+ Learning from the design flaws, they make the system even better and better."
+ 
+ "Hmm..."
+ 
+ "Well, if people don't really learn from their old mistakes, then they're beyond saving."
+ 
+ "Yeah..."
+ 
+ "...That's why, stop making small talk and do your homework."
+ 
+ ""Okay...""
+ 
+ It seems like I made a huge digression while trying to make that single point.
+ 
+ &nbsp;
+ 
+ "Aramiya, could you help with this problem..."
+ 
+ "That one...
+ Look up Page 26 in the textbook, and think about it.
+ If you still don't get it, ask me again."
+ 
+ "Okay, thanks."
+ 
+ While asking me questions, the two proceed clearing away their printouts steadily.
+ 
+ The completed work started creating heaps on the table.
+ 
+ "All rightey! I'm done!"
+ 
+ Ibu, finishing her homework, put her mechanical pencil on the table and rejoiced.
+ 
+ Her smile seems to say that she's satisfied with completing it.
+ However, it's only her math homework that got finished.
+ 
+ "I'm tired～ *nudge nudge*"
+ 
+ Feeling liberated from completing one of her homework assignments, Ibu sticks her head onto my side and rolls it like a drill.
+ 
+ "Praise me, praise me～"
+ 
+ "You only finished a small part of what you have to do.
+ Don't act spoiled.
+ You have a long road in front of you.
+ In VN terms, you only finished playing through the prologue."
+ 
+ "Mph!
+ You keep saying things I can't make sense of～!
+ Isn't it fine to just give me some headpats～.
+ So, pet me, pet me～!"
+ 
+ "You're being super annoying!
+ Are you a cat or what?!"
+ 
+ Since she was being troublesome, I lightly patted her head.
+ 
+ As if pleased by it, Ibu rolled herself back to her original position.
+ 
+ "Ehehe～"
+ 
+ "Goodness gracious..."
+ 
+ I take back my words, she's not a cat.
+ More like, she's a dog.
+ 
+ "..."
+ 
+ I thought that finally the annoying event was over, but now Ayame was glaring daggers at Ibu.
+ 
+ But immediately she returned her sight back to the notebook and started solving the problems at a furious pace.
+ 
+ "I'm done!"
+ 
+ Then, Ayame turned her eyes towards me, as if expecting something.
+ 
+ What does she want from me?
+ 
+ After a while, she inclined her head to the side in puzzlement about something.
+ 
+ And then, she reservedly brought her head closer.
+ 
+ "...Why even you!"
+ 
+ "N-no!
+ It's unfair if it's only Suwama!"
+ 
+ "It's only fair!
+ It's my reward for finishing early～"
+ 
+ "I see, is that the rule! Understood!"
+ 
+ "There's no such rule! You don't understand!"
+ 
+ But both of them ignored my words.
+ 
+ Ayame and Ibu both immediately returned to their problem sets.
+ 
+ Well, if this makes them finish their homework faster, there's nothing to lose... however, I really don't know how I should feel about it.
+ 
+ It's embarrassing to think that petting is a reward, or even a rewarding endeavor to begin with.
+ Am I just being stubborn?
+ 
+ Anyway, I'm not a good mentor, so I hope these guys finish their homework soon, so that I can be free.
+ 
+ "What, you're still on your third page, Suwama?
+ I'm already on my fifth."
+ 
+ "Grr...
+ I-I'm only doing it carefully!"
+ 
+ They sure are going at each other's throats.
+ The rivalry is clear.
+ 
+ I wish they showed a bit of that motivation in school.
+ It's definitely more efficient that way.
+ 
+ "Seiichi! How do I solve this part!?"
+ 
+ "Let's see. Hmm, for that one..."
+ 
+ "F-fast! If you don't speed up, Ayamecchi will--!"
+ 
+ "I'm starting on my sixth page already.
+ You're so slow, Suwama!"
+ 
+ It seems Ayame is fully in high spirits.
+ Although what she's being worked up about is homework.
+ 
+ "Ah, Ibu. For this one, you use this formula like this."
+ 
+ "Oh, gotcha!"
+ 
+ Seemingly having found the trick to solve the problem, Ibu returns her gaze back to the workbook.
+ 
+ Although a bit dumb, she's quite serious and doesn't ask for the answer.
+ Well, it'd be bad if she didn't show at least that much effort.
+ 
+ And then, Ayame asked for my help.
+ 
+ "I should be able to get it if I just think a little bit more about it, but..."
+ 
+ Yeah, it's hard to ask someone else about something which you would be able to figure out in just a bit more time.
+ 
+ It's human nature to try and solve problems on their own.
+ Even more so if it's a problem which they think they can solve with just a little bit more effort.
+ 
+ But, if you misjudge that border of when to ask others for help...
+ 
+ "Finished my 12th page～!"
+ 
+ All of a sudden, Ibu had overtaken Ayame.
+ 
+ "Ehehe～ I finished the problem set!
+ Seichi! Pet me, pet me!"
+ 
+ "Didn't I tell you earlier to not lean your body towards me!"
+ 
+ She came so close that her hair's fragrance tickled my nose.
+ 
+ The room was already feeling hotter than usual because there are more people.
+
+
+ But I don't want to decrease the AC's temperature any further. It'll get too cold.
+ Why does the AC make it too cold or too hot if you just change the temperature setting by one degree?
+ 
+ "Grr..."
+ 
+ Ayame is frowning, a stark contrast with Ibu's happy mood.
+ 
+ Her expression is easy to read...
+ You know your goal today is to finish the homework, and not me, right?
+ And you want to finish it all ASAP.
+ 
+ ![Ibu-leaning-Ayame-glaring](./src/P033.jpg)
+ 
+ "Dammit, I just finished too.
+ Next one!"
+ 
+ "I'm already done with 2 pages of the next worksheet～"
+ 
+ As if she's an expert at it already, Ibu further agitates Ayame.
+ 
+ Just like that, both of them focus on the last math homework set.
+ 
+ "I won't lose!"
+ 
+ "Neither will I～!"
+ 
+ Only if they did all this competition without involving me in it...
+ 
+ Well, they'll probably take a break soon, so guess I'll go prepare some tea for the guests.
+ 
+ &nbsp;
+ 
+ ""It's done-!""
+ 
+ 
 - - -
 
-_To be continued..._  
-> Chapter 1 Progress: pages 29-38 out of 29-73 (20% done)
+_To be continued..._
+
+> Last updated: 2022/12/10.
+
+> Potla: Since no one has done any real progress on this project yet, and some people are looking forward to progress, I'm restarting TL. Updates will be more regular in winter this year. Planning to finish Volume 4 at my own pace, at least.
+  
+> Chapter 1 Progress: pages 22-47 out of 22-80 (44% done)
