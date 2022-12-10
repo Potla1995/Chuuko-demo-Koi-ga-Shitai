@@ -830,6 +830,338 @@ Soon after--
  
  ""It's done-!""
  
+ After finishing their math homework at about the same time, the two were sprawled out on the floor together.
+ Although Ibu was moving forward at a breakneck pace, Ayame caught up with her with her tremendous concentration.
+ As expected, she could not overtake Ibu, but even just finishing together was amazing.
+ 
+ Both of them sprawled out on the floor, completely beaten.
+ Well, they did finish two entire workbooks and 15 pages of printout worksheets in less than an hour.
+ 
+ I also put in a lot of effort, but took around two hours to finish all that.
+ Well, whether their answers are correct or not is something only god will know.
+ 
+ "Well, for now, good work."
+ 
+ I put on the table a tray with vanilla ice cream and a lactic acid drink that I had gone downstairs to get earlier.
+ 
+ "Ah, please don't mind me."
+ 
+ "Is it fine, Seiichi?"
+ 
+ "I brought it up for you two to have.
+ Don't turn my labour meaningless."
+ 
+ "Thank you～"
+ 
+ "Then, I-I'll have some..."
+ 
+ Ibu and Ayame, with their happy-go-lucky and nervous attitudes, scooped up a bit it ice cream with their spoons.
+ 
+ Most probably Kiriko-neesan had bought those to have after bathing... but well, there was no name written on the food.
+ 
+ In our house, the rule is that anything that doesn't have a name on it is common property, and we can't complain about who eats it.
+ I checked the back too, just to be sure, but there was no name on it.
+ I've had a bad experience before with eating a treasured ice cream that had a certain someone's name on the back...
+ 
+ "Uuu, it makes my overworked brain feel so much more relaxed."
+ 
+ "Why is it so delicious to have sugar after studying? It's so healing."
+
+ "There are few ways to relieve stress as easily and quickly as eating.
+ It's no wonder people eat like a fiend after a stressful workout."
+ 
+ Well, I don't care about any of that. Ice cream is delicious.
+
+ All I have left for my homework is an essay on information technology, and it'll be done before dinner. 
+ I'm gonna have it eay.
+ 
+ During such a leisurely break time---.
+ 
+ "Ayame-san and Ibu-san are here!?"
+ 
+ The noisy guy has arrived.
+ 
+ The number one person that I didn't wish showed up at this timing.
+ 
+ "Hallo hallo, Kiyomi～n!"
+ 
+ "Yo, Kiyomi. You look quite energetic."
+ 
+ "Of course!
+ Although I'd have been more energetic if Mr. Virgin wasn't here."
+ 
+ After smiling at Ayame and Ibu, she gave me a scornful look. What a jerk...
+ 
+ "We're studying here.
+ If you came here to play, go out."
+ 
+ "All I see is you gobbling ice!"
+ 
+ "We're taking a break.
+ Your timing is bad."
+ 
+ Why is it that others that come to check on you studying (especially parents) only drop by when you're taking a break?
+ 
+ "Tch."
+ 
+ Clicking her tongue like that, Kiyomi leaves the room.
+ 
+ Mhm, that felt good.
+ 
+ "I'm back!"
+ 
+ ...Or so I thought.
+ She's back.
+ 
+ Holding a tray with three servings of mizu-youkan on it.
+ 
+ > _TL Note:_ soft adzuki-bean jelly.
+ 
+ "Ayame-san, Ibucchi! It's not much, but please help yourselves."
+ 
+ "Is that fine?
+ No, I already had ice cream though."
+ 
+ "Don't mind, Ayame-san!
+ I bought this after getting your message from earlier!
+ The one you said is delicious!"
+ 
+ "Message?"
+ 
+ "Yes. 
+ It is members-only...
+ But you can enter immediately if you are introduced by someone you know.
+ We have a very large group chat where we exchange information on sweets on a daily basis."
+ 
+ While she was talking so proudly about it, I reached out to grab a plate.
+ But she immediately noticed it and pulled the tray away.
+ 
+ "There's no mizu-youkan for you!"
+ 
+ Knew it.
+ 
+ Dammit, this is why I wanted to snatch it away before she had noticed.
+ 
+ "Rather, having so much sugar will slow your brain, so I'll pass."
+ 
+ "This much is fine for girls～.
+ Ice cream and mizu-youkan both will fit snugly in our extra stomach.
+ The nutrition from there goes to another place anyway～"
+ 
+ "Where the heck does it go?"
+ 
+ I've never heard of such a stupid story before.
+ Is she just acting like she knows it all, or is she being deceived by the Internet?
+ Where she picks all this up is a real mystery...
+ 
+ Kiyomi handed out mizu-youkan to the two of them, and sat down with hers as if it's the most natural thing to do.
+ Right opposite my seat.
+ 
+ "Rather, why are you doing homework right at the beginning of summer vacations?"
+ 
+ "Not like you got anything to do with it.
+ Look, if I don't finish my homework, it'd keep nagging me at the back of my mind while playing games.
+ Plus, the latter half of the vacation is full of work to do.
+ This year, at least."
+ 
+ "Ah, that's right, you're going on a trip."
+ 
+ "Why do you speak as if it's someone else's problem?
+ You're coming with too, remember?"
+ 
+ "You mean I've gotta put up with you Virigin during the trip?"
+ 
+ "No, well. I don't mind staying behind though."
+ 
+ Well, it was all proposed by Hatsushiba in the first place.
+ 
+ I thought it'd be good if they just made it into a girls-only trip.
+ 
+ "It's already decided, so it's not good if you don't come."
+ 
+ "That's right, Kiyomin.
+ Both brother and sister need to come, you know～"
+ 
+ When I casually tried to evade going with them, Ayame and Ibu blocked my escape route.
+ 
+ Hearing that, Kiyomi gave me a disapproving look.
+ I mean, of course.
+ 
+ "Well, I don't know what to say to Hatsushiba if I cancelled right now."
+ 
+ I was the one who came up with the idea of a reward for Ayame and Ibu, so there's no way out of this.
+ 
+ Besides, the excursion will be treated as a club activity.
+ Even though Saitani will join as a guest.
+ 
+ "What about your homework, Kiyomi?
+ You first years also have it, right?"
+ 
+ Hearing Ayame's question, Kiyomi made a smug face.
+ 
+ "Ahaha, I ended all that long ago!"
+ 
+ "Eh?"
+ 
+ "I finished it on the day of the term closing ceremony.
+ Because I want to play around all summer vacation."
+ 
+ "Are you serious..."
+ 
+ Then why don't you go play around somewhere already.
+ 
+ Why is she at home...
+ Just go play till you can't move anymore.
+ Are you just satisfied with buying some mizu-youkan?
+ 
+ "Then, go outside to play."
+ 
+ "Already done with playing outside for today.
+ I came back home cause the store was closing."
+ 
+ She could've just come back home later at night, but cut it short and came back in the middle of the day.
+ 
+ "Rather, let's restart our homework.
+ Kiyomi, you're in the way so get out."
+ 
+ "It doesn't matter if I stay, right?
+ I'm interested in what you guys have for homework in the second year."
+ 
+ She seemed to pay me no heed as she started flipping through our homework.
+ 
+ "Oh, looks quite easy."
+ 
+ Hearing that, Ayame and Ibu got shocked.
+ 
+ "Y-you understand it?"
+ 
+ Ayame asked in confusion, to which Kiyomi nodded smugly.
+ 
+ "Yep!
+ I have the impression that it is an extension of the first year.
+ I can probably solve the stuff here by applying what we learned in the first semester."
+ 
+ Ayame shakily answered "O-Oh."
+ 
+ While observing their interaction, Ibu tapped on my shoulders.
+ "Say, Seiichi. Is Kiyomin super smart?"
+ 
+ "Originally she should've been able to get into a much better school."
+ 
+ However, not sure why, but giving the excuse of it being close, she enrolled into Mikage High School.
+ 
+ It was quite odd of her.
+ Even though I, the object of her hate, is in the same school.
+ 
+ "Ayame-san, Ibucchi. Should I help you?
+ I think I can solve the problems."
+ 
+ Although Kiyomi said that with good intention, Ayame shook her head.
+ 
+ "Nah, it's meaningless if you don't do this kind of thing by yourself."
+ 
+ Ibu also agreed.
+ 
+ "Yeah～
+ It's not good to just have someone else help you."
+ 
+ Kiyomi clasped her hands together, ecstatic about something.
+ 
+ "As expected!
+ Both of you are really giving your all!"
+ 
+ It was an obvious thing though, are her eyes rotten or something?
+ 
+ "And in contrast, when you look at Mr. Virgin..."
+ 
+ "I finished all my homework by myself, you know?"
+ 
+ "Of course, why are you saying the obvious?"
+ 
+ ...I want to punch her.
+ What's with that double standards?
+ Doesn't she feel any contradiction in her words?
+ 
+ "We've rested long enough.
+ Let's restart."
+ 
+ "Aight. Gotcha."
+ "Yep～"
+ 
+ "Please do your best!"
+ 
+ She isn't leaving though.
+ 
+ I wish she went back to her own room.
+ I can't calm down with my sister around.
+ 
+ Three hours later--.
+ 
+ "I can't anymore～..."
+ 
+ "My brain won't work anymore. At my limit..."
+ 
+ Ibu and Ayame both flatten on the table.
+ 
+ Apparently they burned out after working hard for so long.
+ 
+ Kiyomi was warmly watching over them while fanning them to cool them off.
+ 
+ "Thank you for your hard work～"
+ 
+ However, the two only thanked Kiyomi and didn't try to get up.
+ 
+ Studying is stressful.
+ While it can be fun to learn about something new, it can come back to get you in the form of excessive fatigue.
+ 
+ They say exams are a fight against this fatigue.
+ Or rather, hitting into the thing before the fatigue gets you.
+ In order to fly, you gotta raise your left leg, but while raising, you also need to bring up your right leg, and then in the meantime, your left leg... it's this kind of recklessness.
+ 
+ However, the homework isn't over yet.
+ 
+ "Ibu is well, okay I guess...
+ But Ayame, are you okay like this?
+ 『Destiny Zero』 will not wait for you at this rate."
+ 
+ Hearing that, Ayame's fingers twitched on the floor.
+ It was the sign of a zombie waking up.
+ 
+ However, her body didn't get up, and that was the only reaction to my words.
+ 
+ She seems to think that this is the end of the line for her.
+ 
+ "I... really want to end it all... but any more than this..."
+ 
+ Sad tearful words come out of Ayame's mouth.
+ 
+ If she wants to quit now, it doesn't really matter to me at all.
+ But since I started looking after them, I feel obligated to see it to the end.
+ 
+ "Well, you don't really have to finish it all by forcing yourself.
+ After 『Destiny Zero』 and the trip... you'll have the later half open.
+ At your current pace, just having a week should be enough."
+ 
+ "But..."
+ 
+ "It's not really efficient to do it all at once, you know.
+ In fact, you might end up forgetting a lot of what you did at the end of the vacation."
+ 
+ "Uu..."
+ 
+ "Even then, do you want to finish your homework?"
+ 
+ Hearing my question, Ayame put her hand on the table slowly, as if giving it a light tap.
+ 
+ Putting in force into her fingers and eventually her arm, she forced her upper body up.
+ The table started making creaking noises under her force.
+ It started shaking under pressure.
+ Wait, it might break at this rate.
+ 
+ "I wont give up...!
+ So that... I can keep my promise of playing 『Destiny Zero』 at the same time with Aramiya and so that we can exchange our impressions...!"
+ 
+ The flames in her eyes... felt like they were burn bright and filling her entire body with vitality.
  
 - - -
 
@@ -839,4 +1171,4 @@ _To be continued..._
 
 > Potla: Since no one has done any real progress on this project yet, and some people are looking forward to progress, I'm restarting TL. Updates will be more regular in winter this year. Planning to finish Volume 4 at my own pace, at least.
   
-> Chapter 1 Progress: pages 22-47 out of 22-80 (44% done)
+> Chapter 1 Progress: pages 22-57 out of 22-80 (61% done)
