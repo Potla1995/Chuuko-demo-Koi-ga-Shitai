@@ -1163,12 +1163,79 @@ Soon after--
  
  The flames in her eyes... felt like they were burn bright and filling her entire body with vitality.
  
+ No matter who looked at her, her motivation would be apparent.
+ 
+ "I-if Ayamecchi is gonna do it, I'll do it as 
+ well!"
+ 
+ Maybe from rivalry, Ibu also rose up while gritting her teeth.
+ 
+ "Oohh, your motivation is back!"
+ 
+ Kiyomi clenched her fists in excitement, looking at the two.
+ 
+ "Why are you even that much obsessed with finishing the homework, Ibu?"
+ 
+ I can understand Ayame's case, but I have no clue why Ibu is getting so riled up about it.
+ 
+ At my question, Ibu smiles at me.
+ 
+ "For me... I want to play with Seiichi more!
+ I want to complete the homework fast, and play with you again to regain our memories from elementary school days...!"
+ 
+ "Ibu..."
+ 
+ Memories, I see. 
+ If those days had been uneventful, I would have continued my friendship with her until our graduation, and we would have most probably ended up in the same middle school.
+ 
+ But that didn't happen. I stopped going to school because of the love letter incident, and she stopped seeing me because of Ako's advice, and our relationship was cut off.
+ 
+ Ibu must have had no idea what was going on at the time.
+ 
+ "If things weren't like how they were, I could have had many happy memories with Seiichi...!"
+ 
+ I guess that's what she means by regaining those memories... she actually wishes to redo those days.
+ 
+ The summer vacation homework, which creates time limits, is a hindrance to that wish.
+ Whether or not I would accept Ibu's offer of having fun together during a summer vacation in the first place is another matter, but I understand her reasoning.
+ 
+ But, alas.
+ My energy has not been able to keep up with the desires of the two of them.
+ 
+ Their arms were flailing, and they were both loathe to do their homework.
+ They are doing more homework than ever before, and their instincts are telling them that they are at their limit.
+ 
+ Still, their eyes are not dead.
+ 
+ They are full of energy, determined to finish their homework.
+ 
+ "Well, you know what.
+ I understand your reasons now."
+ 
+ "Aramiya..." "Seiichi..."
+ 
+ "However, we can't finish at this rate."
+ 
+ ""...""
+ 
+ "That's why, I will turn into a demon now.
+ In order to demolish the wall that you perceive as your limit."
+ 
+ The two look at each other quizzically.
+ 
+ Or rather, they were confused about what I was gonna do next.
+ 
+ "She should be here anytime soon."
+ 
+ As I muttered that to myself, the intercom rang with a godly timing.
+
+
 - - -
 
 _To be continued..._
 
-> Last updated: 2022/12/10.
+> Last updated: 2022/12/15.
 
 > Potla: Since no one has done any real progress on this project yet, and some people are looking forward to progress, I'm restarting TL. Updates will be more regular in winter this year. Planning to finish Volume 4 at my own pace, at least.
   
-> Chapter 1 Progress: pages 22-57 out of 22-80 (61% done)
+> Chapter 1 Progress: pages 22-59 out of 22-80 (64% done)
