@@ -1229,7 +1229,205 @@ Soon after--
  
  As I muttered that to myself, the intercom rang with a godly timing.
 
-
+ I got up and headed for the front door.
+ The two of them looked a little anxious, but I didn't care.
+ I had to turn my heart into a devil's to help them with their homework.
+ 
+ I then lead my the helper into the room.
+ 
+ As soon as the door opened, the girls turned their heads toward us, with expressions of astonishment and shock on their faces.
+ 
+ "Good morningー"
+ 
+ It was the arrival of Hatsushiba Yuuka.
+ 
+ Well, it was afternoon already though.
+ 
+ "Ah, Hatsushiba-san.
+ Helloー"
+ 
+ Kiyomi bows her head in an easygoing manner.
+ 
+ However.
+ 
+ "Yu-Yuuka!?"
+ 
+ "Hatsushibacchi... W-why?"
+ 
+ Both of them made round eyes in astonishment.
+ 
+ "I'm not good at teaching, and I don't understand a lot of things.
+ That's why I thought it would be best to leave it to a professional at the job.
+ So, I asked her for help."
+ 
+ "Professional?
+ That's some strange language you're using, Aramiya-kun.
+ But well, I'm looking forward to working with both of you."
+ 
+ Then, Ayame and Eve both hastily stood up as if they had regained their full energy.
+ 
+ Hatsushiba reached out and held them by the shoulders.
+ Kiyomi gave them a sympathetic look, as if to say, "Amen."
+ 
+ "Where are you going, Cotton?"
+ 
+ "N-no,... umm..."
+ 
+ "Suwama-san, I heard you were so dead tired that you couldn't move, but seems like you still are very energetic."
+ 
+ "T-that's not true, you know?
+ I can't even stand up anymore."
+ 
+ "Anyway, just sit back down quietly, okay?"
+ 
+ ""...Okay.""
+ 
+ Even though I summoned her, her expression is scary.
+ Although she's smiling.
+ 
+ Taking the empty seat, Hatsushiba glances over the homework sheets.
+ 
+ "You started just around noon, and yet only progressed this far, ehー"
+ 
+ "W-we... tried our best, you know?"
+ 
+ "Yep yep! Just what Ayamecchi said!"
+ 
+ "...Aramiya-kun, don't you think you're too lax about this?"
+ 
+ The air in the room froze.
+ She's so scary.
+ Should I increase the temperature setting of the AC?
+ 
+ "I-is that so?
+ I thought I was rushing them a lot."
+ 
+ "Aramiya-kun is kind, after all.
+ Can't be helped, I guess."
+ 
+ Ayame and Ibu both started shaking like newborn babies.
+ 
+ Their body remembers the terror from the last study session. (Remember v3c2? lol)
+ 
+ "All right then."
+ 
+ Hatsushiba rolls up the notebook into a cylindrical weapon and hits the table.
+ 
+ The casual sound felt even more eerie than before.
+ 
+ "Should we start with the summer vacation homework then."
+ 
+ The devil sergeant appears on Hatsushiba's face along with a dark aura.
+ 
+ Was the summer vacation homework something that instilled this much despair in people's minds...?
+ 
+ &nbsp;
+ 
+ Thirty minutes into Hatsushiba's tutoringー
+ 
+ "Cotton, didn't we go over this five minutes ago?"
+ 
+ The devil sergeant was on a roll.
+ 
+ "I-I'm sorry, I'm sorry."
+ 
+ "Just once is fine."
+ 
+ "I'm sorry!"
+ 
+ "Suwama-san.
+ Were you asleep during classes?
+ Why don't you understand even this much?"
+ 
+ "Weeeehh, I'm sorryー!"
+ 
+ "I had to restrain myself because we had to keep quiet in the library last time.
+ But this time I have Aramiya-kun's permission, so I'll go all out, okay?"
+ 
+ Hatsushiba had power flowing through her entire body, and was full of enthusiasm.
+ 
+ "...You were restraining yourself with that?"
+ 
+ "Did you say something? Aramiya-kun?"
+ 
+ "Nope, nothing."
+ 
+ Hearing Hatsushiba's words, Ayame and Ibu's faces went totally pale.
+ When she's the one mentoring, she's really scary.
+ 
+ This must be what it is like to train new recruits in the army.
+ War is a very vain thing.
+ It hurts people's hearts and bodies.
+ 
+ "I-I can't go on anymore."
+ 
+ "If you don't have the energy, then you have to fight!
+ Like a rag!
+ You're all dust-clothes!
+ Understood!?"
+ 
+ ""Yessir!""
+ 
+ Where is this wartime education?
+ It's almost as if we're going to hear even words banned from airing soon.
+ Maybe I should buy a buzzer to override her words while I'm at it.
+ 
+ I'm going to concentrate in finishing the rest of my essay so I don't get caught up in her line of fire.
+ 
+ "This here is wrong.
+ Do you want to start over from middle school!?"
+ 
+ "Uuuuu..."
+ 
+ "If it's you two now, you should be able to do it!
+ You just need to continue with it!"
+ 
+ "I'm tired though..."
+ 
+ "Move your hands, not your mouth!
+ You don't have any energy to expend on anything other than doing my homework!
+ Don't waste any of your excess energy.
+ You are nothing but homework-killing machines!"
+ 
+ She's saying crazy things.
+ 
+ But it was worth it. The two of them completely regained their energy and were doing their homework. 
+ 
+ "Devil sergeant seems like a pretty lukewarm description at this point..."
+ 
+ Her complete transformation makes her comparable to the evil god who loves to fight from Indian mythology, while at the same time being the guardian god of Buddhism.
+ Perhaps it is more appropriate to call her Sergeant Ashura.
+ 
+ "Aramiya-kun, what are you mumbling about since a moment ago?"
+ 
+ You could almost read the words "smile" from her words.
+ That's what makes it even more scary.
+ 
+ "Nothing, ma'am..."
+ 
+ I had expected it to be a strong-acting poison, but to think it would be this intense...
+ 
+ Can't really do anything about poison that has spread throughout the body.
+ 
+ Sorry about this, Ayame and Ibu.
+ I'll pick up your bones, so please finish your homework the best you can.
+ 
+ "All right, let's kick it up a gear!"
+ 
+ "Eh..."
+ 
+ "The gear is at max though...!?"
+ 
+ "You're still on low gear!"
+ 
+ It seems like you could hear the sound of the two's souls leaving their bodies.
+ 
+ In exchange, Hatsushiba's back was emitting a black aura.
+ 
+ ...Isn't that sucking out the life force out of those two?
+ 
+ &nbsp;
+ 
 - - -
 
 _To be continued..._
@@ -1238,4 +1436,4 @@ _To be continued..._
 
 > Potla: Since no one has done any real progress on this project yet, and some people are looking forward to progress, I'm restarting TL. Updates will be more regular in winter this year. Planning to finish Volume 4 at my own pace, at least.
   
-> Chapter 1 Progress: pages 22-59 out of 22-80 (64% done)
+> Chapter 1 Progress: pages 22-64 out of 22-80 (71% done)
