@@ -1953,15 +1953,15 @@ _POV: Kotoko_
  
  In the middle of chaos, Ayame suddenly recalled.
  
- When Ayame had been invited to the clubroom for the first time, Aramiya was called to the staff room on air.
+ When she had been invited to the clubroom for the first time, Aramiya was called to the staff room on air.
  
  "......"
  
- ーDon't tell me, the reason Ayame hangs out with me, is all because he was told to do so by sensei...?
+ ーDon't tell me, the reason Aramiya hangs out with me, is all because he was told to do so by sensei...?
  
- Such a thought unwillingly flows through Ayame's head.
+ Such a thought unwillingly flows through her head.
  
- Looking back on it, it was strange that Aramiya went along so conveniently with a delinquent like myself.
+ Looking back on it, it was strange that Aramiya went along so conveniently with a delinquent like herself.
  
  Because he had no choice.
  Because he was told to do it.
@@ -1970,7 +1970,7 @@ _POV: Kotoko_
  While disagreeing with it.
  Against his own will.
  
- The more I think about it, the wilder and darker my thoughts getー.
+ The more she thinks about it, the wilder and darker her thoughts getー.
  
  It was impossible for the unsettled heart to reach out to the correct answer...
  
