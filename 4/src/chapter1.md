@@ -4,7 +4,7 @@
 
 ### Part 1
 
-> TL: ArkTL
+> This part was translated by ArkTL
 
 There’s a pile of books on the desk.
 
@@ -181,7 +181,8 @@ And yes… My reason to complete the pile of homework is of course, the new erog
 - - -
 
 ### Part 2
-> TL: Potla
+
+> TL: Potla (Rest of the chapter is TL'ed by me)
 
 Honestly speaking, book reports often turn into just a plain summary.
 While such a form is efficient for earning good grades, the disadvantage is that you have to read the entire work to be able to write a good summary.
@@ -1428,12 +1429,554 @@ Soon after--
  
  &nbsp;
  
+ 10pm. 
+ After a cheap delivery for dinner and a quick bath on Kiyomi's recommendation...
+ The three girls are still struggling with homework.
+
+ The air around them had calmed down, and Ibu called someone.
+ 
+ "Hello, mom?
+ I'll stay over at a friend's place tonightー!
+ See you tomorrow～"
+ 
+ Seems like it was her family.
+ The call was very short.
+ 
+ I might be mishearing things though, cause she just said something outrageous.
+
+ "Wait a minute, Ibu. What did you just say?
+
+ "What?
+ I told mom I'm staying over because it doesn't look like it's going to end."
+ 
+ "I didn't authorize it!
+ Oh, wait.
+ You mean you're staying at Ayame's place?"
+
+ "Hmm, but Kiyomi said it's okay to stay over tonight.
+
+　That idiot of a little sister.
+
+ No matter how you think about it, it's outrageous to have girls stop over in a house with a guy in it.
+ 
+ "Oi, Ayame and Hatsushiba.
+ Don't tell me you guys too...?"
+ 
+ "W-well.
+ Kiyomi said it's fine, so we kinda..."
+ 
+ "Eheheー.
+ I already called my mom about it."
+ 
+ Ayame replied awkwardly, and Hatsushiba gave a troubled smile.
+ 
+ I feel like I am being set up.
+ 
+ "Then it can't be helped.
+ Can I go sleep now?"
+ 
+ "Of course not, you idjit!"
+ 
+ Kiyomi, who was lurking in a corner, yelled an abuse.
+ Wait, I forgot that she was in the room for a while now.
+ 
+ "Take responsibility till the end.
+ Not only are you a virgin, you're even trying to escape responsibility.
+ That's exactly why people say guys are trash, you know."
+ 
+ "I don't want you to call me trash though..."
+ 
+ In the first place, I don't see what this responsibility bullshit is all about.
+ 
+ "It's okay, just hang out till the end.
+ That's what they call resourcefulness of a guy, you know!?"
+ 
+ "That kind of sexism is what leads to conflict.
+ Don't use a man's resourcefulness as a convenient excuse."
+ 
+ "Do you want to eat a drop kick!?"
+ 
+ "I shall not yield to violence!"
+ 
+ Kiyomi grits her teeth in irritation.
+ 
+ She seemed to have some semblance of rational thought left in herself to not act out like this in the middle of the night.
+ 
+ "You're such a genius at lowering your stock value as a man!"
+ 
+ "You're annoying.
+ I just want to sleep already in preparation for tomorrow.
+ That stock value or whatever won't help me get my food tomorrow!"
+ 
+ I have plans to go to the store tomorrow at 11am, to buy the game just in time for the store opening.
+ 
+ Then I'll return home immediately, install on my PC and boot it up.
+ 
+ The schedule for tomorrow was perfectly planned out in my head already.
+ There's no changing of my plans!
+ 
+ "Then, I'll bring all three into my room, okay?"
+ 
+ Kiyomi made such a proposal while pouting at me.
+ 
+ "If you wish to, please feel free."
+ 
+ "You just gave the okay, right?"
+ 
+ She said again, as if asking for confirmation.
+ 
+ What's there to confirm about it though?
+ 
+ I'm sure it's nothing I should be concerned about---wait a sec?
+ 
+ "...Kekkekkekkekkek"
+ 
+ That's one wicked laugh.
+ 
+ Wait, I remember now.
+ 
+ Kiyomi's current room used to be Dad's private room, so there's a lot of stuff left in there.
+ 
+ Since Kiyomi herself doesn't put in a lot of stuff, she never moved those things to anywhere else.
+ 
+ That's right.
+ 
+ In her storage room, she keeps our graduation albums and all the pictures that were taken since our childhood!
+ 
+ "Well, I'm okay with bringing them in though?"
+ 
+ Graduation albums are fine, but it'll be bad if they use my childhood pictures as snacks.
+ 
+ I glance over the three.
+ 
+ They will probably be working on their homeworks, but suppose Kiyomi said something like,
+ "I have some old albums, would you like to have a look?"...
+ Those three will definitely bite the bait.
+ 
+ Were there any pictures in there that I didn't want them to see?
+ I can't remember at all.
+ Either way, the idea of showing pictures from my childhood is too much of an embarrassment.
+ 
+ "...Got it.
+  It's okay if I just stick it out until the end, right?!"
+  
+ I hate this, but it can't be helped.
+ 
+ While it wasn't in my plan to play the game after pulling an all-nighter, it's much better than having my old photos exposed.
+ 
+ "I-is that fine?"
+ 
+ Ayame was a bit surprised.
+ 
+ "Well, guess it's fine.
+ Plus, I was the one that called over Hatsushiba.
+ Even though she's staying up, I can't go ahead and escape early."
+ 
+ "You didn't have to worry about that, though."
+ 
+ Although Hatsushiba said that with a smile, I probably shouldn't quit midway like this.
+ 
+ "Anyway, let's get over with it fast.
+ Just so that we can turn it into our blood and muscles."
+ 
+ >_TL Note_: This is a proverb that means something like "just so that we can gather some experience and learn stuff that will help us in the future".
+ 
+ "Yessir～!"
+ 
+ Ibu replied with a voice that only had enthusiasm in it, and turned to her homework again.
+ 
+ Ayame also looked down at her homework and began to fill in the answers with a pen in her hand.
+ 
+ &nbsp;
+ 
+ As it was getting later and later, more lights of our neighboring houses were getting turned off.
+ 
+ "It's doneー!"
+ 
+ "I-i-i-it's doneeeeeeeeeeeeeee!"
+ 
+ Ayame and Ibu cheer together.
+ 
+ They both had a refreshing look on their faces from accomplishing something.
+ 
+ "Aramiya!"
+ 
+ Ayame raised her hands and pointed her palms towards me.
+ 
+ Guessing what she wanted, I clapped her hands with my own.
+ 
+ A pleasant clapping sound echoed through the room.
+ 
+ "Hehehe..."
+ 
+ Albeit exhausted, she looked satisfied.
+ 
+ And then,
+ 
+ "I'm done... for..."
+ 
+ With a thump, Ibu crashed onto the table.
+ 
+ "You are both amazing.
+ Really, good job!"
+ 
+ Hatsushiba also acknowledged how fast they finished the homework.
+ 
+ It was now 2 am.
+ The so-called time when the grass and trees are asleep.
+ 
+ Four hours had passed since then.
+ Almost all their homework had been complete.
+ The art homework was about painting landscapes, so we decided to hold it off until a later date.
+ 
+ Although it was unrelated to me and Hatsushiba, who had taken music instead.
+ 
+ "Gaa--- guu---"
+ 
+ "Suu--- pii---"
+ 
+ In the blink of an eye, they had both fallen asleep.
+ I had like looked away for five seconds, and they were already sleeping like logs.
+ 
+ "Of course they are tired."
+ 
+ Hatsushiba gave the two a worried look.
+ 
+ "Well, you were so harsh on them..."
+ 
+ "Did you say something? Aramiya-kun?"
+ 
+ "Nope, nothing..."
+ 
+ "...Yu-yuuka also thinks that she overdid it a little this time, you know?"
+ 
+ Is that true?
+ Really, she was acting like trying to fix a broken old TV by keeping hitting it over and over.
+ 
+ "I-I see."
+ 
+ "You don't believe meー?"
+ 
+ Hatsushiba leans forward and pinches my cheek.
+ 
+ "Hat're you hoing"
+ 
+ "You naughty boyー"
+ 
+ > _TL Note_: Woah? Wait a second?
+
+ She pinches it and pulls and pushes it.
+ Seems like she's in a special all-nighter kind of mood.
+ Hatsushiba would never do something playful like this, usually.
+ 
+ "Yawn...
+ Yuuka is also, feeling sleepy..."
+ 
+ After being satisfied, she plomps on the table and starts making sleeping noises.
+ 
+ Hatsushiba also kept teaching them, and must be really tired.
+ 
+ However, I think it would be a pity to leave them sleeping on the table like this...
+ But my sleepiness is at the limit and I can't lay out the futons or take the four of them, including Kiyomi, to Kiyomi's room.
+ 
+ My eyelids also closed naturally.
+ 
+ I surrender myself to sleepiness.
+ 
+ Ah... I'll probably have a good night's sleep...
+ 
+ &nbsp;
+ 
+ "Wake up!"
+ 
+ I felt a gushing sensation like a needle going through my ears.
+ 
+ "Uwah!?"
+ 
+ I wake up by reflex.
+ 
+ A Yasha with a terrifying expression reflected in my vision.
+ 
+ Kiriko-neesan was standing there with an anger mark on her forehead.
+ 
+ "Hmm...?"
+ 
+ "What～"
+ 
+ "What happenedー... Mmm..."
+ 
+ Ayame, Ibu, and Hatsushiba all start to wake up.
+ 
+ "Eh, Kotani-sensei!?"
+ 
+ Ayame shuddered, and then stood upright as if a steel bar had been inserted into her back.
+ 
+ "You lot, sit down there for a minute."
+ 
+ Kiyomi also jumped up.
+ 
+ As everyone was moving restlessly-
+ 
+ "Fast!"
+ 
+ We all hurriedly sat down in seiza in front of Kiriko-neesan.
+ 
+ Her anger had not abated a single bit.
+ 
+ "When I returned home late at night, I find boys and girls sleeping together in the same room!
+ Don't you know the saying that boys and girls can't share the same seat after they're 7?
+ What would you do if a mistake occured!?"
+ 
+ "No, I mean, such a thing won'tー"
+ 
+ "Seiichi, I don't remember allowing you to debate with me."
+ 
+ "...Yes ma'am."
+ 
+ She's really angry.
+ 
+ I was a bit too carelss as well, right?
+ Even though I had myself said that it was bad for girls to stay over at a guy's place.
+ 
+ "I can't let you all sleep like this.
+ If you can go back now, do it.
+ I'll send you off by car."
+ 
+ "Ehh～. I want to stay over at Seiichi's place."
+ 
+ "Not happening.
+ Especially not you.
+ You want to get suspended right at the beginning of the second semester?"
+ 
+ "O-oka～y..."
+ 
+ Ibu quickly nodded with trembling voice when Kiriko-neesan glared at her.
+ 
+ Following suit, Ayame and Hatsushiba also gave an okay, knowing that there was no negotiation.
+ 
+ "Kiyomi, you too. Go back to your room and sleep."
+ 
+ "Yeah. Kiri-nee, you're too strict, you knowー"
+ 
+ "It's you who's lax about everything.
+ Why don't you try fixing that habit of yours!"
+ 
+ Kiyomi heavily dragged her body out of my room.
+ 
+ But well, her staying in my room for around 10 hours is so rare. I wonder how many years ago was the last time we did that.
+ 
+ "I'm going to start the car to warm the engine.
+ You guys pack up your stuff while you can."
+ 
+ Kiriko-neesan left the room first.
+ 
+ "Oh well. Let's go back."
+ 
+ As Ayame started packing her stuff, Hatsushiba and Ibu also followed suit.
+ 
+ They all headed down one by one.
+ 
+ "O-i. Are you guys done yet-?"
+ 
+ Just as everyone finished putting on their shoes, Kiriko-neesan opened the main door and rushed them on.
+ 
+ "Looks like they're done.
+ ...Alright you three, see you later."
+ 
+ "Yeah. Good night, Aramiya-kun."
+ 
+ "Ou, Hatsushiba.
+ Thanks for coming to our rescure."
+ 
+ "Not at all.
+ If it's Aramiya-kun's request, I'll come over anytime.
+ Even taking time off work."
+ 
+ "At least do your job..."
+ 
+ "Ahaha."
+ 
+ A bit sleepy, Hatsushiba left through the doorway with a smile.
+ 
+ "Thanks, Seiichi!"
+ 
+ "Yeah.
+ Somehow even you ended up staying around till so late."
+ 
+ "Nah.
+ It was fun doing the same stuff together with everyone.
+ All goodー!"
+ 
+ Ibu had a huge smile on her face.
+ 
+ Well, she seemed to have fun.
+ It was a good experience for her.
+ 
+ "T-thanks, Aramiya."
+ 
+ "Don't mention it."
+ 
+ "Umm..."
+ 
+ Then Ayame stopped speaking and spun her words as if she was having difficulty saying them.
+ 
+ "Tomorrow, why don't we go buy _that_ together?"
+ 
+ She looked a little anxious and embarrassed.
+ 
+ Going shopping together, huh?
+
+　I wouldn't mind that much.
+ If I have someone to talk to while I'm waiting in line, I can feel the time go by faster.
+
+ "Okay, sure.
+ Then, I'll meet you in front of the store 30 minutes before it opens."
+ 
+ "Alright! I'm looking forward to it!"
+ 
+ Ayame happily leaves the house.
+
+ "At least make it... looking forward to the game okay?"
+
+　No, well, it's fine.
+
+　In fact, I'm sure Ayame is looking forward to the game as well.
+
+ But it's really been years since we all did our summer vacation homework together.
+
+　It's like we've gone back to the old days a little bit, like with Kiyomi.
+
+　When the three of them left the house and the house became quiet, I felt a little bit nostalgic, tinged with a sense of loneliness.
+
+　Of course, everything is different from when I was in elementary school.
+
+ "Oh well, I guess I'll just take a bath and go to bed. Let's take a bath and go to bed."
+
+　Tomorrow, or rather, today!
+ Finally, the release of 『Destiny Zero』.
+
+　It's the biggest game I've been waiting for in a long time!
+ 
 - - -
 
-_To be continued..._
+_POV: Kotoko_
 
-> Last updated: 2022/12/15.
+ Kiriko dropped off Hatsushiba and Ibu, leaving Ayame alone.
+
+　With Ayame in the passenger seat, the car approached her house.
+
+ "You're the last one," she said. 
+ "You should be a little more concerned about girls around your age sleeping in a man's room.
+ I don't care if you get attacked."
+
+ "I'm sorry...
+ But Aramiya says he is not interested in real life girls anyway."
+ 
+ "Well, that's true.
+ But you never know when a man is going to change completely.
+ Seiichi is no exception."
+ 
+ "I'll be careful..."
+ 
+ Ayame apologizes while being ill at ease.
+ 
+ She was dealing with a teacher, and the fact that she was Seiichi's cousin made her feel like a borrowed cat.
+ 
+ "Ah.
+ That's right, Ayame.
+ Don't use forced honorifics with me in private.
+ You have to be careful at school, though."
+ 
+ "Umm, but..."
+ 
+ "I get all mushy when you use honorifics out of the blue.
+ It used to be rather easier for me to get involved with you when you were a yankee.
+ At least for me."
+ 
+ "By any chance, was Kotani-sensei also... a delinquent?"
+ 
+ It was probably because of what Kiriko had told her. 
+ She had the feeling that they might be the same kind of people, which made Ayame's tone a little less formal.
+ 
+ "During high school.
+ In the eyes of the public, I was probably one."
+ 
+ "All the way till graduation?"
+ 
+ "Yea.
+ Well, I did what I wanted, I was satisfied with it, and I was a serious delinquent who didn't bother the teachers."
+ 
+ "What do you mean... by a serious delinquent?"
+ 
+ "I mean, I only looked like a delinquent.
+ Well, I used to do some school shaming and stuff."
+ 
+ "That's worse than me."
+ 
+ "Hahaha. I don't want you to be the one telling me that."
+ 
+ While cracking such jokes, Kiriko softened her expression.
+ 
+ "Anyway, you really changed a lot."
+ 
+ "I-is that true?
+ I do hear that quite often."
+ 
+ "So, how is it?
+ A proper school life?
+ I can see by your face these days that you're having a good time."
+ 
+ "It's all thanks to Aramiya."
+ 
+ "Is that so!
+ As expected of my pride, my cousin!"
+ 
+ Kiriko displayed a broad smile.
+ 
+ For some reason, Seiichi is not fond of her, but Ayame thinks she is a good teacher.
+ 
+ Even before she got her current look, she had been warned several times.
+ 
+ At the time, she ignored him and was annoyed with him, but now she thinks that he was trying to rehabilitate her somehow.
+ 
+ "It was worth asking that guy to rehabilitate you."
+ 
+ "Eh......"
+ 
+ Ayame replied to Kiriko's casual remark in a distracted manner.
+ 
+ "While it's not in his character...
+ After all, he pulled it off splendidly.
+ Well, I didn't really want him to rehabilitate you, but at long as he could help you feel that school life was fun..."
+ 
+ The latter half didn't enter Ayame's ears.
+ 
+ In the middle of chaos, Ayame suddenly recalled.
+ 
+ When Ayame had been invited to the clubroom for the first time, Aramiya was called to the staff room on air.
+ 
+ "......"
+ 
+ ーDon't tell me, the reason Ayame hangs out with me, is all because he was told to do so by sensei...?
+ 
+ Such a thought unwillingly flows through Ayame's head.
+ 
+ Looking back on it, it was strange that Aramiya went along so conveniently with a delinquent like myself.
+ 
+ Because he had no choice.
+ Because he was told to do it.
+ Reluctantly.
+ Unwillingly.
+ While disagreeing with it.
+ Against his own will.
+ 
+ The more I think about it, the wilder and darker my thoughts getー.
+ 
+ It was impossible for the unsettled heart to reach out to the correct answer...
+ 
+
+_Chapter 1 complete_
+
+> Last updated: 2022/12/19.
 
 > Potla: Since no one has done any real progress on this project yet, and some people are looking forward to progress, I'm restarting TL. Updates will be more regular in winter this year. Planning to finish Volume 4 at my own pace, at least.
-  
-> Chapter 1 Progress: pages 22-64 out of 22-80 (71% done)
