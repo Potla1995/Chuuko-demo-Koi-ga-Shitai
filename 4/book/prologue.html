@@ -1,0 +1,297 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Prologue - Chuuko demo Koi ga Shitai! - 04</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="text_style.css">
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="affix"><a href="cover.html">Cover Illustrations</a></li><li class="affix"><a href="prologue.html" class="active">Prologue</a></li><li class="affix"><a href="chapter1.html">Chapter 1: Isn’t there too much homework?</a></li><li class="affix"><a href="chapter2.html">Chapter 2: Is she your girlfriend?</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Chuuko demo Koi ga Shitai! - 04</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#prologue" id="prologue">Prologue</a></h1>
+<blockquote>
+<p>(Currently dead) <a href="https://discord.gg/Srvv9nzyQT">discord server</a> for the series.</p>
+</blockquote>
+<blockquote>
+<p>TL: ArkTL</p>
+</blockquote>
+<blockquote>
+<p>Announcement: I've talked with Ark and got his consent to put up his TL for the parts he's worked on here. We'll try to push out chapters together, but are both busy with RL, so updates will be delayed.</p>
+</blockquote>
+<blockquote>
+<p>Disqus Volume 4 <a href="https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html">here</a>.</p>
+</blockquote>
+<p>Being urged by the sunlight peeking through the curtains to wake up, my drowsy morning starts in bed.</p>
+<p>The first day of summer and there’s already a small yet continuous sound.</p>
+<p>It’s a sound that I’m now used to hearing.</p>
+<p>Should be the sound of mom getting up, and/or doing the chores.</p>
+<p>Even though I know she wakes up early to prepare for me and I feel some sort of guilt,
+I still cannot defy the temptations of the sleeping devil.
+Whilst listening to the sounds of the chores and trying to feel asleep–</p>
+<p>I noticed something.</p>
+<p>It feels different from usual.</p>
+<p>The movements should be more smooth, and you should hear some mechanical sounds.
+Yet, today sounds like an elegant beat.</p>
+<p>–Wait, no.</p>
+<p>Didn’t mum and dad go on a trip long ago? Dad got his summer holidays.</p>
+<p>Turning to look at the clock, it’s 7 at the morning.</p>
+<p>They said they will be taking the first train, so they should be out already.</p>
+<p>Yesterday was the day before the trip, mum and Kiriko-nee drank until night,</p>
+<p>Did they perhaps overslept?</p>
+<p>No, if they overslept, they would have left in a rush, but there was no sound.</p>
+<p>“It’s not a thief… right?”</p>
+<p>There is only Kiriko-nee and Kiyomi in the house right now.</p>
+<p>And Kiyomi would never wake up to do her chores.</p>
+<p>And regarding Kiriko-nee, looking back at yesterday, she should sleep until very late.</p>
+<p>I crawled up and went down the stairs.</p>
+<p>They seem to be cleaning the bathroom now.</p>
+<p>When I was ready to peek through the door– The door suddenly opened.</p>
+<p>“Uwaa!”</p>
+<p>“Eh… Eh!!! A…A…Ayame!?”</p>
+<p>It was Ayame behind the door.</p>
+<p>She was holding a basket full of clothes.</p>
+<p>The basket of clothes were also already dry.</p>
+<p>…Strange? What is happening?</p>
+<p>Is it because I woke up too early? Am I dreaming?</p>
+<p>“M…Morning, Ayame. Say, what are you doing here?”</p>
+<p>“Morns, I’m washing the clothes.”</p>
+<p>“No, I know that but, why here?”</p>
+<p>“I was told to.”</p>
+<p>“Told to?”</p>
+<p>“By Seiichi’s mother. She said because she’s going on a trip, so the chores will be left to me.”</p>
+<p>Ehhhhhhhhhhhhhhhhhhhhh</p>
+<p>The f*ck is wrong with my mother.
+Being retarded must have a limit right.
+She made others do the chores! What's more, she asked my classmate!
+To do our chores! Is this even normal!?</p>
+<p>“Say Ayame, why did you even accept this request.”</p>
+<p>“No… it's more like I can’t refuse Auntie’s request…”</p>
+<p>Ayame shivered shyly.</p>
+<p>Wait, since when did Ayame become so familiar with my mother.</p>
+<p>“A…And, helping to do the chores, has a feeling of being like a wife.”</p>
+<p>Looks like she got affected by eroges again.</p>
+<p>Well, I can’t blame her… After all it’s my fault.</p>
+<p>“I… I will go back when I finish, after all I still need to complete my homework. Ah also you don’t have to worry about breakfast.</p>
+<p>You, Kiyomi and Kiriko-sensei’s, in total 3 portions right?”</p>
+<p>“Tha… That’s not wrong…”</p>
+<p>Then again, if we let Kiyomi handle it it will be a disaster.</p>
+<p>And Kiriko-nee’s cooking is also dangerous.</p>
+<p>My cooking isn’t the best, but it’s not like I can’t cook.</p>
+<p>I just can’t do flavours.</p>
+<p>“…Please make 4 portions”</p>
+<p>“Eh? And whose?”</p>
+<p>“Isn’t the fourth person right here?”</p>
+<p>I stared at Ayame.</p>
+<p>“You totally forgot about yourself.”</p>
+<p>“Eh? M…Me!? C…Can I?”</p>
+<p>“That's how it should be, right?”</p>
+<p>Speaking of which, thanking people for cooking for one’s family, saying “thanks” is the proper thing to do.</p>
+<p>“And… If it’s just drying the clothes you can leave it to me. I’ll leave breakfast to you.”</p>
+<p>“It’s alright, it's still early in the morning, so we can do it together ❤️”</p>
+<p>Eh, it’s fine.</p>
+<p>Walking up to the balcony at the second floor, we hung up our clothes together.</p>
+<p>“D… Doesn’t this feel like we are newlyweds?”</p>
+<p>She says with an excited face and such puppy eyes. Speaking voice lines of eroges again.</p>
+<p>“Who knows.”</p>
+<p>I responded coldly.</p>
+<p>But hanging up clothes like this, maybe to others it does feel like we are newlyweds…</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="cover.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="chapter1.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a href="cover.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a href="chapter1.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

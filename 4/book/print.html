@@ -1,0 +1,1552 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Chuuko demo Koi ga Shitai! - 04</title>
+        
+        <meta name="robots" content="noindex" />
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="text_style.css">
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="affix"><a href="cover.html">Cover Illustrations</a></li><li class="affix"><a href="prologue.html">Prologue</a></li><li class="affix"><a href="chapter1.html">Chapter 1: Isn’t there too much homework?</a></li><li class="affix"><a href="chapter2.html">Chapter 2: Is she your girlfriend?</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Chuuko demo Koi ga Shitai! - 04</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p><img src="./img/P000a.jpg" alt="P000a" /></p>
+<p><img src="./img/P000b.jpg" alt="P000b" /></p>
+<p><img src="./img/P000c.jpg" alt="P000c" /></p>
+<p><img src="./img/P000d.jpg" alt="P000d" /></p>
+<p><img src="./img/P000e.jpg" alt="P000e" /></p>
+<p><img src="./img/P000f.jpg" alt="P000f" /></p>
+<p><img src="./img/P000g.jpg" alt="P000g" /></p>
+<h1><a class="header" href="#prologue" id="prologue">Prologue</a></h1>
+<blockquote>
+<p>(Currently dead) <a href="https://discord.gg/Srvv9nzyQT">discord server</a> for the series.</p>
+</blockquote>
+<blockquote>
+<p>TL: ArkTL</p>
+</blockquote>
+<blockquote>
+<p>Announcement: I've talked with Ark and got his consent to put up his TL for the parts he's worked on here. We'll try to push out chapters together, but are both busy with RL, so updates will be delayed.</p>
+</blockquote>
+<blockquote>
+<p>Disqus Volume 4 <a href="https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html">here</a>.</p>
+</blockquote>
+<p>Being urged by the sunlight peeking through the curtains to wake up, my drowsy morning starts in bed.</p>
+<p>The first day of summer and there’s already a small yet continuous sound.</p>
+<p>It’s a sound that I’m now used to hearing.</p>
+<p>Should be the sound of mom getting up, and/or doing the chores.</p>
+<p>Even though I know she wakes up early to prepare for me and I feel some sort of guilt,
+I still cannot defy the temptations of the sleeping devil.
+Whilst listening to the sounds of the chores and trying to feel asleep–</p>
+<p>I noticed something.</p>
+<p>It feels different from usual.</p>
+<p>The movements should be more smooth, and you should hear some mechanical sounds.
+Yet, today sounds like an elegant beat.</p>
+<p>–Wait, no.</p>
+<p>Didn’t mum and dad go on a trip long ago? Dad got his summer holidays.</p>
+<p>Turning to look at the clock, it’s 7 at the morning.</p>
+<p>They said they will be taking the first train, so they should be out already.</p>
+<p>Yesterday was the day before the trip, mum and Kiriko-nee drank until night,</p>
+<p>Did they perhaps overslept?</p>
+<p>No, if they overslept, they would have left in a rush, but there was no sound.</p>
+<p>“It’s not a thief… right?”</p>
+<p>There is only Kiriko-nee and Kiyomi in the house right now.</p>
+<p>And Kiyomi would never wake up to do her chores.</p>
+<p>And regarding Kiriko-nee, looking back at yesterday, she should sleep until very late.</p>
+<p>I crawled up and went down the stairs.</p>
+<p>They seem to be cleaning the bathroom now.</p>
+<p>When I was ready to peek through the door– The door suddenly opened.</p>
+<p>“Uwaa!”</p>
+<p>“Eh… Eh!!! A…A…Ayame!?”</p>
+<p>It was Ayame behind the door.</p>
+<p>She was holding a basket full of clothes.</p>
+<p>The basket of clothes were also already dry.</p>
+<p>…Strange? What is happening?</p>
+<p>Is it because I woke up too early? Am I dreaming?</p>
+<p>“M…Morning, Ayame. Say, what are you doing here?”</p>
+<p>“Morns, I’m washing the clothes.”</p>
+<p>“No, I know that but, why here?”</p>
+<p>“I was told to.”</p>
+<p>“Told to?”</p>
+<p>“By Seiichi’s mother. She said because she’s going on a trip, so the chores will be left to me.”</p>
+<p>Ehhhhhhhhhhhhhhhhhhhhh</p>
+<p>The f*ck is wrong with my mother.
+Being retarded must have a limit right.
+She made others do the chores! What's more, she asked my classmate!
+To do our chores! Is this even normal!?</p>
+<p>“Say Ayame, why did you even accept this request.”</p>
+<p>“No… it's more like I can’t refuse Auntie’s request…”</p>
+<p>Ayame shivered shyly.</p>
+<p>Wait, since when did Ayame become so familiar with my mother.</p>
+<p>“A…And, helping to do the chores, has a feeling of being like a wife.”</p>
+<p>Looks like she got affected by eroges again.</p>
+<p>Well, I can’t blame her… After all it’s my fault.</p>
+<p>“I… I will go back when I finish, after all I still need to complete my homework. Ah also you don’t have to worry about breakfast.</p>
+<p>You, Kiyomi and Kiriko-sensei’s, in total 3 portions right?”</p>
+<p>“Tha… That’s not wrong…”</p>
+<p>Then again, if we let Kiyomi handle it it will be a disaster.</p>
+<p>And Kiriko-nee’s cooking is also dangerous.</p>
+<p>My cooking isn’t the best, but it’s not like I can’t cook.</p>
+<p>I just can’t do flavours.</p>
+<p>“…Please make 4 portions”</p>
+<p>“Eh? And whose?”</p>
+<p>“Isn’t the fourth person right here?”</p>
+<p>I stared at Ayame.</p>
+<p>“You totally forgot about yourself.”</p>
+<p>“Eh? M…Me!? C…Can I?”</p>
+<p>“That's how it should be, right?”</p>
+<p>Speaking of which, thanking people for cooking for one’s family, saying “thanks” is the proper thing to do.</p>
+<p>“And… If it’s just drying the clothes you can leave it to me. I’ll leave breakfast to you.”</p>
+<p>“It’s alright, it's still early in the morning, so we can do it together ❤️”</p>
+<p>Eh, it’s fine.</p>
+<p>Walking up to the balcony at the second floor, we hung up our clothes together.</p>
+<p>“D… Doesn’t this feel like we are newlyweds?”</p>
+<p>She says with an excited face and such puppy eyes. Speaking voice lines of eroges again.</p>
+<p>“Who knows.”</p>
+<p>I responded coldly.</p>
+<p>But hanging up clothes like this, maybe to others it does feel like we are newlyweds…</p>
+<h1><a class="header" href="#chapter-1-isnt-there-too-much-homework" id="chapter-1-isnt-there-too-much-homework">Chapter 1: Isn’t there too much homework?</a></h1>
+<blockquote>
+<p>Disqus Volume 4 <a href="https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html">here</a>.</p>
+</blockquote>
+<h3><a class="header" href="#part-1" id="part-1">Part 1</a></h3>
+<blockquote>
+<p>This part was translated by ArkTL</p>
+</blockquote>
+<p>There’s a pile of books on the desk.</p>
+<p>Japanese, Maths, Modern Society e.t.c. , textbooks and notes, shining because of the morning light yet in this irregular atmosphere.</p>
+<p>Those are all the summer homework we have to do.</p>
+<p>“…, Looking at this, isn’t there too much homework.”</p>
+<p>Japanese is to write kanji and do a reading reflection and some questions.</p>
+<p>Math you have to do two full books of exercises, with 15 pages each.</p>
+<p>English, you have one book with 20 pages.</p>
+<p>Chemistry is a question book,</p>
+<p>Physics is also a question book.</p>
+<p>Modern Society you have to write an essay about either politics or war.</p>
+<p>History you have a question book.</p>
+<p>The elective Music is that you have to perform the specified song once the semester starts.</p>
+<p>ICT( Information and communications technology), is to write an essay about patents or something about IT.</p>
+<p>World History is just a book report.</p>
+<p>“My school work before is 1.5 times of yours though.”</p>
+<p>Kiriko-nee who stayed here last night, whilst grabbing one of the question books muttered.</p>
+<p>“Why did you come in my room.”</p>
+<p>“It’s because I saw you looking at your desk with no energy, it makes me want to say what are you doing~”</p>
+<p><em>Sigh</em>, Kiriko-nee will barge in without knocking anyways so it’s not that it matters.</p>
+<p>“1.5 times huh… Kiriko-nee’s school is a through-train?” </p>
+<blockquote>
+<p><em>Ark</em>: In case you don't know what is through-train , its like you can study at the same school as your middle school in high school; in ASIA</p>
+</blockquote>
+<p>“It’s not though. And some of my college peeps have 3 times the amount of yours.”</p>
+<p>3 times… I can’t believe such a scary school exists.</p>
+<p>Don’t tell me, our school already has little homework!</p>
+<p>Whilst looking at the mountain of homework, I opened the English exercise book.</p>
+<p>“Ohiro-sensei looks so kind normally, who would have though his homework was this thick… And the words, so small and scrambled…”</p>
+<p>My eyes hurt. If it’s like this I wouldn’t mind more pages but… I just hoped the words could be larger.</p>
+<p>“Probably it’s because he is gentle he put so much work up. He hopes you to learn much after all. And when you’re in a foreign country, if you can use English fluently, you could get a job easily.”</p>
+<p>“So it’s like that… I guess you could have this mindset.”</p>
+<p>Like if you learn the basics of English when you’re in high school.</p>
+<p>In the future, when eroges become a worldwide thing, you can live off this industry, or at least become one of the options.</p>
+<p>Also apparently if you learn English, it would also be easier to learn other languages.</p>
+<p>…No, if you think carefully. Outside, especially America, don’t they have a high restriction on 18 plus games? It seems like a hard thing to import them to North America.</p>
+<p>High school students like us, just one little mistake and it’s going to be labeled as child p*rn.</p>
+<p>“An English job eh…”</p>
+<p>“It also benefits you when you’re traveling, after all English is used in many countries.”</p>
+<p>“Putting this aside Kiriko-nee.”</p>
+<p>“What?”</p>
+<p>“You smell of wine…”</p>
+<p>It’s not a rare thing for Kiriko-nee to be at home, she comes here to eat all the time. But yesterday she just drank with mum and dad like crazy. They waited until we were asleep and quietly drank until sunrise.</p>
+<p>But they still can go on a trip huh, just how strong are they…</p>
+<p>“Don’t give me this bullsh*t. I’m on holiday, just still have work that is.”</p>
+<p>Even when Kiriko-nee ate Ayame’s special breakfast, she still looks soulless.</p>
+<p>Then she wrapped her arms around my neck, I guess she’s still drunk.</p>
+<p>“Say, how much did you drink.”</p>
+<p>“Beer, sake, shochu, liquor… So much. I can’t even remember.”</p>
+<p>“For real, this is hindering the education of young people.”</p>
+<p>Wine, this stuff even if you smell it nearby. You already know ‘Ah, I can’t drink this’.</p>
+<p>If we wait until the legal age, will our minds change?</p>
+<p>Although you say this, but our house is basically full of secret stashes of wine.</p>
+<p>“You… Come on, make it quicker so you can drink wine. Even though you broke the rules of 18+ games, but you say you can’t break the rule of drinking.”</p>
+<p>“A teacher is encouraging a minor to drink…”</p>
+<p>“I did not encourage you, are your ears donkey ears.”</p>
+<p>“Don’t understand, are you still drunk?”</p>
+<p>“I won’t be drunk only on this level, but to say my head hurts a little.”</p>
+<p>“You’re just not awake, you’re annoying so get your ass off to the living room.”</p>
+<p>I shoved off Kiriko-nee’s arms.</p>
+<p>“Wah~ So cold. La~Lazy… I want to drink water.”</p>
+<p>After Kiriko-nee went out, I once again looked on the desk.</p>
+<p>The astonishing amount of workbooks and worksheets, it’s just like mount Himalayas.</p>
+<p>I need to finish this pile of homework within three days… If I can two days will be of the best.</p>
+<p>It’s already summer holiday, yet to speak it’s almost the end if the holiday.</p>
+<p>It’s the last day of this summer holiday… not.</p>
+<p>It’s the first day of the holiday and it’s 9 in the morning, I only woke up a bit late compared to usual.</p>
+<p>And from this morning the sunshine was so bright that the room feels like a desert, let’s just turn on the A.C. to lower the temperature.</p>
+<p>This is also something to soothe my feelings for this pile of work.</p>
+<p>If I plan to do my homework a little day by day, it wouldn’t take up so much time.</p>
+<p>You just have to replace the time of lazing around to finish your work and that’s it.</p>
+<p>But, I have a reason on why I must finish my homework early.</p>
+<p>When I tightened my resolve in front of my work, I can hear the phone ringing.</p>
+<p>“Tozaki?”</p>
+<p>My smartphone showed the name of my fellow eroge enthusiast: ‘Keita Tozaki’.</p>
+<p>“Yo. What's up? Calling me this early.”</p>
+<p>[Eh, you’re already starting your homework already?]</p>
+<p>“I’m just starting now. The temperature didn’t go down yet.”</p>
+<p>[Say, isn’t there too much work?]</p>
+<p>“I feel you.”</p>
+<p>[Then, let’s negotiate.]</p>
+<p>Now, as if we’re discussing something bad, Tozaki changed into a tone as if he’s bribing a guard.</p>
+<p>[Wanna divide our work, like last year?]</p>
+<p>I cut the call…</p>
+<p>On paper, it of course sounds like a good deal, I also think so myself but… Even I have that student pride… not…</p>
+<p>Well…</p>
+<p>“I modeled the plan yesterday, so let’s get this sh*t done asap.”</p>
+<p>If it’s for “Destiny Rider: Zero”, I can easily do this!</p>
+<p>And yes… My reason to complete the pile of homework is of course, the new eroge…</p>
+<hr />
+<h3><a class="header" href="#part-2" id="part-2">Part 2</a></h3>
+<blockquote>
+<p>TL: Potla (Rest of the chapter is TL'ed by me)</p>
+</blockquote>
+<p>Honestly speaking, book reports often turn into just a plain summary.
+While such a form is efficient for earning good grades, the disadvantage is that you have to read the entire work to be able to write a good summary.</p>
+<p>Frankly, I don't have time for that, and neither do I need to.
+I'd prefer writing my impressions about the work, meaning that there's a lot of freedom in the choice of the writing style.
+There's no rule saying that one needs to read the entire book to write a report on it.</p>
+<p>You can read the prologue, imagine how the story proceeds after that, and submit a writeup on it.
+Even that works as a proper book report.</p>
+<blockquote>
+<p><em>Potla:</em> Does it, though? lol</p>
+</blockquote>
+<p>For example, say a story starts with <em>&quot;The scenery of a snow country unfolded as soon as we got out of the tunnel...&quot;</em>.
+But I've personally never visited a snow country.
+How does it even feel to walk on snow?
+Is it similar to walking on top of sand?
+If I get the chance, I'd definitely want to visit such a country.
+However, I'm a little bad with the cold, so I must research on warm clothes resistant to the cold and snow.</p>
+<p>My book reports are always like this.
+But even that is a viable &quot;report&quot; on a &quot;book&quot;.
+While the teachers might not like it and frown upon it.</p>
+<blockquote>
+<p><em>Potla</em>: The Japanese for &quot;book report&quot; is literally 読書感想⽂, which means &quot;reading impression text&quot;. So Seiichi is basically playing around with the meaning of the kanji.</p>
+</blockquote>
+<p>&quot;Aight, that ends the Japanese language book report assignment.
+This is a good pace.
+I've already completed all the workbooks and printouts, so what's remaining is the History book report, and that IT-related essay.
+There's also that assignment for playing the score for the <a href="https://www.youtube.com/watch?v=Sso4vjERgdA">recorder</a>.
+But if I do it now, I'll probably forget by the time the terms starts.
+It's better to do it the day before the music class after the term starts...&quot;</p>
+<p>Tomorrow is the day 『Destiny: Zero』 gets released.</p>
+<blockquote>
+<p><em>Potla</em>: Clearly a parody of Fate: Zero, if you're still wondering.</p>
+</blockquote>
+<p>Pulling an almost all-nighter to work on the homework was definitely a worthwhile endeavor.</p>
+<p>&quot;It's good that I don't have to be sleepless when I line up to buy the game at dawn tomorrow.&quot;</p>
+<blockquote>
+<p><em>Potla</em>: wtf, that's some real dedication.</p>
+</blockquote>
+<p>I'm sleepy right now, but will probably be able to sleep at 8 pm or something tonight.</p>
+<p>In other words, I can engross myself in playing with my best physical condition.</p>
+<p>I'm unstoppable now. Hahaha, I feel like I rule the universe right now!</p>
+<p>As I was feeling high from sleeplessness while taking a short break, my phone snapped me out of the euphoria by shouting its ringtone.</p>
+<p>&quot;Who dares bring me out of my own world... wait, it's Ayame.&quot;</p>
+<p>The name on the screen was my classmate, Ayame Kotoko.</p>
+<p>As soon as I tap on the receive button--.</p>
+<p>&quot;Aramiya! Please save me!&quot;</p>
+<p>Her desperate scream traversed from my right ear all the way to my left.</p>
+<p>I had reflexively pulled the phone away from my ear as the volume was loud enough to tear my membrane.</p>
+<p>But listening to her urgent plea, I put the phone back on my ear.</p>
+<p>&quot;What happened!? Are you in danger?&quot;</p>
+<p>&quot;Literally, so.
+I'm blocked from all sides, and have no route of escape!&quot;</p>
+<p>&quot;Calm down.
+Did you get into some sort of trouble again?
+In that case, you should first get in touch with the police---&quot;</p>
+<p>&quot;Ah, no. It's nothing of that sort.&quot;</p>
+<p>&quot;Do not hit whoever is cornering you.
+That'll lead to a disadvantage......
+Wait, what do you mean by nothing of that sort?&quot;</p>
+<p>&quot;Y-yeah.
+I'm not in an accident or assault or anything.&quot;</p>
+<p>Is that so.
+I had assumed she got herself wrapped up into some such accident again.</p>
+<p>&quot;If you're not in trouble, don't call with such an urgent tone!&quot;</p>
+<p>&quot;It is an extreme urgency though!&quot;</p>
+<p>&quot;Meh, I get it.
+What happened?
+Anyway for now, take some deep breaths and talk about what's up.&quot;</p>
+<p>&quot;<em>Exhale</em>〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜…… <em>Inhale</em>〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜……&quot;</p>
+<p>Ayame started taking deep breaths.
+It was interesting that she was honestly doing it thorough and thorough.</p>
+<p>Immediately after, she asks me for consultation.</p>
+<p>&quot;Umm, you see.
+The homework doesn't seem like it's gonna end.&quot;</p>
+<p>&quot;Huh?&quot;</p>
+<p>&quot;I-I tried my best on my own!
+I've solved whatever I could solve by myself!
+B-but, there are so many problems that I don't get how to solve.
+I don't think I can finish everything by today... or even tomorow...&quot;</p>
+<p>&quot;...You don't really have to keep me company though.
+I'm only working hard to finish the homework so that I can play 『Destiny: Zero』 without anything holding me back.
+Pretty sure you'll get enough time to finish the homework after finishing the game, anyway.&quot;</p>
+<p>&quot;Y-you're right about that, but!
+I have many events during summer too...
+I also want to complete the homework right now, and then play 『Destiny: Zero』.
+Together with you...&quot;</p>
+<p>&quot;As for me, I don't mind showing you the answers on the last day of vacation though.&quot;</p>
+<p>&quot;For real!?
+You're a life-saver... wait, no no!!
+If I do that I'll definitely lag behind studies in the second term.
+There's no point in that.
+I want to do the homework using my own effort as much as I can.
+B-but, you see... I alone can't do it...&quot;</p>
+<p>In other words, she wants me to teach her.</p>
+<p>Well, if she can get better at studies during the second term, it'll definitely help combat the bad rumors about her that were going rampant.</p>
+<p>Plus, she's this motivated right now. She'll definitely lose interest in studies if I drop water on her at this timing.</p>
+<p>I do have leeway, so not like I have to hesitate in teaching her.</p>
+<p>&quot;Got it.
+You can come over to my place.&quot;</p>
+<p>&quot;I-is it fine?&quot;</p>
+<p>&quot;Wasn't that what you wanted to do from the beginning?
+No need to act so reserved.&quot;</p>
+<p>&quot;Thanks! I'll go over right now!&quot;</p>
+<p>And then she cut the call in a hurry.</p>
+<p>&quot;Well then, guess I'll prepare some barley tea...&quot;</p>
+<blockquote>
+<p><em>Potla</em>: What's there to prepare for serving barley tea lol.</p>
+</blockquote>
+<p>At that moment, my phone started ringing again.</p>
+<p>&quot;Who's it this time? Ayame again?&quot;</p>
+<p> </p>
+<p>The intercom rang loudly.</p>
+<p>&quot;Y-yo!&quot;</p>
+<p>Ayame was waiting as I opened the door.</p>
+<p>Her eyes are slanted upwards, and has a twintail hairstyle; the usual appearance.</p>
+<p>It's not as much as the time when we went out together last time, but her outfit looked neat and tidy.
+Complete with a hat, she does look a bit boyish.
+As it was summer, her clothes had slightly increased exposure, revealing her fair skin quite a bit.
+Her shirt was on the shorter side, making her belly button almost visible, and due to the short pants, her healthy thighs were also in view.</p>
+<p>She was also carrying a huge sports bag over her shoulder.</p>
+<p>&quot;You sure have a lot of luggage...&quot;</p>
+<p>&quot;The homework given to us is too much.
+Why is our school so sadistic about it?&quot;</p>
+<p>We were talking about that yesterday. Me and Tozaki.</p>
+<p>&quot;The amount was about the same last year too, though.&quot;</p>
+<p>&quot;A-anyway, I didn't submit the homework last year.&quot;</p>
+<p>Ayame awkwardly averts her eyes and plays dumb.
+Just as I thought.</p>
+<p>You can get promoted to the next class even if you don't submit the homework.
+However, it'll probably affect the school's internal evaluation.</p>
+<p>&quot;Well, whatever.
+Come on in.
+I have no intention of wasting time here.&quot;</p>
+<p>&quot;Roger!&quot;</p>
+<p>We climb the stairs and enter my room together.</p>
+<p>&quot;Oh, it's a wild Ayamecchi~&quot;</p>
+<p>&quot;I-Ibu!?&quot;</p>
+<p>Our classmate, Suwama Ibu was already sitting on the table in my room.</p>
+<p>Donning a fluffy pair of twintails as usual, she was also wearing candy-shaped hairclips.
+While her makeup isn't as intense as before, it could be said that it was just the amount to make it look natural.</p>
+<p>She was wearing an off-shoulder top that completely showed off her shoulders, which, paired with the miniskirt, made her getup excessively exposing.</p>
+<p>Ayame looks at me with a face that clearly asks <em>why?</em></p>
+<p>&quot;This girl is the same as you.
+She said she doesn't get a thing.&quot;</p>
+<p>&quot;N-no, but Ibu won't really play Destiny:Zero, right?&quot;</p>
+<p>&quot;Well, that's true...
+But apparently she couldn't solve a single problem, so was quite lost about it.
+It'll be troublesome if she doesn't submit anything and the teachers turn unwanted attention to our club.&quot;</p>
+<p>Thanks to the Student council and Kiriko-nee, we somehow were able to avoid the inspection, but the topic of our club did get raised during the teacher's meeting.
+If we do anything stupid, we'll catch their eyes this time for sure.</p>
+<p>On top of that, there are teachers who would disagree with allowing students to play... games in the club.
+Churning up any kind of trouble can lead to our club getting disbanded.
+If our grades are bad, then that's exactly what they will hook onto, and say stuff like <em>&quot;Your grades went down because you play games!&quot;</em>.</p>
+<p>I really want to avoid such worthlessly stupid scenarios.</p>
+<p>&quot;Even though I thought it'll only be the two of us...&quot;</p>
+<p>Ayame leaks out her thoughts.
+Hey, I can clearly hear you.</p>
+<p>It's not like I'm bullying her or anything.</p>
+<p>&quot;Anyway, let's get started already.
+Let's start with the toughest hurdle first: math.&quot;</p>
+<p>&quot;Yeay～ I'm counting on you, Seiichi!
+Let's try our best together, Ayamecchi!&quot;</p>
+<p>&quot;Ugh... well, I must finish the homework at all costs.
+It's time to get serious!&quot;</p>
+<p>Both of them are sure motivated.</p>
+<p>Well then.
+I start reading the prologue of the history book for the book review thing.</p>
+<p> </p>
+<p>Just as they start working together on the math workbook,</p>
+<p>&quot;By the way, Ibu, how're you so calm?<br />
+Do you not even feel the slightest bit nervous when you're here?
+I come up to Aramiya's room a lot too, but I'm always nervous about it.&quot;</p>
+<p>&quot;Uhh, well, I've been here quite a few times, I guess?
+But if I'm visiting after a long time, it does make me ner～vous--&quot;</p>
+<p>&quot;Wha...!&quot;</p>
+<p>&quot;I used to come here a lot before sending that love letter--.
+Together with Akocchi and all.
+I was pretty surprised that the room changed a lot compared to the last time I visited～.
+It's a lot more empty now.&quot;</p>
+<p>Ayame throws a sharp look again.
+You're scaring me.</p>
+<p>&quot;It was against my will.
+Not like we've done anything anyway.&quot;</p>
+<p>Kyouya, Izumi, and Ibu were the usual guests.</p>
+<p>Well, I was never really in their group, but for some reason they liked coming over to my place.
+Even then, the total number of times could probably be counted on my two hands.</p>
+<p>Thinking back on it now, it might have been something like an evaluation test.
+<em>&quot;Should we put this guy in our group?&quot; &quot;Let's observe him a bit more.&quot;</em>
+Something like that.</p>
+<p>&quot;I'm jealous of you...&quot;</p>
+<p>&quot;Ehehe～
+Well, you could call it the privilege of a childhood friend, maybe～?&quot;</p>
+<p>&quot;Ughhhhhhh&quot;</p>
+<p>While our houses are close, she's never come to wake me up in the morning or picking me up on the way to school, y'know.</p>
+<p>I don't remember going to school together even once.</p>
+<p>In that sense, she's a complete failure of a childhood friend by eroge standards.
+In the first place, if your childhood friend that you reunite with after years becomes a flashy gal, people will complain about the work.
+At least 50% of them will.</p>
+<p>&quot;B-but, I came to wake you up in the morning!
+That means we're already childhood friends.&quot;</p>
+<p>......What's with that logic, Ayame. You don't make sense.</p>
+<p>&quot;Ehh～
+You met Seiichi for the first time in high school, right Ayamecchi?
+That's not a childhood friend anymore...&quot;</p>
+<p>&quot;You could just call us childhood friends that didn't know each other till recently!&quot;</p>
+<p>&quot;But, neither of you are children anymore～&quot;</p>
+<p>&quot;No! If you think you're a childhood friend, you're one!&quot;</p>
+<p>The discussion takes a philosophical turn.
+Seems like they're fighting over nomenclature of the term &quot;childhood friend&quot; itself.</p>
+<p>&quot;Well, the definition of childhood friend is a mystery.
+Even if you know each other from high school, when you turn into adults you could call each other childhood friends.&quot;</p>
+<p>Ayame immediately approves of my opinion and nods enthusiastically.</p>
+<p>&quot;Exactly!&quot;</p>
+<p>&quot;...While it's fine to pursue the mystery of childhood friends, can you guys first solve the problem of summer vacation homework?&quot;</p>
+<p>The two of them return their attention to their notebooks immediately.</p>
+<p>What am I gonna do with these two...</p>
+<p> </p>
+<p>Soon after--</p>
+<p>&quot;By the way, what're you reading, Aramiya?&quot;</p>
+<p>Ayame asks with a voice full of curiosity.
+I really wish you could concentrate for at least 30 minutes though.</p>
+<p>&quot;The history book.
+We have homework on it, remember?&quot;</p>
+<p>&quot;If I remember correctly, it's the book review, right? For world history...
+『<em>German Bismark Empire</em>』?
+You're sure reading some strange book for it.&quot;</p>
+<p>&quot;It's not strange.
+I'm not interested in the content that much either.
+It's just for the sake of writing a report.&quot;</p>
+<p>Ibu's face turns into a pout hearing my words.</p>
+<p>&quot;Both world and Japanese history are so annoying―.
+What'll you do learning about the old times?
+It's so useless.
+I'm never gonna take history research as a future job, y'know～&quot;</p>
+<p>&quot;Yeah...&quot;</p>
+<p>Ayame agrees with Ibu's words wholeheartedly.</p>
+<p>Man, history is interesting though.</p>
+<p>There's even an expression called &quot;history girl&quot;.
+Well, although the term refers to girls that are familiar with a particular time period, or seem to have inclination towards knowledge about some specific people.</p>
+<p>Most importantly, in VNs that use historical events as their base tend to have an interesting gap between the real person and the way they're depicted as characters.
+Like, isn't it amazing when a genius tactician yells &quot;The enemy is here!&quot;?
+That kind of line is cheating.
+I mean, no matter what they do it's so cute you could die.
+There are even instances of loose settings, such as characters yelling &quot;Here we go! Yeah!&quot; in English during the <a href="https://en.wikipedia.org/wiki/Sengoku_period">Sengoku era</a>.
+That one really caught me off-guard.</p>
+<p>Even though the content itself follows historical events, if they execute it properly people will be unhappy about it, and if they show the story from a new perspective, it might take people by surprise.</p>
+<p>And that's exactly why I wish to learn about the Sengoku period or the <a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E5%BF%97_(%E6%AD%B4%E5%8F%B2%E6%9B%B8)">Sangokushi period</a>, which appears frequently as the setting of several games.
+Even if it's completely useless for my coursework in school!
+As for the Sangokushi era, it's enough if the battle of Sekiheki is mentioned, and even in the Sengoku era, there's not much other than the famous battle of <a href="https://en.wikipedia.org/wiki/Battle_of_Sekigahara">Sekigahara</a>.
+The battle of <a href="https://en.wikipedia.org/wiki/Battle_of_Okehazama">Okehazama</a> doesn't even appear in some games.
+Well, the Sangokushi and Sengoku period's common sense can be overturned at any time by a single primary source, and it's a mystery about why it's important.</p>
+<blockquote>
+<p><em>Potla</em>: A bit shaky on my interpretation of the above battles. I don't know anything about Japanese history, after all... But if you're more familiar with the english version, Sengoku period is called the &quot;warring states period&quot; and Sangokushi era is the &quot;three kingdoms period&quot;, so if you wanna look into it in more detail, feel free to look these up.</p>
+</blockquote>
+<p>&quot;Didn't you learn about the reason for learning history in primary school?
+It's to learn from your past and use the knowledge in the present world.
+Because we have a past is why we can fix our old mistakes.
+The way you guys are dismissing history as unneeded is itself a recipe for repeating your past errors, you know.&quot;</p>
+<p>&quot;C'mon, we're not gonna make any mistakes anyway～&quot;</p>
+<p>&quot;...You sure sound very confident.&quot;</p>
+<p>While it's a pain to explain it properly, I think I should fix that misconception of hers.
+It might help her understand the lessons in the next term better.</p>
+<p>...Although it'll sound like preaching, and I don't feel good acting like an instructor.</p>
+<p>&quot;Then, listen closely, Ibu.
+If Ako asks you to send out a fake love letter to deceive someone again, like she did during primary school, would you do it again?&quot;</p>
+<p>&quot;Eh? Of course not.
+It's not good to deceive others.
+...Seiichi, don't tell me you want to be deceived?&quot;</p>
+<p>&quot;Like hell I want that!
+Just as you said, it's bad to deceive others.
+Okay, so why did you understand that it's not a good thing?&quot;</p>
+<p>&quot;Well, that's because Seiichi and Ayamecchi got mad at me...&quot;</p>
+<p>&quot;That exactly is history.
+Your personal history.
+Although its scale is tiny, because you have that kind of experience, you know it's bad to send out fake love letters, and won't do that anymore.&quot;</p>
+<p>&quot;Ah, I see...&quot;</p>
+<p>It feels kinda strange to see her being convinced about such an obvious thing.</p>
+<p>I guess this lack of common sense is what makes her character.
+I should make some effort to correct that personality.</p>
+<p>&quot;Say if you had read in some book that it's not good to deceive people or that you shouldn't trust what everyone says without questioning it before you were asked to send that love letter, you wouldn't have taken the same action back then, right?&quot;</p>
+<p>&quot;Yep yep!&quot;</p>
+<p>&quot;History is exactly that, a compilation of human experiences, and its purpose is to make sure people don't repeat the same mistakes.
+Because we understand our old mistakes, society can keep functioning as it does right now.&quot;</p>
+<p>&quot;Gotcha!&quot;</p>
+<p>...Well, her replies are enthusiastic.
+But did she really get all that?</p>
+<p>Whatever.
+I'll just believe in her for now.</p>
+<p>I close my book and point at the cover.</p>
+<p>&quot;Bismark, the person who this book is based on, also said 'Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.'&quot;</p>
+<p>&quot;History is amaazingー!&quot;</p>
+<p>While Ibu was impressed by my speech, Ayame squinted her eyebrows.</p>
+<p>&quot;Say, isn't history just the compilation of how others failed?
+Unless you fail yourself and run into trouble, people don't really learn to not make those mistakes, right?&quot;</p>
+<p>&quot;Quite sharp.
+I think what you're saying is absolutely correct.
+Apparently the words Bismark said back then were different from what we learn right now.
+After all, we humans repeat our old mistakes time and again, and try to get around them to overcome hurdles.
+It's the same for games.
+Learning from the design flaws, they make the system even better and better.&quot;</p>
+<p>&quot;Hmm...&quot;</p>
+<p>&quot;Well, if people don't really learn from their old mistakes, then they're beyond saving.&quot;</p>
+<p>&quot;Yeah...&quot;</p>
+<p>&quot;...That's why, stop making small talk and do your homework.&quot;</p>
+<p>&quot;&quot;Okay...&quot;&quot;</p>
+<p>It seems like I made a huge digression while trying to make that single point.</p>
+<p> </p>
+<p>&quot;Aramiya, could you help with this problem...&quot;</p>
+<p>&quot;That one...
+Look up Page 26 in the textbook, and think about it.
+If you still don't get it, ask me again.&quot;</p>
+<p>&quot;Okay, thanks.&quot;</p>
+<p>While asking me questions, the two proceed clearing away their printouts steadily.</p>
+<p>The completed work started creating heaps on the table.</p>
+<p>&quot;All rightey! I'm done!&quot;</p>
+<p>Ibu, finishing her homework, put her mechanical pencil on the table and rejoiced.</p>
+<p>Her smile seems to say that she's satisfied with completing it.
+However, it's only her math homework that got finished.</p>
+<p>&quot;I'm tired～ <em>nudge nudge</em>&quot;</p>
+<p>Feeling liberated from completing one of her homework assignments, Ibu sticks her head onto my side and rolls it like a drill.</p>
+<p>&quot;Praise me, praise me～&quot;</p>
+<p>&quot;You only finished a small part of what you have to do.
+Don't act spoiled.
+You have a long road in front of you.
+In VN terms, you only finished playing through the prologue.&quot;</p>
+<p>&quot;Mph!
+You keep saying things I can't make sense of～!
+Isn't it fine to just give me some headpats～.
+So, pet me, pet me～!&quot;</p>
+<p>&quot;You're being super annoying!
+Are you a cat or what?!&quot;</p>
+<p>Since she was being troublesome, I lightly patted her head.</p>
+<p>As if pleased by it, Ibu rolled herself back to her original position.</p>
+<p>&quot;Ehehe～&quot;</p>
+<p>&quot;Goodness gracious...&quot;</p>
+<p>I take back my words, she's not a cat.
+More like, she's a dog.</p>
+<p>&quot;...&quot;</p>
+<p>I thought that finally the annoying event was over, but now Ayame was glaring daggers at Ibu.</p>
+<p>But immediately she returned her sight back to the notebook and started solving the problems at a furious pace.</p>
+<p>&quot;I'm done!&quot;</p>
+<p>Then, Ayame turned her eyes towards me, as if expecting something.</p>
+<p>What does she want from me?</p>
+<p>After a while, she inclined her head to the side in puzzlement about something.</p>
+<p>And then, she reservedly brought her head closer.</p>
+<p>&quot;...Why even you!&quot;</p>
+<p>&quot;N-no!
+It's unfair if it's only Suwama!&quot;</p>
+<p>&quot;It's only fair!
+It's my reward for finishing early～&quot;</p>
+<p>&quot;I see, is that the rule! Understood!&quot;</p>
+<p>&quot;There's no such rule! You don't understand!&quot;</p>
+<p>But both of them ignored my words.</p>
+<p>Ayame and Ibu both immediately returned to their problem sets.</p>
+<p>Well, if this makes them finish their homework faster, there's nothing to lose... however, I really don't know how I should feel about it.</p>
+<p>It's embarrassing to think that petting is a reward, or even a rewarding endeavor to begin with.
+Am I just being stubborn?</p>
+<p>Anyway, I'm not a good mentor, so I hope these guys finish their homework soon, so that I can be free.</p>
+<p>&quot;What, you're still on your third page, Suwama?
+I'm already on my fifth.&quot;</p>
+<p>&quot;Grr...
+I-I'm only doing it carefully!&quot;</p>
+<p>They sure are going at each other's throats.
+The rivalry is clear.</p>
+<p>I wish they showed a bit of that motivation in school.
+It's definitely more efficient that way.</p>
+<p>&quot;Seiichi! How do I solve this part!?&quot;</p>
+<p>&quot;Let's see. Hmm, for that one...&quot;</p>
+<p>&quot;F-fast! If you don't speed up, Ayamecchi will--!&quot;</p>
+<p>&quot;I'm starting on my sixth page already.
+You're so slow, Suwama!&quot;</p>
+<p>It seems Ayame is fully in high spirits.
+Although what she's being worked up about is homework.</p>
+<p>&quot;Ah, Ibu. For this one, you use this formula like this.&quot;</p>
+<p>&quot;Oh, gotcha!&quot;</p>
+<p>Seemingly having found the trick to solve the problem, Ibu returns her gaze back to the workbook.</p>
+<p>Although a bit dumb, she's quite serious and doesn't ask for the answer.
+Well, it'd be bad if she didn't show at least that much effort.</p>
+<p>And then, Ayame asked for my help.</p>
+<p>&quot;I should be able to get it if I just think a little bit more about it, but...&quot;</p>
+<p>Yeah, it's hard to ask someone else about something which you would be able to figure out in just a bit more time.</p>
+<p>It's human nature to try and solve problems on their own.
+Even more so if it's a problem which they think they can solve with just a little bit more effort.</p>
+<p>But, if you misjudge that border of when to ask others for help...</p>
+<p>&quot;Finished my 12th page～!&quot;</p>
+<p>All of a sudden, Ibu had overtaken Ayame.</p>
+<p>&quot;Ehehe～ I finished the problem set!
+Seichi! Pet me, pet me!&quot;</p>
+<p>&quot;Didn't I tell you earlier to not lean your body towards me!&quot;</p>
+<p>She came so close that her hair's fragrance tickled my nose.</p>
+<p>The room was already feeling hotter than usual because there are more people.</p>
+<p>But I don't want to decrease the AC's temperature any further. It'll get too cold.
+Why does the AC make it too cold or too hot if you just change the temperature setting by one degree?</p>
+<p>&quot;Grr...&quot;</p>
+<p>Ayame is frowning, a stark contrast with Ibu's happy mood.</p>
+<p>Her expression is easy to read...
+You know your goal today is to finish the homework, and not me, right?
+And you want to finish it all ASAP.</p>
+<p><img src="./src/P033.jpg" alt="Ibu-leaning-Ayame-glaring" /></p>
+<p>&quot;Dammit, I just finished too.
+Next one!&quot;</p>
+<p>&quot;I'm already done with 2 pages of the next worksheet～&quot;</p>
+<p>As if she's an expert at it already, Ibu further agitates Ayame.</p>
+<p>Just like that, both of them focus on the last math homework set.</p>
+<p>&quot;I won't lose!&quot;</p>
+<p>&quot;Neither will I～!&quot;</p>
+<p>Only if they did all this competition without involving me in it...</p>
+<p>Well, they'll probably take a break soon, so guess I'll go prepare some tea for the guests.</p>
+<p> </p>
+<p>&quot;&quot;It's done-!&quot;&quot;</p>
+<p>After finishing their math homework at about the same time, the two were sprawled out on the floor together.
+Although Ibu was moving forward at a breakneck pace, Ayame caught up with her with her tremendous concentration.
+As expected, she could not overtake Ibu, but even just finishing together was amazing.</p>
+<p>Both of them sprawled out on the floor, completely beaten.
+Well, they did finish two entire workbooks and 15 pages of printout worksheets in less than an hour.</p>
+<p>I also put in a lot of effort, but took around two hours to finish all that.
+Well, whether their answers are correct or not is something only god will know.</p>
+<p>&quot;Well, for now, good work.&quot;</p>
+<p>I put on the table a tray with vanilla ice cream and a lactic acid drink that I had gone downstairs to get earlier.</p>
+<p>&quot;Ah, please don't mind me.&quot;</p>
+<p>&quot;Is it fine, Seiichi?&quot;</p>
+<p>&quot;I brought it up for you two to have.
+Don't turn my labour meaningless.&quot;</p>
+<p>&quot;Thank you～&quot;</p>
+<p>&quot;Then, I-I'll have some...&quot;</p>
+<p>Ibu and Ayame, with their happy-go-lucky and nervous attitudes, scooped up a bit it ice cream with their spoons.</p>
+<p>Most probably Kiriko-neesan had bought those to have after bathing... but well, there was no name written on the food.</p>
+<p>In our house, the rule is that anything that doesn't have a name on it is common property, and we can't complain about who eats it.
+I checked the back too, just to be sure, but there was no name on it.
+I've had a bad experience before with eating a treasured ice cream that had a certain someone's name on the back...</p>
+<p>&quot;Uuu, it makes my overworked brain feel so much more relaxed.&quot;</p>
+<p>&quot;Why is it so delicious to have sugar after studying? It's so healing.&quot;</p>
+<p>&quot;There are few ways to relieve stress as easily and quickly as eating.
+It's no wonder people eat like a fiend after a stressful workout.&quot;</p>
+<p>Well, I don't care about any of that. Ice cream is delicious.</p>
+<p>All I have left for my homework is an essay on information technology, and it'll be done before dinner. 
+I'm gonna have it eay.</p>
+<p>During such a leisurely break time---.</p>
+<p>&quot;Ayame-san and Ibu-san are here!?&quot;</p>
+<p>The noisy guy has arrived.</p>
+<p>The number one person that I didn't wish showed up at this timing.</p>
+<p>&quot;Hallo hallo, Kiyomi～n!&quot;</p>
+<p>&quot;Yo, Kiyomi. You look quite energetic.&quot;</p>
+<p>&quot;Of course!
+Although I'd have been more energetic if Mr. Virgin wasn't here.&quot;</p>
+<p>After smiling at Ayame and Ibu, she gave me a scornful look. What a jerk...</p>
+<p>&quot;We're studying here.
+If you came here to play, go out.&quot;</p>
+<p>&quot;All I see is you gobbling ice!&quot;</p>
+<p>&quot;We're taking a break.
+Your timing is bad.&quot;</p>
+<p>Why is it that others that come to check on you studying (especially parents) only drop by when you're taking a break?</p>
+<p>&quot;Tch.&quot;</p>
+<p>Clicking her tongue like that, Kiyomi leaves the room.</p>
+<p>Mhm, that felt good.</p>
+<p>&quot;I'm back!&quot;</p>
+<p>...Or so I thought.
+She's back.</p>
+<p>Holding a tray with three servings of mizu-youkan on it.</p>
+<blockquote>
+<p><em>TL Note:</em> soft adzuki-bean jelly.</p>
+</blockquote>
+<p>&quot;Ayame-san, Ibucchi! It's not much, but please help yourselves.&quot;</p>
+<p>&quot;Is that fine?
+No, I already had ice cream though.&quot;</p>
+<p>&quot;Don't mind, Ayame-san!
+I bought this after getting your message from earlier!
+The one you said is delicious!&quot;</p>
+<p>&quot;Message?&quot;</p>
+<p>&quot;Yes. 
+It is members-only...
+But you can enter immediately if you are introduced by someone you know.
+We have a very large group chat where we exchange information on sweets on a daily basis.&quot;</p>
+<p>While she was talking so proudly about it, I reached out to grab a plate.
+But she immediately noticed it and pulled the tray away.</p>
+<p>&quot;There's no mizu-youkan for you!&quot;</p>
+<p>Knew it.</p>
+<p>Dammit, this is why I wanted to snatch it away before she had noticed.</p>
+<p>&quot;Rather, having so much sugar will slow your brain, so I'll pass.&quot;</p>
+<p>&quot;This much is fine for girls～.
+Ice cream and mizu-youkan both will fit snugly in our extra stomach.
+The nutrition from there goes to another place anyway～&quot;</p>
+<p>&quot;Where the heck does it go?&quot;</p>
+<p>I've never heard of such a stupid story before.
+Is she just acting like she knows it all, or is she being deceived by the Internet?
+Where she picks all this up is a real mystery...</p>
+<p>Kiyomi handed out mizu-youkan to the two of them, and sat down with hers as if it's the most natural thing to do.
+Right opposite my seat.</p>
+<p>&quot;Rather, why are you doing homework right at the beginning of summer vacations?&quot;</p>
+<p>&quot;Not like you got anything to do with it.
+Look, if I don't finish my homework, it'd keep nagging me at the back of my mind while playing games.
+Plus, the latter half of the vacation is full of work to do.
+This year, at least.&quot;</p>
+<p>&quot;Ah, that's right, you're going on a trip.&quot;</p>
+<p>&quot;Why do you speak as if it's someone else's problem?
+You're coming with too, remember?&quot;</p>
+<p>&quot;You mean I've gotta put up with you Virigin during the trip?&quot;</p>
+<p>&quot;No, well. I don't mind staying behind though.&quot;</p>
+<p>Well, it was all proposed by Hatsushiba in the first place.</p>
+<p>I thought it'd be good if they just made it into a girls-only trip.</p>
+<p>&quot;It's already decided, so it's not good if you don't come.&quot;</p>
+<p>&quot;That's right, Kiyomin.
+Both brother and sister need to come, you know～&quot;</p>
+<p>When I casually tried to evade going with them, Ayame and Ibu blocked my escape route.</p>
+<p>Hearing that, Kiyomi gave me a disapproving look.
+I mean, of course.</p>
+<p>&quot;Well, I don't know what to say to Hatsushiba if I cancelled right now.&quot;</p>
+<p>I was the one who came up with the idea of a reward for Ayame and Ibu, so there's no way out of this.</p>
+<p>Besides, the excursion will be treated as a club activity.
+Even though Saitani will join as a guest.</p>
+<p>&quot;What about your homework, Kiyomi?
+You first years also have it, right?&quot;</p>
+<p>Hearing Ayame's question, Kiyomi made a smug face.</p>
+<p>&quot;Ahaha, I ended all that long ago!&quot;</p>
+<p>&quot;Eh?&quot;</p>
+<p>&quot;I finished it on the day of the term closing ceremony.
+Because I want to play around all summer vacation.&quot;</p>
+<p>&quot;Are you serious...&quot;</p>
+<p>Then why don't you go play around somewhere already.</p>
+<p>Why is she at home...
+Just go play till you can't move anymore.
+Are you just satisfied with buying some mizu-youkan?</p>
+<p>&quot;Then, go outside to play.&quot;</p>
+<p>&quot;Already done with playing outside for today.
+I came back home cause the store was closing.&quot;</p>
+<p>She could've just come back home later at night, but cut it short and came back in the middle of the day.</p>
+<p>&quot;Rather, let's restart our homework.
+Kiyomi, you're in the way so get out.&quot;</p>
+<p>&quot;It doesn't matter if I stay, right?
+I'm interested in what you guys have for homework in the second year.&quot;</p>
+<p>She seemed to pay me no heed as she started flipping through our homework.</p>
+<p>&quot;Oh, looks quite easy.&quot;</p>
+<p>Hearing that, Ayame and Ibu got shocked.</p>
+<p>&quot;Y-you understand it?&quot;</p>
+<p>Ayame asked in confusion, to which Kiyomi nodded smugly.</p>
+<p>&quot;Yep!
+I have the impression that it is an extension of the first year.
+I can probably solve the stuff here by applying what we learned in the first semester.&quot;</p>
+<p>Ayame shakily answered &quot;O-Oh.&quot;</p>
+<p>While observing their interaction, Ibu tapped on my shoulders.
+&quot;Say, Seiichi. Is Kiyomin super smart?&quot;</p>
+<p>&quot;Originally she should've been able to get into a much better school.&quot;</p>
+<p>However, not sure why, but giving the excuse of it being close, she enrolled into Mikage High School.</p>
+<p>It was quite odd of her.
+Even though I, the object of her hate, is in the same school.</p>
+<p>&quot;Ayame-san, Ibucchi. Should I help you?
+I think I can solve the problems.&quot;</p>
+<p>Although Kiyomi said that with good intention, Ayame shook her head.</p>
+<p>&quot;Nah, it's meaningless if you don't do this kind of thing by yourself.&quot;</p>
+<p>Ibu also agreed.</p>
+<p>&quot;Yeah～
+It's not good to just have someone else help you.&quot;</p>
+<p>Kiyomi clasped her hands together, ecstatic about something.</p>
+<p>&quot;As expected!
+Both of you are really giving your all!&quot;</p>
+<p>It was an obvious thing though, are her eyes rotten or something?</p>
+<p>&quot;And in contrast, when you look at Mr. Virgin...&quot;</p>
+<p>&quot;I finished all my homework by myself, you know?&quot;</p>
+<p>&quot;Of course, why are you saying the obvious?&quot;</p>
+<p>...I want to punch her.
+What's with that double standards?
+Doesn't she feel any contradiction in her words?</p>
+<p>&quot;We've rested long enough.
+Let's restart.&quot;</p>
+<p>&quot;Aight. Gotcha.&quot;
+&quot;Yep～&quot;</p>
+<p>&quot;Please do your best!&quot;</p>
+<p>She isn't leaving though.</p>
+<p>I wish she went back to her own room.
+I can't calm down with my sister around.</p>
+<p>Three hours later--.</p>
+<p>&quot;I can't anymore～...&quot;</p>
+<p>&quot;My brain won't work anymore. At my limit...&quot;</p>
+<p>Ibu and Ayame both flatten on the table.</p>
+<p>Apparently they burned out after working hard for so long.</p>
+<p>Kiyomi was warmly watching over them while fanning them to cool them off.</p>
+<p>&quot;Thank you for your hard work～&quot;</p>
+<p>However, the two only thanked Kiyomi and didn't try to get up.</p>
+<p>Studying is stressful.
+While it can be fun to learn about something new, it can come back to get you in the form of excessive fatigue.</p>
+<p>They say exams are a fight against this fatigue.
+Or rather, hitting into the thing before the fatigue gets you.
+In order to fly, you gotta raise your left leg, but while raising, you also need to bring up your right leg, and then in the meantime, your left leg... it's this kind of recklessness.</p>
+<p>However, the homework isn't over yet.</p>
+<p>&quot;Ibu is well, okay I guess...
+But Ayame, are you okay like this?
+『Destiny Zero』 will not wait for you at this rate.&quot;</p>
+<p>Hearing that, Ayame's fingers twitched on the floor.
+It was the sign of a zombie waking up.</p>
+<p>However, her body didn't get up, and that was the only reaction to my words.</p>
+<p>She seems to think that this is the end of the line for her.</p>
+<p>&quot;I... really want to end it all... but any more than this...&quot;</p>
+<p>Sad tearful words come out of Ayame's mouth.</p>
+<p>If she wants to quit now, it doesn't really matter to me at all.
+But since I started looking after them, I feel obligated to see it to the end.</p>
+<p>&quot;Well, you don't really have to finish it all by forcing yourself.
+After 『Destiny Zero』 and the trip... you'll have the later half open.
+At your current pace, just having a week should be enough.&quot;</p>
+<p>&quot;But...&quot;</p>
+<p>&quot;It's not really efficient to do it all at once, you know.
+In fact, you might end up forgetting a lot of what you did at the end of the vacation.&quot;</p>
+<p>&quot;Uu...&quot;</p>
+<p>&quot;Even then, do you want to finish your homework?&quot;</p>
+<p>Hearing my question, Ayame put her hand on the table slowly, as if giving it a light tap.</p>
+<p>Putting in force into her fingers and eventually her arm, she forced her upper body up.
+The table started making creaking noises under her force.
+It started shaking under pressure.
+Wait, it might break at this rate.</p>
+<p>&quot;I wont give up...!
+So that... I can keep my promise of playing 『Destiny Zero』 at the same time with Aramiya and so that we can exchange our impressions...!&quot;</p>
+<p>The flames in her eyes... felt like they were burn bright and filling her entire body with vitality.</p>
+<p>No matter who looked at her, her motivation would be apparent.</p>
+<p>&quot;I-if Ayamecchi is gonna do it, I'll do it as 
+well!&quot;</p>
+<p>Maybe from rivalry, Ibu also rose up while gritting her teeth.</p>
+<p>&quot;Oohh, your motivation is back!&quot;</p>
+<p>Kiyomi clenched her fists in excitement, looking at the two.</p>
+<p>&quot;Why are you even that much obsessed with finishing the homework, Ibu?&quot;</p>
+<p>I can understand Ayame's case, but I have no clue why Ibu is getting so riled up about it.</p>
+<p>At my question, Ibu smiles at me.</p>
+<p>&quot;For me... I want to play with Seiichi more!
+I want to complete the homework fast, and play with you again to regain our memories from elementary school days...!&quot;</p>
+<p>&quot;Ibu...&quot;</p>
+<p>Memories, I see. 
+If those days had been uneventful, I would have continued my friendship with her until our graduation, and we would have most probably ended up in the same middle school.</p>
+<p>But that didn't happen. I stopped going to school because of the love letter incident, and she stopped seeing me because of Ako's advice, and our relationship was cut off.</p>
+<p>Ibu must have had no idea what was going on at the time.</p>
+<p>&quot;If things weren't like how they were, I could have had many happy memories with Seiichi...!&quot;</p>
+<p>I guess that's what she means by regaining those memories... she actually wishes to redo those days.</p>
+<p>The summer vacation homework, which creates time limits, is a hindrance to that wish.
+Whether or not I would accept Ibu's offer of having fun together during a summer vacation in the first place is another matter, but I understand her reasoning.</p>
+<p>But, alas.
+My energy has not been able to keep up with the desires of the two of them.</p>
+<p>Their arms were flailing, and they were both loathe to do their homework.
+They are doing more homework than ever before, and their instincts are telling them that they are at their limit.</p>
+<p>Still, their eyes are not dead.</p>
+<p>They are full of energy, determined to finish their homework.</p>
+<p>&quot;Well, you know what.
+I understand your reasons now.&quot;</p>
+<p>&quot;Aramiya...&quot; &quot;Seiichi...&quot;</p>
+<p>&quot;However, we can't finish at this rate.&quot;</p>
+<p>&quot;&quot;...&quot;&quot;</p>
+<p>&quot;That's why, I will turn into a demon now.
+In order to demolish the wall that you perceive as your limit.&quot;</p>
+<p>The two look at each other quizzically.</p>
+<p>Or rather, they were confused about what I was gonna do next.</p>
+<p>&quot;She should be here anytime soon.&quot;</p>
+<p>As I muttered that to myself, the intercom rang with a godly timing.</p>
+<p>I got up and headed for the front door.
+The two of them looked a little anxious, but I didn't care.
+I had to turn my heart into a devil's to help them with their homework.</p>
+<p>I then lead my the helper into the room.</p>
+<p>As soon as the door opened, the girls turned their heads toward us, with expressions of astonishment and shock on their faces.</p>
+<p>&quot;Good morningー&quot;</p>
+<p>It was the arrival of Hatsushiba Yuuka.</p>
+<p>Well, it was afternoon already though.</p>
+<p>&quot;Ah, Hatsushiba-san.
+Helloー&quot;</p>
+<p>Kiyomi bows her head in an easygoing manner.</p>
+<p>However.</p>
+<p>&quot;Yu-Yuuka!?&quot;</p>
+<p>&quot;Hatsushibacchi... W-why?&quot;</p>
+<p>Both of them made round eyes in astonishment.</p>
+<p>&quot;I'm not good at teaching, and I don't understand a lot of things.
+That's why I thought it would be best to leave it to a professional at the job.
+So, I asked her for help.&quot;</p>
+<p>&quot;Professional?
+That's some strange language you're using, Aramiya-kun.
+But well, I'm looking forward to working with both of you.&quot;</p>
+<p>Then, Ayame and Eve both hastily stood up as if they had regained their full energy.</p>
+<p>Hatsushiba reached out and held them by the shoulders.
+Kiyomi gave them a sympathetic look, as if to say, &quot;Amen.&quot;</p>
+<p>&quot;Where are you going, Cotton?&quot;</p>
+<p>&quot;N-no,... umm...&quot;</p>
+<p>&quot;Suwama-san, I heard you were so dead tired that you couldn't move, but seems like you still are very energetic.&quot;</p>
+<p>&quot;T-that's not true, you know?
+I can't even stand up anymore.&quot;</p>
+<p>&quot;Anyway, just sit back down quietly, okay?&quot;</p>
+<p>&quot;&quot;...Okay.&quot;&quot;</p>
+<p>Even though I summoned her, her expression is scary.
+Although she's smiling.</p>
+<p>Taking the empty seat, Hatsushiba glances over the homework sheets.</p>
+<p>&quot;You started just around noon, and yet only progressed this far, ehー&quot;</p>
+<p>&quot;W-we... tried our best, you know?&quot;</p>
+<p>&quot;Yep yep! Just what Ayamecchi said!&quot;</p>
+<p>&quot;...Aramiya-kun, don't you think you're too lax about this?&quot;</p>
+<p>The air in the room froze.
+She's so scary.
+Should I increase the temperature setting of the AC?</p>
+<p>&quot;I-is that so?
+I thought I was rushing them a lot.&quot;</p>
+<p>&quot;Aramiya-kun is kind, after all.
+Can't be helped, I guess.&quot;</p>
+<p>Ayame and Ibu both started shaking like newborn babies.</p>
+<p>Their body remembers the terror from the last study session. (Remember v3c2? lol)</p>
+<p>&quot;All right then.&quot;</p>
+<p>Hatsushiba rolls up the notebook into a cylindrical weapon and hits the table.</p>
+<p>The casual sound felt even more eerie than before.</p>
+<p>&quot;Should we start with the summer vacation homework then.&quot;</p>
+<p>The devil sergeant appears on Hatsushiba's face along with a dark aura.</p>
+<p>Was the summer vacation homework something that instilled this much despair in people's minds...?</p>
+<p> </p>
+<p>Thirty minutes into Hatsushiba's tutoringー</p>
+<p>&quot;Cotton, didn't we go over this five minutes ago?&quot;</p>
+<p>The devil sergeant was on a roll.</p>
+<p>&quot;I-I'm sorry, I'm sorry.&quot;</p>
+<p>&quot;Just once is fine.&quot;</p>
+<p>&quot;I'm sorry!&quot;</p>
+<p>&quot;Suwama-san.
+Were you asleep during classes?
+Why don't you understand even this much?&quot;</p>
+<p>&quot;Weeeehh, I'm sorryー!&quot;</p>
+<p>&quot;I had to restrain myself because we had to keep quiet in the library last time.
+But this time I have Aramiya-kun's permission, so I'll go all out, okay?&quot;</p>
+<p>Hatsushiba had power flowing through her entire body, and was full of enthusiasm.</p>
+<p>&quot;...You were restraining yourself with that?&quot;</p>
+<p>&quot;Did you say something? Aramiya-kun?&quot;</p>
+<p>&quot;Nope, nothing.&quot;</p>
+<p>Hearing Hatsushiba's words, Ayame and Ibu's faces went totally pale.
+When she's the one mentoring, she's really scary.</p>
+<p>This must be what it is like to train new recruits in the army.
+War is a very vain thing.
+It hurts people's hearts and bodies.</p>
+<p>&quot;I-I can't go on anymore.&quot;</p>
+<p>&quot;If you don't have the energy, then you have to fight!
+Like a rag!
+You're all dust-clothes!
+Understood!?&quot;</p>
+<p>&quot;&quot;Yessir!&quot;&quot;</p>
+<p>Where is this wartime education?
+It's almost as if we're going to hear even words banned from airing soon.
+Maybe I should buy a buzzer to override her words while I'm at it.</p>
+<p>I'm going to concentrate in finishing the rest of my essay so I don't get caught up in her line of fire.</p>
+<p>&quot;This here is wrong.
+Do you want to start over from middle school!?&quot;</p>
+<p>&quot;Uuuuu...&quot;</p>
+<p>&quot;If it's you two now, you should be able to do it!
+You just need to continue with it!&quot;</p>
+<p>&quot;I'm tired though...&quot;</p>
+<p>&quot;Move your hands, not your mouth!
+You don't have any energy to expend on anything other than doing my homework!
+Don't waste any of your excess energy.
+You are nothing but homework-killing machines!&quot;</p>
+<p>She's saying crazy things.</p>
+<p>But it was worth it. The two of them completely regained their energy and were doing their homework. </p>
+<p>&quot;Devil sergeant seems like a pretty lukewarm description at this point...&quot;</p>
+<p>Her complete transformation makes her comparable to the evil god who loves to fight from Indian mythology, while at the same time being the guardian god of Buddhism.
+Perhaps it is more appropriate to call her Sergeant Ashura.</p>
+<p>&quot;Aramiya-kun, what are you mumbling about since a moment ago?&quot;</p>
+<p>You could almost read the words &quot;smile&quot; from her words.
+That's what makes it even more scary.</p>
+<p>&quot;Nothing, ma'am...&quot;</p>
+<p>I had expected it to be a strong-acting poison, but to think it would be this intense...</p>
+<p>Can't really do anything about poison that has spread throughout the body.</p>
+<p>Sorry about this, Ayame and Ibu.
+I'll pick up your bones, so please finish your homework the best you can.</p>
+<p>&quot;All right, let's kick it up a gear!&quot;</p>
+<p>&quot;Eh...&quot;</p>
+<p>&quot;The gear is at max though...!?&quot;</p>
+<p>&quot;You're still on low gear!&quot;</p>
+<p>It seems like you could hear the sound of the two's souls leaving their bodies.</p>
+<p>In exchange, Hatsushiba's back was emitting a black aura.</p>
+<p>...Isn't that sucking out the life force out of those two?</p>
+<p> </p>
+<p>10pm. 
+After a cheap delivery for dinner and a quick bath on Kiyomi's recommendation...
+The three girls are still struggling with homework.</p>
+<p>The air around them had calmed down, and Ibu called someone.</p>
+<p>&quot;Hello, mom?
+I'll stay over at a friend's place tonightー!
+See you tomorrow～&quot;</p>
+<p>Seems like it was her family.
+The call was very short.</p>
+<p>I might be mishearing things though, cause she just said something outrageous.</p>
+<p>&quot;Wait a minute, Ibu. What did you just say?</p>
+<p>&quot;What?
+I told mom I'm staying over because it doesn't look like it's going to end.&quot;</p>
+<p>&quot;I didn't authorize it!
+Oh, wait.
+You mean you're staying at Ayame's place?&quot;</p>
+<p>&quot;Hmm, but Kiyomi said it's okay to stay over tonight.</p>
+<p>　That idiot of a little sister.</p>
+<p>No matter how you think about it, it's outrageous to have girls stop over in a house with a guy in it.</p>
+<p>&quot;Oi, Ayame and Hatsushiba.
+Don't tell me you guys too...?&quot;</p>
+<p>&quot;W-well.
+Kiyomi said it's fine, so we kinda...&quot;</p>
+<p>&quot;Eheheー.
+I already called my mom about it.&quot;</p>
+<p>Ayame replied awkwardly, and Hatsushiba gave a troubled smile.</p>
+<p>I feel like I am being set up.</p>
+<p>&quot;Then it can't be helped.
+Can I go sleep now?&quot;</p>
+<p>&quot;Of course not, you idjit!&quot;</p>
+<p>Kiyomi, who was lurking in a corner, yelled an abuse.
+Wait, I forgot that she was in the room for a while now.</p>
+<p>&quot;Take responsibility till the end.
+Not only are you a virgin, you're even trying to escape responsibility.
+That's exactly why people say guys are trash, you know.&quot;</p>
+<p>&quot;I don't want you to call me trash though...&quot;</p>
+<p>In the first place, I don't see what this responsibility bullshit is all about.</p>
+<p>&quot;It's okay, just hang out till the end.
+That's what they call resourcefulness of a guy, you know!?&quot;</p>
+<p>&quot;That kind of sexism is what leads to conflict.
+Don't use a man's resourcefulness as a convenient excuse.&quot;</p>
+<p>&quot;Do you want to eat a drop kick!?&quot;</p>
+<p>&quot;I shall not yield to violence!&quot;</p>
+<p>Kiyomi grits her teeth in irritation.</p>
+<p>She seemed to have some semblance of rational thought left in herself to not act out like this in the middle of the night.</p>
+<p>&quot;You're such a genius at lowering your stock value as a man!&quot;</p>
+<p>&quot;You're annoying.
+I just want to sleep already in preparation for tomorrow.
+That stock value or whatever won't help me get my food tomorrow!&quot;</p>
+<p>I have plans to go to the store tomorrow at 11am, to buy the game just in time for the store opening.</p>
+<p>Then I'll return home immediately, install on my PC and boot it up.</p>
+<p>The schedule for tomorrow was perfectly planned out in my head already.
+There's no changing of my plans!</p>
+<p>&quot;Then, I'll bring all three into my room, okay?&quot;</p>
+<p>Kiyomi made such a proposal while pouting at me.</p>
+<p>&quot;If you wish to, please feel free.&quot;</p>
+<p>&quot;You just gave the okay, right?&quot;</p>
+<p>She said again, as if asking for confirmation.</p>
+<p>What's there to confirm about it though?</p>
+<p>I'm sure it's nothing I should be concerned about---wait a sec?</p>
+<p>&quot;...Kekkekkekkekkek&quot;</p>
+<p>That's one wicked laugh.</p>
+<p>Wait, I remember now.</p>
+<p>Kiyomi's current room used to be Dad's private room, so there's a lot of stuff left in there.</p>
+<p>Since Kiyomi herself doesn't put in a lot of stuff, she never moved those things to anywhere else.</p>
+<p>That's right.</p>
+<p>In her storage room, she keeps our graduation albums and all the pictures that were taken since our childhood!</p>
+<p>&quot;Well, I'm okay with bringing them in though?&quot;</p>
+<p>Graduation albums are fine, but it'll be bad if they use my childhood pictures as snacks.</p>
+<p>I glance over the three.</p>
+<p>They will probably be working on their homeworks, but suppose Kiyomi said something like,
+&quot;I have some old albums, would you like to have a look?&quot;...
+Those three will definitely bite the bait.</p>
+<p>Were there any pictures in there that I didn't want them to see?
+I can't remember at all.
+Either way, the idea of showing pictures from my childhood is too much of an embarrassment.</p>
+<p>&quot;...Got it.
+It's okay if I just stick it out until the end, right?!&quot;</p>
+<p>I hate this, but it can't be helped.</p>
+<p>While it wasn't in my plan to play the game after pulling an all-nighter, it's much better than having my old photos exposed.</p>
+<p>&quot;I-is that fine?&quot;</p>
+<p>Ayame was a bit surprised.</p>
+<p>&quot;Well, guess it's fine.
+Plus, I was the one that called over Hatsushiba.
+Even though she's staying up, I can't go ahead and escape early.&quot;</p>
+<p>&quot;You didn't have to worry about that, though.&quot;</p>
+<p>Although Hatsushiba said that with a smile, I probably shouldn't quit midway like this.</p>
+<p>&quot;Anyway, let's get over with it fast.
+Just so that we can turn it into our blood and muscles.&quot;</p>
+<blockquote>
+<p><em>TL Note</em>: This is a proverb that means something like &quot;just so that we can gather some experience and learn stuff that will help us in the future&quot;.</p>
+</blockquote>
+<p>&quot;Yessir～!&quot;</p>
+<p>Ibu replied with a voice that only had enthusiasm in it, and turned to her homework again.</p>
+<p>Ayame also looked down at her homework and began to fill in the answers with a pen in her hand.</p>
+<p> </p>
+<p>As it was getting later and later, more lights of our neighboring houses were getting turned off.</p>
+<p>&quot;It's doneー!&quot;</p>
+<p>&quot;I-i-i-it's doneeeeeeeeeeeeeee!&quot;</p>
+<p>Ayame and Ibu cheer together.</p>
+<p>They both had a refreshing look on their faces from accomplishing something.</p>
+<p>&quot;Aramiya!&quot;</p>
+<p>Ayame raised her hands and pointed her palms towards me.</p>
+<p>Guessing what she wanted, I clapped her hands with my own.</p>
+<p>A pleasant clapping sound echoed through the room.</p>
+<p>&quot;Hehehe...&quot;</p>
+<p>Albeit exhausted, she looked satisfied.</p>
+<p>And then,</p>
+<p>&quot;I'm done... for...&quot;</p>
+<p>With a thump, Ibu crashed onto the table.</p>
+<p>&quot;You are both amazing.
+Really, good job!&quot;</p>
+<p>Hatsushiba also acknowledged how fast they finished the homework.</p>
+<p>It was now 2 am.
+The so-called time when the grass and trees are asleep.</p>
+<p>Four hours had passed since then.
+Almost all their homework had been complete.
+The art homework was about painting landscapes, so we decided to hold it off until a later date.</p>
+<p>Although it was unrelated to me and Hatsushiba, who had taken music instead.</p>
+<p>&quot;Gaa--- guu---&quot;</p>
+<p>&quot;Suu--- pii---&quot;</p>
+<p>In the blink of an eye, they had both fallen asleep.
+I had like looked away for five seconds, and they were already sleeping like logs.</p>
+<p>&quot;Of course they are tired.&quot;</p>
+<p>Hatsushiba gave the two a worried look.</p>
+<p>&quot;Well, you were so harsh on them...&quot;</p>
+<p>&quot;Did you say something? Aramiya-kun?&quot;</p>
+<p>&quot;Nope, nothing...&quot;</p>
+<p>&quot;...Yu-yuuka also thinks that she overdid it a little this time, you know?&quot;</p>
+<p>Is that true?
+Really, she was acting like trying to fix a broken old TV by keeping hitting it over and over.</p>
+<p>&quot;I-I see.&quot;</p>
+<p>&quot;You don't believe meー?&quot;</p>
+<p>Hatsushiba leans forward and pinches my cheek.</p>
+<p>&quot;Hat're you hoing&quot;</p>
+<p>&quot;You naughty boyー&quot;</p>
+<blockquote>
+<p><em>TL Note</em>: Woah? Wait a second?</p>
+</blockquote>
+<p>She pinches it and pulls and pushes it.
+Seems like she's in a special all-nighter kind of mood.
+Hatsushiba would never do something playful like this, usually.</p>
+<p>&quot;Yawn...
+Yuuka is also, feeling sleepy...&quot;</p>
+<p>After being satisfied, she plomps on the table and starts making sleeping noises.</p>
+<p>Hatsushiba also kept teaching them, and must be really tired.</p>
+<p>However, I think it would be a pity to leave them sleeping on the table like this...
+But my sleepiness is at the limit and I can't lay out the futons or take the four of them, including Kiyomi, to Kiyomi's room.</p>
+<p>My eyelids also closed naturally.</p>
+<p>I surrender myself to sleepiness.</p>
+<p>Ah... I'll probably have a good night's sleep...</p>
+<p> </p>
+<p>&quot;Wake up!&quot;</p>
+<p>I felt a gushing sensation like a needle going through my ears.</p>
+<p>&quot;Uwah!?&quot;</p>
+<p>I wake up by reflex.</p>
+<p>A Yasha with a terrifying expression reflected in my vision.</p>
+<p>Kiriko-neesan was standing there with an anger mark on her forehead.</p>
+<p>&quot;Hmm...?&quot;</p>
+<p>&quot;What～&quot;</p>
+<p>&quot;What happenedー... Mmm...&quot;</p>
+<p>Ayame, Ibu, and Hatsushiba all start to wake up.</p>
+<p>&quot;Eh, Kotani-sensei!?&quot;</p>
+<p>Ayame shuddered, and then stood upright as if a steel bar had been inserted into her back.</p>
+<p>&quot;You lot, sit down there for a minute.&quot;</p>
+<p>Kiyomi also jumped up.</p>
+<p>As everyone was moving restlessly-</p>
+<p>&quot;Fast!&quot;</p>
+<p>We all hurriedly sat down in seiza in front of Kiriko-neesan.</p>
+<p>Her anger had not abated a single bit.</p>
+<p>&quot;When I returned home late at night, I find boys and girls sleeping together in the same room!
+Don't you know the saying that boys and girls can't share the same seat after they're 7?
+What would you do if a mistake occured!?&quot;</p>
+<p>&quot;No, I mean, such a thing won'tー&quot;</p>
+<p>&quot;Seiichi, I don't remember allowing you to debate with me.&quot;</p>
+<p>&quot;...Yes ma'am.&quot;</p>
+<p>She's really angry.</p>
+<p>I was a bit too carelss as well, right?
+Even though I had myself said that it was bad for girls to stay over at a guy's place.</p>
+<p>&quot;I can't let you all sleep like this.
+If you can go back now, do it.
+I'll send you off by car.&quot;</p>
+<p>&quot;Ehh～. I want to stay over at Seiichi's place.&quot;</p>
+<p>&quot;Not happening.
+Especially not you.
+You want to get suspended right at the beginning of the second semester?&quot;</p>
+<p>&quot;O-oka～y...&quot;</p>
+<p>Ibu quickly nodded with trembling voice when Kiriko-neesan glared at her.</p>
+<p>Following suit, Ayame and Hatsushiba also gave an okay, knowing that there was no negotiation.</p>
+<p>&quot;Kiyomi, you too. Go back to your room and sleep.&quot;</p>
+<p>&quot;Yeah. Kiri-nee, you're too strict, you knowー&quot;</p>
+<p>&quot;It's you who's lax about everything.
+Why don't you try fixing that habit of yours!&quot;</p>
+<p>Kiyomi heavily dragged her body out of my room.</p>
+<p>But well, her staying in my room for around 10 hours is so rare. I wonder how many years ago was the last time we did that.</p>
+<p>&quot;I'm going to start the car to warm the engine.
+You guys pack up your stuff while you can.&quot;</p>
+<p>Kiriko-neesan left the room first.</p>
+<p>&quot;Oh well. Let's go back.&quot;</p>
+<p>As Ayame started packing her stuff, Hatsushiba and Ibu also followed suit.</p>
+<p>They all headed down one by one.</p>
+<p>&quot;O-i. Are you guys done yet-?&quot;</p>
+<p>Just as everyone finished putting on their shoes, Kiriko-neesan opened the main door and rushed them on.</p>
+<p>&quot;Looks like they're done.
+...Alright you three, see you later.&quot;</p>
+<p>&quot;Yeah. Good night, Aramiya-kun.&quot;</p>
+<p>&quot;Ou, Hatsushiba.
+Thanks for coming to our rescure.&quot;</p>
+<p>&quot;Not at all.
+If it's Aramiya-kun's request, I'll come over anytime.
+Even taking time off work.&quot;</p>
+<p>&quot;At least do your job...&quot;</p>
+<p>&quot;Ahaha.&quot;</p>
+<p>A bit sleepy, Hatsushiba left through the doorway with a smile.</p>
+<p>&quot;Thanks, Seiichi!&quot;</p>
+<p>&quot;Yeah.
+Somehow even you ended up staying around till so late.&quot;</p>
+<p>&quot;Nah.
+It was fun doing the same stuff together with everyone.
+All goodー!&quot;</p>
+<p>Ibu had a huge smile on her face.</p>
+<p>Well, she seemed to have fun.
+It was a good experience for her.</p>
+<p>&quot;T-thanks, Aramiya.&quot;</p>
+<p>&quot;Don't mention it.&quot;</p>
+<p>&quot;Umm...&quot;</p>
+<p>Then Ayame stopped speaking and spun her words as if she was having difficulty saying them.</p>
+<p>&quot;Tomorrow, why don't we go buy <em>that</em> together?&quot;</p>
+<p>She looked a little anxious and embarrassed.</p>
+<p>Going shopping together, huh?</p>
+<p>　I wouldn't mind that much.
+If I have someone to talk to while I'm waiting in line, I can feel the time go by faster.</p>
+<p>&quot;Okay, sure.
+Then, I'll meet you in front of the store 30 minutes before it opens.&quot;</p>
+<p>&quot;Alright! I'm looking forward to it!&quot;</p>
+<p>Ayame happily leaves the house.</p>
+<p>&quot;At least make it... looking forward to the game okay?&quot;</p>
+<p>　No, well, it's fine.</p>
+<p>　In fact, I'm sure Ayame is looking forward to the game as well.</p>
+<p>But it's really been years since we all did our summer vacation homework together.</p>
+<p>　It's like we've gone back to the old days a little bit, like with Kiyomi.</p>
+<p>　When the three of them left the house and the house became quiet, I felt a little bit nostalgic, tinged with a sense of loneliness.</p>
+<p>　Of course, everything is different from when I was in elementary school.</p>
+<p>&quot;Oh well, I guess I'll just take a bath and go to bed. Let's take a bath and go to bed.&quot;</p>
+<p>　Tomorrow, or rather, today!
+Finally, the release of 『Destiny Zero』.</p>
+<p>　It's the biggest game I've been waiting for in a long time!</p>
+<hr />
+<p><em>POV: Kotoko</em></p>
+<p>Kiriko dropped off Hatsushiba and Ibu, leaving Ayame alone.</p>
+<p>　With Ayame in the passenger seat, the car approached her house.</p>
+<p>&quot;You're the last one,&quot; she said. 
+&quot;You should be a little more concerned about girls around your age sleeping in a man's room.
+I don't care if you get attacked.&quot;</p>
+<p>&quot;I'm sorry...
+But Aramiya says he is not interested in real life girls anyway.&quot;</p>
+<p>&quot;Well, that's true.
+But you never know when a man is going to change completely.
+Seiichi is no exception.&quot;</p>
+<p>&quot;I'll be careful...&quot;</p>
+<p>Ayame apologizes while being ill at ease.</p>
+<p>She was dealing with a teacher, and the fact that she was Seiichi's cousin made her feel like a borrowed cat.</p>
+<p>&quot;Ah.
+That's right, Ayame.
+Don't use forced honorifics with me in private.
+You have to be careful at school, though.&quot;</p>
+<p>&quot;Umm, but...&quot;</p>
+<p>&quot;I get all mushy when you use honorifics out of the blue.
+It used to be rather easier for me to get involved with you when you were a yankee.
+At least for me.&quot;</p>
+<p>&quot;By any chance, was Kotani-sensei also... a delinquent?&quot;</p>
+<p>It was probably because of what Kiriko had told her. 
+She had the feeling that they might be the same kind of people, which made Ayame's tone a little less formal.</p>
+<p>&quot;During high school.
+In the eyes of the public, I was probably one.&quot;</p>
+<p>&quot;All the way till graduation?&quot;</p>
+<p>&quot;Yea.
+Well, I did what I wanted, I was satisfied with it, and I was a serious delinquent who didn't bother the teachers.&quot;</p>
+<p>&quot;What do you mean... by a serious delinquent?&quot;</p>
+<p>&quot;I mean, I only looked like a delinquent.
+Well, I used to do some school shaming and stuff.&quot;</p>
+<p>&quot;That's worse than me.&quot;</p>
+<p>&quot;Hahaha. I don't want you to be the one telling me that.&quot;</p>
+<p>While cracking such jokes, Kiriko softened her expression.</p>
+<p>&quot;Anyway, you really changed a lot.&quot;</p>
+<p>&quot;I-is that true?
+I do hear that quite often.&quot;</p>
+<p>&quot;So, how is it?
+A proper school life?
+I can see by your face these days that you're having a good time.&quot;</p>
+<p>&quot;It's all thanks to Aramiya.&quot;</p>
+<p>&quot;Is that so!
+As expected of my pride, my cousin!&quot;</p>
+<p>Kiriko displayed a broad smile.</p>
+<p>For some reason, Seiichi is not fond of her, but Ayame thinks she is a good teacher.</p>
+<p>Even before she got her current look, she had been warned several times.</p>
+<p>At the time, she ignored him and was annoyed with him, but now she thinks that he was trying to rehabilitate her somehow.</p>
+<p>&quot;It was worth asking that guy to rehabilitate you.&quot;</p>
+<p>&quot;Eh......&quot;</p>
+<p>Ayame replied to Kiriko's casual remark in a distracted manner.</p>
+<p>&quot;While it's not in his character...
+After all, he pulled it off splendidly.
+Well, I didn't really want him to rehabilitate you, but at long as he could help you feel that school life was fun...&quot;</p>
+<p>The latter half didn't enter Ayame's ears.</p>
+<p>In the middle of chaos, Ayame suddenly recalled.</p>
+<p>When she had been invited to the clubroom for the first time, Aramiya was called to the staff room on air.</p>
+<p>&quot;......&quot;</p>
+<p>ーDon't tell me, the reason Aramiya hangs out with me, is all because he was told to do so by sensei...?</p>
+<p>Such a thought unwillingly flows through her head.</p>
+<p>Looking back on it, it was strange that Aramiya went along so conveniently with a delinquent like herself.</p>
+<p>Because he had no choice.
+Because he was told to do it.
+Reluctantly.
+Unwillingly.
+While disagreeing with it.
+Against his own will.</p>
+<p>The more she thinks about it, the wilder and darker her thoughts getー.</p>
+<p>It was impossible for the unsettled heart to reach out to the correct answer...</p>
+<p><em>Chapter 1 complete</em></p>
+<blockquote>
+<p>Last updated: 2022/12/19.</p>
+</blockquote>
+<blockquote>
+<p>Potla: Since no one has done any real progress on this project yet, and some people are looking forward to progress, I'm restarting TL. Updates will be more regular in winter this year. Planning to finish Volume 4 at my own pace, at least.</p>
+</blockquote>
+<h1><a class="header" href="#chapter-2-is-she-your-girlfriend" id="chapter-2-is-she-your-girlfriend">Chapter 2: Is she your girlfriend?</a></h1>
+<blockquote>
+<p>Disqus Volume 4 <a href="https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html">here</a>.</p>
+</blockquote>
+<p>...I'm sleepy.</p>
+<p>I slept at 4am after Ayame and the others left, but had to wake up at 9.</p>
+<p>&quot;Sleeping for five hours should be just enough, but... she's still not here.&quot;</p>
+<p>It's already 30 minutes before the store opens -- that is, 10:30 in the morning.
+However, Ayame is nowhere to be seen.</p>
+<p>I'm currently standing outside the building that has the game shop.
+There's already a huge line.
+The few staff were trying to manage the line while shouting instructions.
+The general public were stealing glances at the scene as if wondering what was happening, but they didn't seem to have much of an interest in it.</p>
+<p>Under the clear sky, the line was gradually growing in front of me.
+There was no fancy roof to block the sunlight, so the direct sun was shining and the people in line were drenched in sweat.
+I heard that today would be the hottest day of the year.</p>
+<p>But I can't get in line yet.
+It's also not legal to get in line now and try to get Ayame in when she arrives.
+Even if you are temporarily away from the line, there are rules and manners that apply to queuing up.
+It is the same at Comiket.
+If someone breaks the line, they should die.</p>
+<p>I could just ignore Ayame and get in the line, but...
+There would be no point in coming to buy the game together.
+I'll only get to see her disgruntled face again if I do that.</p>
+<p>&quot;Although I'll be able to buy it for sure because of my advance reservation...&quot;</p>
+<p>But, you start to lose patience if there's a delay in getting it in hand like this.</p>
+<p>&quot;It's hot...&quot;</p>
+<p>As I waited, groggy from the heat, I saw a girl running from the end of the line.</p>
+<p>&quot;S-sorry! I'm late!&quot;</p>
+<p>Ayame finally arrives.
+From her breathing, you can see that she has been running at full speed, but being late is being late.</p>
+<p>&quot;You're late.
+We won't make it in time for the opening of the sales.&quot;</p>
+<p>&quot;I-I'm sorry! Really!&quot;</p>
+<p>&quot;Well, it's fine.
+Let's quickly get in lineー&quot;</p>
+<p>As soon as I turned around to get in line with her, I felt a chill run down my spine.</p>
+<p>&quot;Aramiya?&quot;</p>
+<p>Ayame tilted her head at me.</p>
+<p>She is oblivious to the danger that is closing in on us.</p>
+<p>We must take action as soon as possible...!</p>
+<p>&quot;...Ayame. We'll naturally move away from this line.
+Right now!&quot;</p>
+<p>&quot;Eh, why?
+Didn't we come here to get in the line?&quot;</p>
+<p>&quot;Just follow me!&quot;</p>
+<p>There was no time to explain.</p>
+<p>Getting off the side of the line, we passed by the people acting like &quot;we came from the other side of the line, and didn't meant to cut into it.&quot;</p>
+<p>The people in line look at me quizzically, but I don't care.
+Everyone here is a genuine otaku.
+In fact, we should be all like-minded.</p>
+<p>Ahh, 『Destiny Zero』　is getting farther and farther away...</p>
+<p>&quot;W-what's wrong, Aramiya?
+Are you angry at me?&quot;</p>
+<p>&quot;It's not that.&quot;</p>
+<p>I just wanted to avoid the dangerous situation that could have happened.</p>
+<p>&quot;Just give them the feeling that you're here to have fun in front of the station.
+Otherwise, it's not good.&quot;</p>
+<p>&quot;O-okay. If Aramiya says so.&quot;</p>
+<hr />
+<p><em>To be continued</em></p>
+<blockquote>
+<p>Last TL Update: 2022/12/22
+<em>Chapter 2 Progress:</em> 3/56 pages (5%)</p>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>

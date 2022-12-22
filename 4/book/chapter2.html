@@ -1,0 +1,267 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Chapter 2: Is she your girlfriend? - Chuuko demo Koi ga Shitai! - 04</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="text_style.css">
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="affix"><a href="cover.html">Cover Illustrations</a></li><li class="affix"><a href="prologue.html">Prologue</a></li><li class="affix"><a href="chapter1.html">Chapter 1: Isn’t there too much homework?</a></li><li class="affix"><a href="chapter2.html" class="active">Chapter 2: Is she your girlfriend?</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Chuuko demo Koi ga Shitai! - 04</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#chapter-2-is-she-your-girlfriend" id="chapter-2-is-she-your-girlfriend">Chapter 2: Is she your girlfriend?</a></h1>
+<blockquote>
+<p>Disqus Volume 4 <a href="https://https://potla1995.github.io/Chuuko-demo-Koi-ga-Shitai/4/index.html">here</a>.</p>
+</blockquote>
+<p>...I'm sleepy.</p>
+<p>I slept at 4am after Ayame and the others left, but had to wake up at 9.</p>
+<p>&quot;Sleeping for five hours should be just enough, but... she's still not here.&quot;</p>
+<p>It's already 30 minutes before the store opens -- that is, 10:30 in the morning.
+However, Ayame is nowhere to be seen.</p>
+<p>I'm currently standing outside the building that has the game shop.
+There's already a huge line.
+The few staff were trying to manage the line while shouting instructions.
+The general public were stealing glances at the scene as if wondering what was happening, but they didn't seem to have much of an interest in it.</p>
+<p>Under the clear sky, the line was gradually growing in front of me.
+There was no fancy roof to block the sunlight, so the direct sun was shining and the people in line were drenched in sweat.
+I heard that today would be the hottest day of the year.</p>
+<p>But I can't get in line yet.
+It's also not legal to get in line now and try to get Ayame in when she arrives.
+Even if you are temporarily away from the line, there are rules and manners that apply to queuing up.
+It is the same at Comiket.
+If someone breaks the line, they should die.</p>
+<p>I could just ignore Ayame and get in the line, but...
+There would be no point in coming to buy the game together.
+I'll only get to see her disgruntled face again if I do that.</p>
+<p>&quot;Although I'll be able to buy it for sure because of my advance reservation...&quot;</p>
+<p>But, you start to lose patience if there's a delay in getting it in hand like this.</p>
+<p>&quot;It's hot...&quot;</p>
+<p>As I waited, groggy from the heat, I saw a girl running from the end of the line.</p>
+<p>&quot;S-sorry! I'm late!&quot;</p>
+<p>Ayame finally arrives.
+From her breathing, you can see that she has been running at full speed, but being late is being late.</p>
+<p>&quot;You're late.
+We won't make it in time for the opening of the sales.&quot;</p>
+<p>&quot;I-I'm sorry! Really!&quot;</p>
+<p>&quot;Well, it's fine.
+Let's quickly get in lineー&quot;</p>
+<p>As soon as I turned around to get in line with her, I felt a chill run down my spine.</p>
+<p>&quot;Aramiya?&quot;</p>
+<p>Ayame tilted her head at me.</p>
+<p>She is oblivious to the danger that is closing in on us.</p>
+<p>We must take action as soon as possible...!</p>
+<p>&quot;...Ayame. We'll naturally move away from this line.
+Right now!&quot;</p>
+<p>&quot;Eh, why?
+Didn't we come here to get in the line?&quot;</p>
+<p>&quot;Just follow me!&quot;</p>
+<p>There was no time to explain.</p>
+<p>Getting off the side of the line, we passed by the people acting like &quot;we came from the other side of the line, and didn't meant to cut into it.&quot;</p>
+<p>The people in line look at me quizzically, but I don't care.
+Everyone here is a genuine otaku.
+In fact, we should be all like-minded.</p>
+<p>Ahh, 『Destiny Zero』　is getting farther and farther away...</p>
+<p>&quot;W-what's wrong, Aramiya?
+Are you angry at me?&quot;</p>
+<p>&quot;It's not that.&quot;</p>
+<p>I just wanted to avoid the dangerous situation that could have happened.</p>
+<p>&quot;Just give them the feeling that you're here to have fun in front of the station.
+Otherwise, it's not good.&quot;</p>
+<p>&quot;O-okay. If Aramiya says so.&quot;</p>
+<hr />
+<p><em>To be continued</em></p>
+<blockquote>
+<p>Last TL Update: 2022/12/22
+<em>Chapter 2 Progress:</em> 3/56 pages (5%)</p>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="chapter1.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a href="chapter1.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

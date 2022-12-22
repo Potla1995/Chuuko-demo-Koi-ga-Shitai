@@ -1,0 +1,8 @@
+* [Cover Illustrations](./cover.md)
+* [Prologue](./prologue.md)
+* [Chapter 1: Please listen to what I have to say!](./chapter1.md)
+* [Interlude](./interlude.md)
+* [Chapter 2: Then, should we go buy swimsuits?](./chapter2.md)
+* [Chapter 3: For me, you're good.](./chapter3.md)
+* [Chapter 4: At the very best, only as friends, OK!?](./chapter4.md)
+* [Epilogue and Afterword](./epilogue.md)
